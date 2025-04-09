@@ -3,11 +3,17 @@ import time
 import pytz
 from datetime import datetime
 
-from utils import get_daily_papers_by_keyword_with_retries, generate_table, back_up_files,\
-    restore_files, remove_backups, get_daily_date
+from utils import (
+    get_daily_papers_by_keyword_with_retries,
+    generate_table,
+    back_up_files,
+    restore_files,
+    remove_backups,
+    get_daily_date,
+)
 
 
-beijing_timezone = pytz.timezone('Asia/Shanghai')
+beijing_timezone = pytz.timezone("Asia/Shanghai")
 
 # NOTE: arXiv API seems to sometimes return an unexpected empty list.
 
@@ -17,44 +23,72 @@ current_date = datetime.now(beijing_timezone).strftime("%Y-%m-%d")
 with open("README.md", "r") as f:
     while True:
         line = f.readline()
-        if "Last update:" in line: break
+        if "Last update:" in line:
+            break
     last_update_date = line.split(": ")[1].strip()
     # if last_update_date == current_date:
-        # sys.exit("Already updated today!")
+    # sys.exit("Already updated today!")
 
-keywords = ["Time Series", "Spatio Temporal", "Graph Neural Networks"] # TODO add more keywords
 
-max_result = 100 # maximum query results from arXiv API for each keyword
-issues_result = 15 # maximum papers to be included in the issue
+def generate_toc(keywords):
+    toc_lines = ["## 📚 Content\n"]
+    for kw in keywords:
+        anchor = kw.lower().replace(" ", "-")
+        toc_lines.append(f"- [{kw}](#{anchor})")
+    return "\n".join(toc_lines) + "\n\n"
+
+
+keywords = [
+    "Time Series",
+    "Spatio Temporal",
+    "Graph Neural Networks",
+]  # TODO add more keywords
+
+max_result = 100  # maximum query results from arXiv API for each keyword
+issues_result = 15  # maximum papers to be included in the issue
 
 # all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
 # fixed_columns = ["Title", "Link", "Date"]
 
 column_names = ["Title", "Link", "Abstract", "Date", "Comment"]
 
-back_up_files() # back up README.md and ISSUE_TEMPLATE.md
+back_up_files()  # back up README.md and ISSUE_TEMPLATE.md
 
 # write to README.md
-f_rm = open("README.md", "w") # file for README.md
+f_rm = open("README.md", "w")  # file for README.md
 f_rm.write("# Daily Arxiv Tools\n")
 f_rm.write("Keywords: Time Series, Spatio Temporal, Graph Neural Networks\n\n")
-f_rm.write("The project automatically fetches the latest papers from arXiv based on keywords.\n\nThe subheadings in the README file represent the search keywords.\n\nOnly the most recent articles for each keyword are retained, up to a maximum of 100 papers.\n\nYou can click the 'Watch' button to receive daily email notifications.\n\nLast update: {0}\n\n".format(current_date))
+f_rm.write(
+    "The project automatically fetches the latest papers from arXiv based on keywords.\n\nThe subheadings in the README file represent the search keywords.\n\nOnly the most recent articles for each keyword are retained, up to a maximum of 100 papers.\n\nYou can click the 'Watch' button to receive daily email notifications.\n\nLast update: {0}\n\n".format(
+        current_date
+    )
+)
+
+# write Table of Contents
+toc = generate_toc(keywords)
+f_rm.write(toc)
 
 # write to ISSUE_TEMPLATE.md
-f_is = open(".github/ISSUE_TEMPLATE.md", "w") # file for ISSUE_TEMPLATE.md
+f_is = open(".github/ISSUE_TEMPLATE.md", "w")  # file for ISSUE_TEMPLATE.md
 f_is.write("---\n")
 f_is.write("title: Latest {0} Papers - {1}\n".format(issues_result, get_daily_date()))
 f_is.write("labels: documentation\n")
 f_is.write("---\n")
-f_is.write("**Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**\n\n")
+f_is.write(
+    "**Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**\n\n"
+)
 
 for keyword in keywords:
     f_rm.write("## {0}\n".format(keyword))
     f_is.write("## {0}\n".format(keyword))
-    if len(keyword.split()) == 1: link = "AND" # for keyword with only one word, We search for papers containing this keyword in both the title and abstract.
-    else: link = "OR"
-    papers = get_daily_papers_by_keyword_with_retries(keyword, column_names, max_result, link)
-    if papers is None: # failed to get papers
+    if len(keyword.split()) == 1:
+        link = "AND"  # for keyword with only one word, We search for papers containing this keyword in both the title and abstract.
+    else:
+        link = "OR"
+    papers = get_daily_papers_by_keyword_with_retries(
+        keyword, column_names, max_result, link
+    )
+    if papers is None:  # failed to get papers
         print("Failed to get papers!")
         f_rm.close()
         f_is.close()
@@ -66,7 +100,7 @@ for keyword in keywords:
     f_rm.write("\n\n")
     f_is.write(is_table)
     f_is.write("\n\n")
-    time.sleep(5) # avoid being blocked by arXiv API
+    time.sleep(5)  # avoid being blocked by arXiv API
 
 f_rm.close()
 f_is.close()
