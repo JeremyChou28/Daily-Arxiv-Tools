@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 09, 2025
+title: Latest 15 Papers - April 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -55,9 +55,4 @@ labels: documentation
 | **[RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](http://arxiv.org/abs/2502.03251v2)** | 2025-04-08 | <details><summary>Accep...</summary><p>Accepted by WWW 2025 (Oral)</p></details> |
 | **[STNAGNN: Data-driven Spatio-temporal Brain Connectivity beyond FC](http://arxiv.org/abs/2406.12065v2)** | 2025-04-08 |  |
 | **[Graph Neural Networks for Enhancing Ensemble Forecasts of Extreme Rainfall](http://arxiv.org/abs/2504.05471v1)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted paper at ICLR 2025 - Tackling Climate Change with Machine Learning Workshop (https://www.climatechange.ai/events/iclr2025)</p></details> |
-| **[GraphPINE: Graph Importance Propagation for Interpretable Drug Response Prediction](http://arxiv.org/abs/2504.05454v1)** | 2025-04-07 |  |
-| **[A Novel Approach to Linking Histology Images with DNA Methylation](http://arxiv.org/abs/2504.05403v1)** | 2025-04-07 |  |
-| **[Learning Coarse-Grained Dynamics on Graph](http://arxiv.org/abs/2405.09324v2)** | 2025-04-07 | 43 pages, 12 figures |
-| **[Unifying Physics- and Data-Driven Modeling via Novel Causal Spatiotemporal Graph Neural Network for Interpretable Epidemic Forecasting](http://arxiv.org/abs/2504.05140v1)** | 2025-04-07 | <details><summary>32 pa...</summary><p>32 pages, 12 figures. Submitted to Expert Systems with Applications and currently under review. This version includes minor revisions. The work proposes a physics-informed deep learning framework integrating a novel epidemic model with causal spatiotemporal graph neural networks for interpretable forecasting</p></details> |
-| **[AsyReC: A Multimodal Graph-based Framework for Spatio-Temporal Asymmetric Dyadic Relationship Classification](http://arxiv.org/abs/2504.05030v1)** | 2025-04-07 |  |
 
