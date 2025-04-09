@@ -1,4 +1,5 @@
-# Daily Papers
+# Daily Arxiv Tools
+Keywords: Time Series, Spatio Temporal, Graph Neural Networks
 The project automatically fetches the latest papers from arXiv based on keywords.
 
 The subheadings in the README file represent the search keywords.
