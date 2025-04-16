@@ -41,6 +41,9 @@ def generate_toc(keywords):
 keywords = [
     "Time Series",
     "Spatio Temporal",
+    "Time Series Imputation",
+    "Irregular Time Series",
+    "Diffusion Model",
     "Graph Neural Networks",
 ]  # TODO add more keywords
 
