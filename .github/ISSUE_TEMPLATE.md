@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 20, 2025
+title: Latest 15 Papers - April 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -27,7 +27,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding](http://arxiv.org/abs/2504.13180v1)** | 2025-04-17 | Technical report |
-| **[Towards Cardiac MRI Foundation Models: Comprehensive Visual-Tabular Representations for Whole-Heart Assessment and Beyond](http://arxiv.org/abs/2504.13037v1)** | 2025-04-17 |  |
+| **[Towards Cardiac MRI Foundation Models: Comprehensive Visual-Tabular Representations for Whole-Heart Assessment and Beyond](http://arxiv.org/abs/2504.13037v2)** | 2025-04-18 |  |
 | **[Beyond the Frame: Generating 360° Panoramic Videos from Perspective Videos](http://arxiv.org/abs/2504.07940v2)** | 2025-04-17 | <details><summary>Proje...</summary><p>Project page: https://red-fairy.github.io/argus/</p></details> |
 | **[Inferring the dependence graph density of binary graphical models in high dimension](http://arxiv.org/abs/2406.07066v2)** | 2025-04-17 | 85 pages, 2 figures |
 | **[Scene-Text Grounding for Text-Based Video Question Answering](http://arxiv.org/abs/2409.14319v2)** | 2025-04-17 |  |
@@ -85,7 +85,7 @@ labels: documentation
 | --- | --- | --- |
 | **[Personalized Text-to-Image Generation with Auto-Regressive Models](http://arxiv.org/abs/2504.13162v1)** | 2025-04-17 | <details><summary>Proje...</summary><p>Project page: https://github.com/KaiyueSun98/T2I-Personalization-with-AR</p></details> |
 | **[UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models](http://arxiv.org/abs/2504.13109v1)** | 2025-04-17 | <details><summary>Proje...</summary><p>Project page: https://uniedit-flow.github.io/</p></details> |
-| **[SkyReels-V2: Infinite-length Film Generative Model](http://arxiv.org/abs/2504.13074v1)** | 2025-04-17 | 31 pages,10 figures |
+| **[SkyReels-V2: Infinite-length Film Generative Model](http://arxiv.org/abs/2504.13074v2)** | 2025-04-18 | 31 pages,10 figures |
 | **[Learning Diverse Robot Striking Motions with Diffusion Models and Kinematically Constrained Gradient Guidance](http://arxiv.org/abs/2409.15528v2)** | 2025-04-17 | ICRA 2025 |
 | **[SparseDM: Toward Sparse Efficient Diffusion Models](http://arxiv.org/abs/2404.10445v4)** | 2025-04-17 | <details><summary>This ...</summary><p>This paper has been accepted by ICME 2025</p></details> |
 | **[TTRD3: Texture Transfer Residual Denoising Dual Diffusion Model for Remote Sensing Image Super-Resolution](http://arxiv.org/abs/2504.13026v1)** | 2025-04-17 |  |
