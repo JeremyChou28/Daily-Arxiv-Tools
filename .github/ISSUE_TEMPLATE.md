@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 26, 2025
+title: Latest 15 Papers - April 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -84,20 +84,6 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[LiDPM: Rethinking Point Diffusion for Lidar Scene Completion](http://arxiv.org/abs/2504.17791v1)** | 2025-04-24 | <details><summary>Accep...</summary><p>Accepted to IEEE IV 2025</p></details> |
-| **[Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models](http://arxiv.org/abs/2504.17789v1)** | 2025-04-24 |  |
-| **[Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining](http://arxiv.org/abs/2408.02657v3)** | 2025-04-24 | <details><summary>Code ...</summary><p>Code available at: https://github.com/Alpha-VLLM/Lumina-mGPT</p></details> |
-| **[Contrastive Learning with Synthetic Positives](http://arxiv.org/abs/2408.16965v2)** | 2025-04-24 | 8 pages, conference |
-| **[polyGen: A Learning Framework for Atomic-level Polymer Structure Generation](http://arxiv.org/abs/2504.17656v1)** | 2025-04-24 |  |
-| **[Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization](http://arxiv.org/abs/2504.17628v1)** | 2025-04-24 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, journal article</p></details> |
-| **[Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks](http://arxiv.org/abs/2504.16748v2)** | 2025-04-24 | Submitted to ICML |
-| **[ESDiff: Encoding Strategy-inspired Diffusion Model with Few-shot Learning for Color Image Inpainting](http://arxiv.org/abs/2504.17524v1)** | 2025-04-24 | <details><summary>11 pa...</summary><p>11 pages,10 figures,Submit to tcsvt</p></details> |
-| **[Continuous and complete liver vessel segmentation with graph-attention guided diffusion](http://arxiv.org/abs/2411.00617v2)** | 2025-04-24 | Second version |
-| **[Causal Disentanglement for Robust Long-tail Medical Image Generation](http://arxiv.org/abs/2504.14450v2)** | 2025-04-24 |  |
-| **[3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models](http://arxiv.org/abs/2504.17414v1)** | 2025-04-24 | <details><summary>Proje...</summary><p>Project page: https://2y7c3.github.io/3DV-TON/</p></details> |
-| **[DRC: Enhancing Personalized Image Generation via Disentangled Representation Composition](http://arxiv.org/abs/2504.17349v1)** | 2025-04-24 |  |
-| **[Hyper-Transforming Latent Diffusion Models](http://arxiv.org/abs/2504.16580v2)** | 2025-04-24 |  |
-| **[Towards Generalized and Training-Free Text-Guided Semantic Manipulation](http://arxiv.org/abs/2504.17269v1)** | 2025-04-24 |  |
-| **[DIVE: Inverting Conditional Diffusion Models for Discriminative Tasks](http://arxiv.org/abs/2504.17253v1)** | 2025-04-24 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Multimedia</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
