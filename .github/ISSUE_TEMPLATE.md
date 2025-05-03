@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 02, 2025
+title: Latest 15 Papers - May 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -86,6 +86,18 @@ labels: documentation
 | **[Controllable Weather Synthesis and Removal with Video Diffusion Models](http://arxiv.org/abs/2505.00704v1)** | 2025-05-01 |  |
 | **[GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution](http://arxiv.org/abs/2505.00687v1)** | 2025-05-01 |  |
 | **[Gaussian Mixture Flow Matching Models](http://arxiv.org/abs/2504.05304v2)** | 2025-05-01 | <details><summary>ICML ...</summary><p>ICML 2025. Code: https://github.com/Lakonik/GMFlow</p></details> |
+| **[LT3SD: Latent Trees for 3D Scene Diffusion](http://arxiv.org/abs/2409.08215v2)** | 2025-05-01 | <details><summary>Proje...</summary><p>Project page: https://quan-meng.github.io/projects/lt3sd/ Video: https://youtu.be/AJ5sG9VyjGA</p></details> |
+| **[ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models](http://arxiv.org/abs/2505.00586v1)** | 2025-05-01 |  |
+| **[Safety-Critical Traffic Simulation with Guided Latent Diffusion Model](http://arxiv.org/abs/2505.00515v1)** | 2025-05-01 | 7 pages, 3 figures |
+| **[TabRep: Training Tabular Diffusion Models with a Simple and Effective Continuous Representation](http://arxiv.org/abs/2504.04798v4)** | 2025-05-01 |  |
+| **[Scene-Conditional 3D Object Stylization and Composition](http://arxiv.org/abs/2312.12419v2)** | 2025-05-01 |  |
+| **[Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion](http://arxiv.org/abs/2406.03184v2)** | 2025-05-01 | <details><summary>See o...</summary><p>See our project page at https://costwen.github.io/Ouroboros3D/</p></details> |
+| **[Leveraging Pretrained Diffusion Models for Zero-Shot Part Assembly](http://arxiv.org/abs/2505.00426v1)** | 2025-05-01 | <details><summary>10 pa...</summary><p>10 pages, 12 figures, Accepted by IJCAI-2025</p></details> |
+| **[Network-aided Efficient LLM Services With Denoising-inspired Prompt Compression](http://arxiv.org/abs/2412.03621v3)** | 2025-05-01 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2411.18010</p></details> |
+| **[Latte: Latent Diffusion Transformer for Video Generation](http://arxiv.org/abs/2401.03048v3)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted by Transactions on Machine Learning Research 2025; Project Page: https://maxin-cn.github.io/latte_project</p></details> |
+| **[Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution](http://arxiv.org/abs/2505.00334v1)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted for presentation at IJCNN 2025</p></details> |
+| **[Generative Multimodal Multiscale Data Fusion for Digital Twins in Aerosol Jet Electronics Printing](http://arxiv.org/abs/2505.00176v1)** | 2025-04-30 |  |
+| **[ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction](http://arxiv.org/abs/2504.21855v1)** | 2025-04-30 | <details><summary>Proje...</summary><p>Project Page: https://revision-video.github.io/</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
