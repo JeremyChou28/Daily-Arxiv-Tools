@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 04, 2025
+title: Latest 15 Papers - May 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unlocking the Potential of Linear Networks for Irregular Multivariate Time Series Forecasting](http://arxiv.org/abs/2505.00590v1)** | 2025-05-01 |  |
-| **[KnowEEG: Explainable Knowledge Driven EEG Classification](http://arxiv.org/abs/2505.00541v1)** | 2025-05-01 |  |
-| **[CICADA: Cross-Domain Interpretable Coding for Anomaly Detection and Adaptation in Multivariate Time Series](http://arxiv.org/abs/2505.00415v1)** | 2025-05-01 |  |
-| **[A Comprehensive Survey of Deep Learning for Time Series Forecasting: Architectural Diversity and Open Challenges](http://arxiv.org/abs/2411.05793v3)** | 2025-05-01 | <details><summary>This ...</summary><p>This is the accepted manuscript of the article published in Artificial Intelligence Review. The final authenticated version is available at: https://doi.org/10.1007/s10462-025-11223-9</p></details> |
-| **[Gateformer: Advancing Multivariate Time Series Forecasting through Temporal and Variate-Wise Attention with Gated Representations](http://arxiv.org/abs/2505.00307v1)** | 2025-05-01 |  |
-| **[Temporal Attention Evolutional Graph Convolutional Network for Multivariate Time Series Forecasting](http://arxiv.org/abs/2505.00302v1)** | 2025-05-01 | 13 pages, 7 figures |
-| **[Integrating Dynamical Systems Modeling with Spatiotemporal scRNA-seq Data Analysis](http://arxiv.org/abs/2503.11347v2)** | 2025-05-01 |  |
-| **[D-Tracker: Modeling Interest Diffusion in Social Activity Tensor Data Streams](http://arxiv.org/abs/2505.00242v1)** | 2025-05-01 | <details><summary>ACM S...</summary><p>ACM SIGKDD 2025 (KDD2025)</p></details> |
-| **[Online Federation For Mixtures of Proprietary Agents with Black-Box Encoders](http://arxiv.org/abs/2505.00216v1)** | 2025-04-30 | <details><summary>47 pa...</summary><p>47 pages, 16 figures, 7 tables</p></details> |
-| **[Probabilistic Time Series Forecasting of Residential Loads -- A Copula Approach](http://arxiv.org/abs/2504.21661v1)** | 2025-04-30 | <details><summary>Accep...</summary><p>Accepted for IEEE PowerTech</p></details> |
-| **[Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series](http://arxiv.org/abs/2504.21647v1)** | 2025-04-30 |  |
-| **[Emotional Analysis of Fashion Trends Using Social Media and AI: Sentiment Analysis on Twitter for Fashion Trend Forecasting](http://arxiv.org/abs/2505.00050v1)** | 2025-04-30 | 13 pages |
-| **[Generative QoE Modeling: A Lightweight Approach for Telecom Networks](http://arxiv.org/abs/2504.21353v1)** | 2025-04-30 |  |
-| **[Hurdle Network Model With Latent Dynamic Shrinkage For Enhanced Edge Prediction in Zero-Inflated Directed Network Time Series](http://arxiv.org/abs/2504.21275v1)** | 2025-04-30 |  |
-| **[LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v8)** | 2025-04-30 | <details><summary>8 pag...</summary><p>8 pages with referencing, 1 figure, 5 tables</p></details> |
+| **[How Effective are Large Time Series Models in Hydrology? A Study on Water Level Forecasting in Everglades](http://arxiv.org/abs/2505.01415v1)** | 2025-05-02 |  |
+| **[Predicting the Price of Gold in the Financial Markets Using Hybrid Models](http://arxiv.org/abs/2505.01402v1)** | 2025-05-02 |  |
+| **[Bayesian Emulation of Grey-Box Multi-Model Ensembles Exploiting Known Interior Structure](http://arxiv.org/abs/2406.08367v2)** | 2025-05-02 | 50 pages, 15 figures |
+| **[Weight-calibrated estimation for factor models of high-dimensional time series](http://arxiv.org/abs/2505.01357v1)** | 2025-05-02 |  |
+| **[Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System](http://arxiv.org/abs/2505.01305v1)** | 2025-05-02 |  |
+| **[DConAD: A Differencing-based Contrastive Representation Learning Framework for Time Series Anomaly Detection](http://arxiv.org/abs/2504.14204v2)** | 2025-05-02 |  |
+| **[Empirical Comparison of Lightweight Forecasting Models for Seasonal and Non-Seasonal Time Series](http://arxiv.org/abs/2505.01163v1)** | 2025-05-02 |  |
+| **[Generating Building-Level Heat Demand Time Series by Combining Occupancy Simulations and Thermal Modeling](http://arxiv.org/abs/2503.05427v2)** | 2025-05-02 |  |
+| **[Dual-Forecaster: A Multimodal Time Series Model Integrating Descriptive and Predictive Texts](http://arxiv.org/abs/2505.01135v1)** | 2025-05-02 |  |
+| **[Locally Private Sampling with Public Data](http://arxiv.org/abs/2411.08791v2)** | 2025-05-02 |  |
+| **[FreCT: Frequency-augmented Convolutional Transformer for Robust Time Series Anomaly Detection](http://arxiv.org/abs/2505.00941v1)** | 2025-05-02 |  |
+| **[On the emergence of numerical instabilities in Next Generation Reservoir Computing](http://arxiv.org/abs/2505.00846v1)** | 2025-05-01 | 21 pages, 8 figures |
+| **[SMSAT: A Multimodal Acoustic Dataset and Deep Contrastive Learning Framework for Affective and Physiological Modeling of Spiritual Meditation](http://arxiv.org/abs/2505.00839v1)** | 2025-05-01 |  |
+| **[Multi-site modelling and reconstruction of past extreme skew surges along the French Atlantic coast](http://arxiv.org/abs/2505.00835v1)** | 2025-05-01 |  |
+| **[MIMIC-\RNum{4}-Ext-22MCTS: A 22 Millions-Event Temporal Clinical Time-Series Dataset with Relative Timestamp for Risk Prediction](http://arxiv.org/abs/2505.00827v1)** | 2025-05-01 |  |
 
 ## Spatio Temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow](http://arxiv.org/abs/2505.01288v1)** | 2025-05-02 |  |
+| **[MoBGS: Motion Deblurring Dynamic 3D Gaussian Splatting for Blurry Monocular Video](http://arxiv.org/abs/2504.15122v3)** | 2025-05-02 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work (equal contribution). The last two authors are co-corresponding authors. Please visit our project page at https://kaist-viclab.github.io/mobgs-site/</p></details> |
+| **[HEIGHT: Heterogeneous Interaction Graph Transformer for Robot Navigation in Crowded and Constrained Environments](http://arxiv.org/abs/2411.12150v2)** | 2025-05-01 |  |
+| **[IberFire -- a detailed creation of a spatio-temporal dataset for wildfire risk assessment in Spain](http://arxiv.org/abs/2505.00837v1)** | 2025-05-01 |  |
 | **[Deep Learning Assisted Outer Volume Removal for Highly-Accelerated Real-Time Dynamic MRI](http://arxiv.org/abs/2505.00643v1)** | 2025-05-01 |  |
 | **[Model order reduction of hemodynamics by space-time reduced basis and reduced fluid-structure interaction](http://arxiv.org/abs/2505.00548v1)** | 2025-05-01 | <details><summary>28 pa...</summary><p>28 pages, 8 figures. Submitted to Computer Methods in Applied Mechanics and Engineering</p></details> |
 | **[Latte: Latent Diffusion Transformer for Video Generation](http://arxiv.org/abs/2401.03048v3)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted by Transactions on Machine Learning Research 2025; Project Page: https://maxin-cn.github.io/latte_project</p></details> |
@@ -34,13 +38,9 @@ labels: documentation
 | **[Efficient Neural Video Representation with Temporally Coherent Modulation](http://arxiv.org/abs/2505.00335v1)** | 2025-05-01 | ECCV 2024 |
 | **[A p-adaptive polytopal discontinuous Galerkin method for high-order approximation of brain electrophysiology](http://arxiv.org/abs/2504.21657v1)** | 2025-04-30 |  |
 | **[Overlapping data in network protocols: bridging OS and NIDS reassembly gap](http://arxiv.org/abs/2504.21618v1)** | 2025-04-30 |  |
-| **[MoBGS: Motion Deblurring Dynamic 3D Gaussian Splatting for Blurry Monocular Video](http://arxiv.org/abs/2504.15122v2)** | 2025-04-30 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work (equal contribution). The last two authors advised equally to this work. Please visit our project page at https://kaist-viclab.github.io/mobgs-site/</p></details> |
 | **[Low-rank computation of the posterior mean in Multi-Output Gaussian Processes](http://arxiv.org/abs/2504.21527v1)** | 2025-04-30 |  |
 | **[CoCoDiff: Diversifying Skeleton Action Features via Coarse-Fine Text-Co-Guided Latent Diffusion](http://arxiv.org/abs/2504.21266v1)** | 2025-04-30 |  |
 | **[PyAWD: A Library for Generating Large Synthetic Datasets of Acoustic Wave Propagation](http://arxiv.org/abs/2411.12636v2)** | 2025-04-29 |  |
-| **[FiLA-Video: Spatio-Temporal Compression for Fine-Grained Long Video Understanding](http://arxiv.org/abs/2504.20384v1)** | 2025-04-29 | 8 pages, 6 figures |
-| **[Spatio-temporal data fusion of censored threshold exceedances](http://arxiv.org/abs/2504.20268v1)** | 2025-04-28 |  |
-| **[Temporal Neural Operator for Modeling Time-Dependent Physical Phenomena](http://arxiv.org/abs/2504.20249v1)** | 2025-04-28 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
@@ -83,27 +83,32 @@ labels: documentation
 ## Diffusion Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models](http://arxiv.org/abs/2505.01406v1)** | 2025-05-02 |  |
+| **[Provable Efficiency of Guidance in Diffusion Models for General Data Distribution](http://arxiv.org/abs/2505.01382v1)** | 2025-05-02 |  |
+| **[FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors](http://arxiv.org/abs/2505.01322v1)** | 2025-05-02 |  |
+| **[Model See Model Do: Speech-Driven Facial Animation with Style Control](http://arxiv.org/abs/2505.01319v1)** | 2025-05-02 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, SIGGRAPH Conference Papers '25</p></details> |
+| **[Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid](http://arxiv.org/abs/2411.11093v2)** | 2025-05-02 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, submitted to IEEE Transactions on Power Systems</p></details> |
+| **[Enabling Training-Free Semantic Communication Systems with Generative Diffusion Models](http://arxiv.org/abs/2505.01209v1)** | 2025-05-02 |  |
+| **[FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis](http://arxiv.org/abs/2505.01172v1)** | 2025-05-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[VSC: Visual Search Compositional Text-to-Image Diffusion Model](http://arxiv.org/abs/2505.01104v1)** | 2025-05-02 |  |
+| **[Multi-Step Consistency Models: Fast Generation with Theoretical Guarantees](http://arxiv.org/abs/2505.01049v1)** | 2025-05-02 | 29 pages |
+| **[Where's the liability in the Generative Era? Recovery-based Black-Box Detection of AI-Generated Content](http://arxiv.org/abs/2505.01008v1)** | 2025-05-02 | CVPR 2025 |
+| **[Visual-Friendly Concept Protection via Selective Adversarial Perturbations](http://arxiv.org/abs/2408.08518v2)** | 2025-05-02 | Under Review |
+| **[Visual Concept-driven Image Generation with Text-to-Image Diffusion Model](http://arxiv.org/abs/2402.11487v3)** | 2025-05-02 | <details><summary>11 Fi...</summary><p>11 Figures, 14 Pages, 2 tables</p></details> |
+| **[RestoreGrad: Signal Restoration Using Conditional Denoising Diffusion Models with Jointly Learned Prior](http://arxiv.org/abs/2502.13574v2)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
+| **[Part-aware Shape Generation with Latent 3D Diffusion of Neural Voxel Fields](http://arxiv.org/abs/2405.00998v5)** | 2025-05-01 | <details><summary>This ...</summary><p>This paper is accepted by TVCG</p></details> |
 | **[Controllable Weather Synthesis and Removal with Video Diffusion Models](http://arxiv.org/abs/2505.00704v1)** | 2025-05-01 |  |
-| **[GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution](http://arxiv.org/abs/2505.00687v1)** | 2025-05-01 |  |
-| **[Gaussian Mixture Flow Matching Models](http://arxiv.org/abs/2504.05304v2)** | 2025-05-01 | <details><summary>ICML ...</summary><p>ICML 2025. Code: https://github.com/Lakonik/GMFlow</p></details> |
-| **[LT3SD: Latent Trees for 3D Scene Diffusion](http://arxiv.org/abs/2409.08215v2)** | 2025-05-01 | <details><summary>Proje...</summary><p>Project page: https://quan-meng.github.io/projects/lt3sd/ Video: https://youtu.be/AJ5sG9VyjGA</p></details> |
-| **[ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models](http://arxiv.org/abs/2505.00586v1)** | 2025-05-01 |  |
-| **[Safety-Critical Traffic Simulation with Guided Latent Diffusion Model](http://arxiv.org/abs/2505.00515v1)** | 2025-05-01 | 7 pages, 3 figures |
-| **[TabRep: Training Tabular Diffusion Models with a Simple and Effective Continuous Representation](http://arxiv.org/abs/2504.04798v4)** | 2025-05-01 |  |
-| **[Scene-Conditional 3D Object Stylization and Composition](http://arxiv.org/abs/2312.12419v2)** | 2025-05-01 |  |
-| **[Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion](http://arxiv.org/abs/2406.03184v2)** | 2025-05-01 | <details><summary>See o...</summary><p>See our project page at https://costwen.github.io/Ouroboros3D/</p></details> |
-| **[Leveraging Pretrained Diffusion Models for Zero-Shot Part Assembly](http://arxiv.org/abs/2505.00426v1)** | 2025-05-01 | <details><summary>10 pa...</summary><p>10 pages, 12 figures, Accepted by IJCAI-2025</p></details> |
-| **[Network-aided Efficient LLM Services With Denoising-inspired Prompt Compression](http://arxiv.org/abs/2412.03621v3)** | 2025-05-01 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2411.18010</p></details> |
-| **[Latte: Latent Diffusion Transformer for Video Generation](http://arxiv.org/abs/2401.03048v3)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted by Transactions on Machine Learning Research 2025; Project Page: https://maxin-cn.github.io/latte_project</p></details> |
-| **[Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution](http://arxiv.org/abs/2505.00334v1)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted for presentation at IJCNN 2025</p></details> |
-| **[Generative Multimodal Multiscale Data Fusion for Digital Twins in Aerosol Jet Electronics Printing](http://arxiv.org/abs/2505.00176v1)** | 2025-04-30 |  |
-| **[ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction](http://arxiv.org/abs/2504.21855v1)** | 2025-04-30 | <details><summary>Proje...</summary><p>Project Page: https://revision-video.github.io/</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Project-and-Fuse: Improving RGB-D Semantic Segmentation via Graph Convolution Networks](http://arxiv.org/abs/2501.18851v3)** | 2025-05-02 | <details><summary>I hav...</summary><p>I have decided to withdraw this paper because I have recently obtained some new data and insights during my ongoing research</p></details> |
+| **[Soybean Disease Detection via Interpretable Hybrid CNN-GNN: Integrating MobileNetV2 and GraphSAGE with Cross-Modal Attention](http://arxiv.org/abs/2503.01284v3)** | 2025-05-02 |  |
+| **[Logical Characterizations of Recurrent Graph Neural Networks with Reals and Floats](http://arxiv.org/abs/2405.14606v4)** | 2025-05-02 |  |
+| **[Identifying Root Cause of bugs by Capturing Changed Code Lines with Relational Graph Neural Networks](http://arxiv.org/abs/2505.00990v1)** | 2025-05-02 |  |
+| **[SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction](http://arxiv.org/abs/2505.00625v2)** | 2025-05-02 |  |
+| **[Mesh-based Super-Resolution of Fluid Flows with Multiscale Graph Neural Networks](http://arxiv.org/abs/2409.07769v4)** | 2025-05-02 |  |
 | **[OmniSage: Large Scale, Multi-Entity Heterogeneous Graph Representation Learning](http://arxiv.org/abs/2504.17811v2)** | 2025-05-01 |  |
-| **[SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction](http://arxiv.org/abs/2505.00625v1)** | 2025-05-01 |  |
 | **[Commute Graph Neural Networks](http://arxiv.org/abs/2407.01635v5)** | 2025-05-01 |  |
 | **[TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching](http://arxiv.org/abs/2505.00562v1)** | 2025-05-01 | Accepted to ICML2025 |
 | **[DeepSTA: A Spatial-Temporal Attention Network for Logistics Delivery Timely Rate Prediction in Anomaly Conditions](http://arxiv.org/abs/2505.00402v1)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted by CIKM 2023</p></details> |
@@ -112,9 +117,4 @@ labels: documentation
 | **[Graph Privacy: A Heterogeneous Federated GNN for Trans-Border Financial Data Circulation](http://arxiv.org/abs/2505.00257v1)** | 2025-05-01 |  |
 | **[Scalable Multi-Task Learning for Particle Collision Event Reconstruction with Heterogeneous Graph Neural Networks](http://arxiv.org/abs/2504.21844v1)** | 2025-04-30 | <details><summary>21 pa...</summary><p>21 pages, 10 figures, 4 tables</p></details> |
 | **[MAGNET: an open-source library for mesh agglomeration by Graph Neural Networks](http://arxiv.org/abs/2504.21780v1)** | 2025-04-30 |  |
-| **[Comparative Analysis of FPGA and GPU Performance for Machine Learning-Based Track Reconstruction at LHCb](http://arxiv.org/abs/2502.02304v4)** | 2025-04-30 |  |
-| **[Learning Hierarchical Interaction for Accurate Molecular Property Prediction](http://arxiv.org/abs/2504.20127v2)** | 2025-04-30 |  |
-| **[Quantifying the Noise of Structural Perturbations on Graph Adversarial Attacks](http://arxiv.org/abs/2504.20869v2)** | 2025-04-30 | Under Review |
-| **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](http://arxiv.org/abs/2504.21254v1)** | 2025-04-30 |  |
-| **[FedHERO: A Federated Learning Approach for Node Classification Task on Heterophilic Graphs](http://arxiv.org/abs/2504.21206v1)** | 2025-04-29 |  |
 
