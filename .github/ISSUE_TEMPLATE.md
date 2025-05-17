@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 16, 2025
+title: Latest 15 Papers - May 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -84,6 +84,20 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[3D-Fixup: Advancing Photo Editing with 3D Priors](http://arxiv.org/abs/2505.10566v1)** | 2025-05-15 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2025. Project page: https://3dfixup.github.io/</p></details> |
+| **[Style Customization of Text-to-Vector Generation with Image Diffusion Priors](http://arxiv.org/abs/2505.10558v1)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted by SIGGRAPH 2025 (Conference Paper). Project page: https://customsvg.github.io</p></details> |
+| **[Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data](http://arxiv.org/abs/2505.10551v1)** | 2025-05-15 | CVPRW 2025 |
+| **[Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design](http://arxiv.org/abs/2505.10545v1)** | 2025-05-15 |  |
+| **[Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps](http://arxiv.org/abs/2505.10482v1)** | 2025-05-15 | <details><summary>9 pag...</summary><p>9 pages for main text, 23 pages in total, submitted to Neurips, 13 figures</p></details> |
+| **[Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models](http://arxiv.org/abs/2505.10446v1)** | 2025-05-15 |  |
+| **[Score-based diffusion nowcasting of GOES imagery](http://arxiv.org/abs/2505.10432v1)** | 2025-05-15 |  |
+| **[Learning Graph Representation of Agent Diffusers](http://arxiv.org/abs/2505.06761v2)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted at AAMAS2025 International Conference on Autonomous Agents and Multiagent Systems</p></details> |
+| **[From Uncertain to Safe: Conformal Fine-Tuning of Diffusion Models for Safe PDE Control](http://arxiv.org/abs/2502.02205v2)** | 2025-05-15 |  |
+| **[Whitened Score Diffusion: A Structured Prior for Imaging Inverse Problems](http://arxiv.org/abs/2505.10311v1)** | 2025-05-15 |  |
+| **[Improving Fine-Grained Control via Aggregation of Multiple Diffusion Models](http://arxiv.org/abs/2410.01262v3)** | 2025-05-15 |  |
+| **[CreativeSynth: Cross-Art-Attention for Artistic Image Synthesis with Multimodal Diffusion](http://arxiv.org/abs/2401.14066v3)** | 2025-05-15 |  |
+| **[IntrinsicEdit: Precise generative image manipulation in intrinsic space](http://arxiv.org/abs/2505.08889v2)** | 2025-05-15 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2025 Journal track</p></details> |
+| **[FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation](http://arxiv.org/abs/2505.10075v1)** | 2025-05-15 | <details><summary>Proje...</summary><p>Project page: see https://sharinka0715.github.io/FlowDreamer/</p></details> |
+| **[Malliavin Calculus for Score-based Diffusion Models](http://arxiv.org/abs/2503.16917v2)** | 2025-05-15 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
