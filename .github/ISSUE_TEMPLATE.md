@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 19, 2025
+title: Latest 15 Papers - June 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
