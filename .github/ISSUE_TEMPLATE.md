@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 24, 2025
+title: Latest 15 Papers - June 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -65,7 +65,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Enhancing Glucose Level Prediction of ICU Patients through Hierarchical Modeling of Irregular Time-Series](http://arxiv.org/abs/2411.01418v3)** | 2025-06-21 | <details><summary>27 pa...</summary><p>27 pages, 7 figures V3: Revised significantly. Added more appendix and a webserver demo</p></details> |
-| **[Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series](http://arxiv.org/abs/2506.10412v1)** | 2025-06-12 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
+| **[Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series](http://arxiv.org/abs/2506.10412v2)** | 2025-06-23 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
 | **[DualDynamics: Synergizing Implicit and Explicit Methods for Robust Irregular Time Series Analysis](http://arxiv.org/abs/2401.04979v6)** | 2025-06-09 | <details><summary>Publi...</summary><p>Published at the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). https://ojs.aaai.org/index.php/AAAI/article/view/34173</p></details> |
 | **[Robust Moment Identification for Nonlinear PDEs via a Neural ODE Approach](http://arxiv.org/abs/2506.05245v1)** | 2025-06-05 |  |
 | **[A Kernel-Based Approach for Accurate Steady-State Detection in Performance Time Series](http://arxiv.org/abs/2506.04204v1)** | 2025-06-04 | <details><summary>This ...</summary><p>This manuscript is under review by Future Generation Computer Systems</p></details> |
@@ -95,7 +95,7 @@ labels: documentation
 | **[VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models](http://arxiv.org/abs/2504.16359v2)** | 2025-06-23 |  |
 | **[InstructAttribute: Fine-grained Object Attributes editing with Instruction](http://arxiv.org/abs/2505.00751v2)** | 2025-06-23 |  |
 | **[SongBloom: Coherent Song Generation via Interleaved Autoregressive Sketching and Diffusion Refinement](http://arxiv.org/abs/2506.07634v2)** | 2025-06-23 | <details><summary>Submi...</summary><p>Submitted to NeurIPS2025</p></details> |
-| **[MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching](http://arxiv.org/abs/2501.11299v2)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accept by IEEE TIP 2025</p></details> |
+| **[MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching](http://arxiv.org/abs/2501.11299v3)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accept by IEEE TIP 2025</p></details> |
 | **[GANs vs. Diffusion Models for virtual staining with the HER2match dataset](http://arxiv.org/abs/2506.18484v1)** | 2025-06-23 |  |
 | **[DIP: Unsupervised Dense In-Context Post-training of Visual Representations](http://arxiv.org/abs/2506.18463v1)** | 2025-06-23 |  |
 
