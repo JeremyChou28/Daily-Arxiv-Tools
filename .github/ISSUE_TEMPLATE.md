@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 04, 2025
+title: Latest 15 Papers - July 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -88,6 +88,16 @@ labels: documentation
 | **[USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network](http://arxiv.org/abs/2507.02827v1)** | 2025-07-03 |  |
 | **[LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion](http://arxiv.org/abs/2507.02813v1)** | 2025-07-03 | <details><summary>Proje...</summary><p>Project page: https://liuff19.github.io/LangScene-X</p></details> |
 | **[RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation](http://arxiv.org/abs/2507.02792v1)** | 2025-07-03 |  |
+| **[FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models](http://arxiv.org/abs/2507.02714v1)** | 2025-07-03 | ICCV 2025 |
+| **[UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation](http://arxiv.org/abs/2507.02713v1)** | 2025-07-03 |  |
+| **[Enhancing Fetal Plane Classification Accuracy with Data Augmentation Using Diffusion Models](http://arxiv.org/abs/2501.15248v2)** | 2025-07-03 |  |
+| **[APT: Adaptive Personalized Training for Diffusion Models with Limited Data](http://arxiv.org/abs/2507.02687v1)** | 2025-07-03 | <details><summary>CVPR ...</summary><p>CVPR 2025 camera ready. Project page: https://lgcnsai.github.io/apt</p></details> |
+| **[Learning few-step posterior samplers by unfolding and distillation of diffusion models](http://arxiv.org/abs/2507.02686v1)** | 2025-07-03 | <details><summary>28 pa...</summary><p>28 pages, 16 figures, 10 tables</p></details> |
+| **[Guided Generation for Developable Antibodies](http://arxiv.org/abs/2507.02670v1)** | 2025-07-03 | <details><summary>Publi...</summary><p>Published in ICML 2025 GenBio Workshop</p></details> |
+| **[Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation](http://arxiv.org/abs/2507.02608v1)** | 2025-07-03 |  |
+| **[AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models](http://arxiv.org/abs/2507.02598v1)** | 2025-07-03 | 8 pages, 12 figures |
+| **[SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings](http://arxiv.org/abs/2504.20808v2)** | 2025-07-03 |  |
+| **[Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning](http://arxiv.org/abs/2507.02565v1)** | 2025-07-03 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
