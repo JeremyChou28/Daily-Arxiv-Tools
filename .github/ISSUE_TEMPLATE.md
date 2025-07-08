@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 07, 2025
+title: Latest 15 Papers - July 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -27,7 +27,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network](http://arxiv.org/abs/2507.02827v1)** | 2025-07-03 |  |
-| **[CMD-HAR: Cross-Modal Disentanglement for Wearable Human Activity Recognition](http://arxiv.org/abs/2503.21843v2)** | 2025-07-03 |  |
+| **[CMD-HAR: Cross-Modal Disentanglement for Wearable Human Activity Recognition](http://arxiv.org/abs/2503.21843v3)** | 2025-07-04 |  |
 | **[MTCNet: Motion and Topology Consistency Guided Learning for Mitral Valve Segmentationin 4D Ultrasound](http://arxiv.org/abs/2507.00660v2)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025</p></details> |
 | **[Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection](http://arxiv.org/abs/2507.02398v1)** | 2025-07-03 | <details><summary>accep...</summary><p>accepted by iccv 2025. code is will be available at https://github.com/rama0126/PwTF-DVD</p></details> |
 | **[Temporally Consistent Koopman Autoencoders for Forecasting Dynamical Systems](http://arxiv.org/abs/2403.12335v3)** | 2025-07-02 |  |
@@ -89,7 +89,7 @@ labels: documentation
 | **[LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion](http://arxiv.org/abs/2507.02813v1)** | 2025-07-03 | <details><summary>Proje...</summary><p>Project page: https://liuff19.github.io/LangScene-X</p></details> |
 | **[RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation](http://arxiv.org/abs/2507.02792v1)** | 2025-07-03 |  |
 | **[FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models](http://arxiv.org/abs/2507.02714v1)** | 2025-07-03 | ICCV 2025 |
-| **[UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation](http://arxiv.org/abs/2507.02713v1)** | 2025-07-03 |  |
+| **[UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation](http://arxiv.org/abs/2507.02713v2)** | 2025-07-04 |  |
 | **[Enhancing Fetal Plane Classification Accuracy with Data Augmentation Using Diffusion Models](http://arxiv.org/abs/2501.15248v2)** | 2025-07-03 |  |
 | **[APT: Adaptive Personalized Training for Diffusion Models with Limited Data](http://arxiv.org/abs/2507.02687v1)** | 2025-07-03 | <details><summary>CVPR ...</summary><p>CVPR 2025 camera ready. Project page: https://lgcnsai.github.io/apt</p></details> |
 | **[Learning few-step posterior samplers by unfolding and distillation of diffusion models](http://arxiv.org/abs/2507.02686v1)** | 2025-07-03 | <details><summary>28 pa...</summary><p>28 pages, 16 figures, 10 tables</p></details> |
@@ -103,7 +103,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[RLHGNN: Reinforcement Learning-driven Heterogeneous Graph Neural Network for Next Activity Prediction in Business Processes](http://arxiv.org/abs/2507.02690v1)** | 2025-07-03 | <details><summary>15 pa...</summary><p>15 pages, 7 figures. Business process prediction using reinforcement learning and heterogeneous graph neural networks</p></details> |
-| **[Learning Traffic Anomalies from Generative Models on Real-Time Observations](http://arxiv.org/abs/2502.01391v3)** | 2025-07-03 |  |
+| **[Learning Traffic Anomalies from Generative Models on Real-Time Observations](http://arxiv.org/abs/2502.01391v4)** | 2025-07-04 |  |
 | **[Interpreting Graph Inference with Skyline Explanations](http://arxiv.org/abs/2505.07635v2)** | 2025-07-03 |  |
 | **[S2FGL: Spatial Spectral Federated Graph Learning](http://arxiv.org/abs/2507.02409v1)** | 2025-07-03 |  |
 | **[Neural Graph Matching Improves Retrieval Augmented Generation in Molecular Machine Learning](http://arxiv.org/abs/2502.17874v2)** | 2025-07-03 | ICML 2025 |
@@ -115,6 +115,6 @@ labels: documentation
 | **[MILP-SAT-GNN: Yet Another Neural SAT Solver](http://arxiv.org/abs/2507.01825v1)** | 2025-07-02 |  |
 | **[Vehicle-group-based Crash Risk Prediction and Interpretation on Highways](http://arxiv.org/abs/2402.12415v3)** | 2025-07-01 | <details><summary>Accep...</summary><p>Accepted and published in IEEE Transactions on Intelligent Transportation Systems, vol. 26, no. 6, pp. 7807-7818, June 2025. DOI: 10.1109/TITS.2025.3556543</p></details> |
 | **[RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles](http://arxiv.org/abs/2507.00937v1)** | 2025-07-01 | <details><summary>8 pag...</summary><p>8 pages, accepted by IROS 2025</p></details> |
-| **[ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation](http://arxiv.org/abs/2506.23126v2)** | 2025-07-01 |  |
+| **[ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation](http://arxiv.org/abs/2506.23126v3)** | 2025-07-04 |  |
 | **[Understanding Generalization in Node and Link Prediction](http://arxiv.org/abs/2507.00927v1)** | 2025-07-01 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2412.07106</p></details> |
 
