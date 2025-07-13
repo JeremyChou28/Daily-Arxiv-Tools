@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 12, 2025
+title: Latest 15 Papers - July 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -36,11 +36,6 @@ labels: documentation
 | **[Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection](http://arxiv.org/abs/2507.02398v2)** | 2025-07-10 | <details><summary>accep...</summary><p>accepted by iccv 2025. code is will be available at https://github.com/rama0126/PwTF-DVD</p></details> |
 | **[ST-GRIT: Spatio-Temporal Graph Transformer For Internal Ice Layer Thickness Prediction](http://arxiv.org/abs/2507.07389v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted for 2025 IEEE International Conference on Image Processing (ICIP)</p></details> |
 | **[MapNav: A Novel Memory Representation via Annotated Semantic Maps for Vision-and-Language Navigation](http://arxiv.org/abs/2502.13451v4)** | 2025-07-10 |  |
-| **[MarineFormer: A Spatio-Temporal Attention Model for USV Navigation in Dynamic Marine Environments](http://arxiv.org/abs/2410.13973v4)** | 2025-07-09 |  |
-| **[Accelerated Spatio-Temporal Bayesian Modeling for Multivariate Gaussian Processes](http://arxiv.org/abs/2507.06938v1)** | 2025-07-09 |  |
-| **[Nonparametric Bayesian Inference for Stochastic Reaction-Diffusion Equations](http://arxiv.org/abs/2507.06857v1)** | 2025-07-09 |  |
-| **[DIFFUMA: High-Fidelity Spatio-Temporal Video Prediction via Dual-Path Mamba and Diffusion Enhancement](http://arxiv.org/abs/2507.06738v1)** | 2025-07-09 |  |
-| **[QoE Optimization for Semantic Self-Correcting Video Transmission in Multi-UAV Networks](http://arxiv.org/abs/2507.06717v1)** | 2025-07-09 | 13 pages |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
