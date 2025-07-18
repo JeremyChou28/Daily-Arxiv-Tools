@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 17, 2025
+title: Latest 15 Papers - July 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -7,25 +7,33 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Model-Agnostic, Temperature-Informed Sampling Enhances Cross-Year Crop Mapping with Deep Learning](http://arxiv.org/abs/2506.12885v3)** | 2025-07-17 | under review |
+| **[MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling](http://arxiv.org/abs/2507.13207v1)** | 2025-07-17 | <details><summary>10th ...</summary><p>10th Workshop on Advanced Analytics and Learning on Temporal Data (AALTD), ECML 2025</p></details> |
+| **[PINT: Physics-Informed Neural Time Series Models with Applications to Long-term Inference on WeatherBench 2m-Temperature Data](http://arxiv.org/abs/2502.04018v2)** | 2025-07-17 |  |
+| **[The Power of Architecture: Deep Dive into Transformer Architectures for Long-Term Time Series Forecasting](http://arxiv.org/abs/2507.13043v1)** | 2025-07-17 | 15 pages, 6 figures |
+| **[Interpretable Transformation and Analysis of Timelines through Learning via Surprisability](http://arxiv.org/abs/2503.04502v2)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted for Publication in Chaos, May 2025</p></details> |
+| **[FLDmamba: Integrating Fourier and Laplace Transform Decomposition with Mamba for Enhanced Time Series Prediction](http://arxiv.org/abs/2507.12803v1)** | 2025-07-17 | 12 pages |
+| **[Fetuses Made Simple: Modeling and Tracking of Fetal Shape and Pose](http://arxiv.org/abs/2506.17858v3)** | 2025-07-17 |  |
+| **[Unifying Explainable Anomaly Detection and Root Cause Analysis in Dynamical Systems](http://arxiv.org/abs/2502.12086v3)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted by the AAAI-25 Workshop on Artificial Intelligence for Cyber Security (AICS)</p></details> |
+| **[Joint Price and Power MPC for Peak Power Reduction at Workplace EV Charging Stations](http://arxiv.org/abs/2507.12703v1)** | 2025-07-17 |  |
+| **[Timing is Important: Risk-aware Fund Allocation based on Time-Series Forecasting](http://arxiv.org/abs/2505.24835v3)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted by KDD 2025 ADS Track</p></details> |
+| **[A Novel Data Augmentation Strategy for Robust Deep Learning Classification of Biomedical Time-Series Data: Application to ECG and EEG Analysis](http://arxiv.org/abs/2507.12645v1)** | 2025-07-16 |  |
 | **[Exploring and Analyzing Wildland Fire Data Via Machine Learning Techniques](http://arxiv.org/abs/2311.05128v2)** | 2025-07-16 | <details><summary>This ...</summary><p>This version has been significantly updated and superseded by a more complete and revised version under the new title "Leveraging Advanced Machine Learning to Predict Turbulence Dynamics from Temperature Observations at an Experimental Prescribed Fire", available at arXiv ID: arXiv:2507.11012</p></details> |
 | **[Forecasting Climate Policy Uncertainty: Evidence from the United States](http://arxiv.org/abs/2507.12276v1)** | 2025-07-16 |  |
 | **[Robust Causal Discovery in Real-World Time Series with Power-Laws](http://arxiv.org/abs/2507.12257v1)** | 2025-07-16 |  |
 | **[NeuTSFlow: Modeling Continuous Functions Behind Time Series Forecasting](http://arxiv.org/abs/2507.09888v2)** | 2025-07-16 |  |
-| **[Data Augmentation in Time Series Forecasting through Inverted Framework](http://arxiv.org/abs/2507.11439v2)** | 2025-07-16 | <details><summary>The p...</summary><p>The paper is under consideration at Pattern Recognition Letters</p></details> |
-| **[BRIDGE: Bootstrapping Text to Control Time-Series Generation via Multi-Agent Iterative Optimization and Diffusion Modeling](http://arxiv.org/abs/2503.02445v5)** | 2025-07-16 | <details><summary>ICML ...</summary><p>ICML 2025 Main Conference</p></details> |
-| **[Bootstrap prediction intervals for the age distribution of life-table death counts](http://arxiv.org/abs/2507.11946v1)** | 2025-07-16 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 1 table</p></details> |
-| **[Finding Order-Preserving Subgraphs](http://arxiv.org/abs/2507.11115v2)** | 2025-07-16 |  |
-| **[Sparse Identification of Nonlinear Dynamics with Conformal Prediction](http://arxiv.org/abs/2507.11739v1)** | 2025-07-15 |  |
-| **[Globalization for Scalable Short-term Load Forecasting](http://arxiv.org/abs/2507.11729v1)** | 2025-07-15 | <details><summary>63 pa...</summary><p>63 pages with 22 figures</p></details> |
-| **[Time series classification of satellite data using LSTM networks: an approach for predicting leaf-fall to minimize railroad traffic disruption](http://arxiv.org/abs/2507.11702v1)** | 2025-07-15 |  |
-| **[Learning Representations of Event Time Series with Sparse Autoencoders for Anomaly Detection, Similarity Search, and Unsupervised Classification](http://arxiv.org/abs/2507.11620v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted at the 2025 ICML Workshop on Machine Learning for Astrophysics, Code available at: https://github.com/StevenDillmann/ml-xraytransients-mnras</p></details> |
-| **[D3FL: Data Distribution and Detrending for Robust Federated Learning in Non-linear Time-series Data](http://arxiv.org/abs/2507.11471v1)** | 2025-07-15 | <details><summary>Prepr...</summary><p>Preprint of paper to appear in the proceedings of IEEE INTERNATIONAL CONFERENCE ON EDGE COMPUTING & COMMUNICATIONS EDGE 2025</p></details> |
-| **[Matrix Is All You Need](http://arxiv.org/abs/2506.01966v2)** | 2025-07-15 |  |
-| **[Self-Supervised Cross-Modal Text-Image Time Series Retrieval in Remote Sensing](http://arxiv.org/abs/2501.19043v2)** | 2025-07-15 |  |
 
 ## Spatio Temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models](http://arxiv.org/abs/2507.13344v1)** | 2025-07-17 | <details><summary>Proje...</summary><p>Project page: https://diffuman4d.github.io/</p></details> |
+| **[Signal Temporal Logic Compliant Co-design of Planning and Control](http://arxiv.org/abs/2507.13225v1)** | 2025-07-17 |  |
+| **[Data-Efficient Deep Operator Network for Unsteady Flow: A Multi-Fidelity Approach with Physics-Guided Subsampling](http://arxiv.org/abs/2503.17941v2)** | 2025-07-17 |  |
+| **[FIQ: Fundamental Question Generation with the Integration of Question Embeddings for Video Question Answering](http://arxiv.org/abs/2507.12816v1)** | 2025-07-17 | SMC 2025 |
+| **[Model-free Forecasting of Rogue Waves using Reservoir Computing](http://arxiv.org/abs/2506.21918v2)** | 2025-07-17 | <details><summary>25 pa...</summary><p>25 pages 14 figures. Proof-ready version</p></details> |
+| **[World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving](http://arxiv.org/abs/2507.12762v1)** | 2025-07-17 |  |
+| **[Learning Universal Human Mobility Patterns with a Foundation Model for Cross-domain Data Fusion](http://arxiv.org/abs/2503.15779v2)** | 2025-07-17 |  |
+| **[A Bayesian Spatio-Temporal Model of Temperature- and Humidity-Related Mortality Using High-Resolution Climate Data](http://arxiv.org/abs/2507.12643v1)** | 2025-07-16 |  |
 | **[Traffic-Aware Pedestrian Intention Prediction](http://arxiv.org/abs/2507.12433v1)** | 2025-07-16 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the American Control Conference (ACC) 2025</p></details> |
 | **[DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition](http://arxiv.org/abs/2507.12426v1)** | 2025-07-16 | 17 pages |
 | **[SmokeSVD: Smoke Reconstruction from A Single View via Progressive Novel View Synthesis and Refinement with Diffusion Models](http://arxiv.org/abs/2507.12156v1)** | 2025-07-16 |  |
@@ -33,18 +41,11 @@ labels: documentation
 | **[STAGED: A Multi-Agent Neural Network for Learning Cellular Interaction Dynamics](http://arxiv.org/abs/2507.11660v1)** | 2025-07-15 |  |
 | **[Synthetic Datasets for Machine Learning on Spatio-Temporal Graphs using PDEs](http://arxiv.org/abs/2502.04140v2)** | 2025-07-15 | <details><summary>Camer...</summary><p>Camera-ready version of the paper, which is now accepted at DMLR, see https://openreview.net/forum?id=EguDBMechn . 17 pages, 5 Figures</p></details> |
 | **[Atmos-Bench: 3D Atmospheric Structures for Climate Insight](http://arxiv.org/abs/2507.11085v1)** | 2025-07-15 |  |
-| **[Reprogramming Vision Foundation Models for Spatio-Temporal Forecasting](http://arxiv.org/abs/2507.11558v1)** | 2025-07-14 |  |
-| **[Deflickering Vision-Based Occupancy Networks through Lightweight Spatio-Temporal Correlation](http://arxiv.org/abs/2502.15438v3)** | 2025-07-14 |  |
-| **[Toward accurate RUL and SOH estimation using reinforced graph-based PINNs enhanced with dynamic weights](http://arxiv.org/abs/2507.09766v1)** | 2025-07-13 |  |
-| **[BiDepth: A Bidirectional-Depth Neural Network for Spatio-Temporal Prediction](http://arxiv.org/abs/2501.08411v3)** | 2025-07-13 | <details><summary>21 pa...</summary><p>21 pages, 6 figures. Submitted to ACM TKDD</p></details> |
-| **[EV-STLLM: Electric vehicle charging forecasting based on spatio-temporal large language models with multi-frequency and multi-scale information fusion](http://arxiv.org/abs/2507.09527v1)** | 2025-07-13 |  |
-| **[Deformable Dynamic Convolution for Accurate yet Efficient Spatio-Temporal Traffic Prediction](http://arxiv.org/abs/2507.11550v1)** | 2025-07-13 | 7 pages |
-| **[MobiWorld: World Models for Mobile Wireless Network](http://arxiv.org/abs/2507.09462v1)** | 2025-07-13 | 7 pages, 6 figures |
-| **[TRACER: Efficient Object Re-Identification in Networked Cameras through Adaptive Query Processing](http://arxiv.org/abs/2507.09448v1)** | 2025-07-13 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling](http://arxiv.org/abs/2507.13207v1)** | 2025-07-17 | <details><summary>10th ...</summary><p>10th Workshop on Advanced Analytics and Learning on Temporal Data (AALTD), ECML 2025</p></details> |
 | **[Impute With Confidence: A Framework for Uncertainty Aware Multivariate Time Series Imputation](http://arxiv.org/abs/2507.09353v1)** | 2025-07-12 |  |
 | **[DIM-SUM: Dynamic IMputation for Smart Utility Management](http://arxiv.org/abs/2506.20023v1)** | 2025-06-24 |  |
 | **[LSCD: Lomb-Scargle Conditioned Diffusion for Time series Imputation](http://arxiv.org/abs/2506.17039v1)** | 2025-06-20 | In ICML 2025 |
@@ -59,7 +60,6 @@ labels: documentation
 | **[SDA-GRIN for Adaptive Spatial-Temporal Multivariate Time Series Imputation](http://arxiv.org/abs/2410.03954v2)** | 2025-05-05 |  |
 | **[Enhancing Data Completeness in Time Series: Imputation Strategies for Missing Data Using Significant Periodically Correlated Components](http://arxiv.org/abs/2505.02008v1)** | 2025-05-04 | 21 pages, 8 figures |
 | **[Asynchronous Graph Generator](http://arxiv.org/abs/2309.17335v4)** | 2025-04-16 | <details><summary>Submi...</summary><p>Submitted to Signal Processing</p></details> |
-| **[Temporal Gaussian Copula For Clinical Multivariate Time Series Data Imputation](http://arxiv.org/abs/2504.02317v1)** | 2025-04-03 | Accepted in BIBM2024 |
 
 ## Irregular Time Series
 | **Title** | **Date** | **Comment** |
@@ -83,25 +83,30 @@ labels: documentation
 ## Diffusion Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Diffused Responsibility: Analyzing the Energy Consumption of Generative Text-to-Audio Diffusion Models](http://arxiv.org/abs/2505.07615v2)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted at WASPAA 2025</p></details> |
-| **[MAMBO: High-Resolution Generative Approach for Mammography Images](http://arxiv.org/abs/2506.08677v2)** | 2025-07-16 | <details><summary>21 pa...</summary><p>21 pages, 14 figures, 7 tables This work has been submitted to the IEEE for possible publication</p></details> |
-| **[CleAR: Robust Context-Guided Generative Lighting Estimation for Mobile Augmented Reality](http://arxiv.org/abs/2411.02179v3)** | 2025-07-16 |  |
-| **[Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors](http://arxiv.org/abs/2507.12336v1)** | 2025-07-16 |  |
-| **[Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models](http://arxiv.org/abs/2507.12318v1)** | 2025-07-16 | <details><summary>In su...</summary><p>In submission, 22 pages, 7 tables, 12 figures</p></details> |
-| **[FADE: Adversarial Concept Erasure in Flow Models](http://arxiv.org/abs/2507.12283v1)** | 2025-07-16 | Camera Ready |
-| **[Generate to Ground: Multimodal Text Conditioning Boosts Phrase Grounding in Medical Vision-Language Models](http://arxiv.org/abs/2507.12236v1)** | 2025-07-16 | <details><summary>20 pa...</summary><p>20 pages, 6 figures. To appear in Proc. MIDL 2025 (PMLR)</p></details> |
-| **[LiDPM: Rethinking Point Diffusion for Lidar Scene Completion](http://arxiv.org/abs/2504.17791v2)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted to IEEE IV 2025 (Oral); v2 - updated quantitative results based on the metrics (Voxel IoU) calculation code corrections</p></details> |
-| **[RODS: Robust Optimization Inspired Diffusion Sampling for Detecting and Reducing Hallucination in Generative Models](http://arxiv.org/abs/2507.12201v1)** | 2025-07-16 |  |
-| **[RadioDiff-3D: A 3D$\times$3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication](http://arxiv.org/abs/2507.12166v1)** | 2025-07-16 |  |
-| **[SmokeSVD: Smoke Reconstruction from A Single View via Progressive Novel View Synthesis and Refinement with Diffusion Models](http://arxiv.org/abs/2507.12156v1)** | 2025-07-16 |  |
-| **[Bridging the Skeleton-Text Modality Gap: Diffusion-Powered Modality Alignment for Zero-shot Skeleton-based Action Recognition](http://arxiv.org/abs/2411.10745v4)** | 2025-07-16 | <details><summary>ICCV ...</summary><p>ICCV 2025 (camera-ready version). Please visit our project page at https://kaist-viclab.github.io/TDSM_site/</p></details> |
-| **[RiemannLoRA: A Unified Riemannian Framework for Ambiguity-Free LoRA Optimization](http://arxiv.org/abs/2507.12142v1)** | 2025-07-16 |  |
-| **[LidarPainter: One-Step Away From Any Lidar View To Novel Guidance](http://arxiv.org/abs/2507.12114v1)** | 2025-07-16 |  |
-| **[Generative Artificial Intelligence for Beamforming in Low-Altitude Economy](http://arxiv.org/abs/2504.15079v2)** | 2025-07-16 |  |
+| **[Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models](http://arxiv.org/abs/2507.13344v1)** | 2025-07-17 | <details><summary>Proje...</summary><p>Project page: https://diffuman4d.github.io/</p></details> |
+| **[FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization](http://arxiv.org/abs/2507.13311v1)** | 2025-07-17 |  |
+| **[DiffClean: Diffusion-based Makeup Removal for Accurate Age Estimation](http://arxiv.org/abs/2507.13292v1)** | 2025-07-17 |  |
+| **[Generative Diffusion Models for Resource Allocation in Wireless Networks](http://arxiv.org/abs/2504.20277v2)** | 2025-07-17 |  |
+| **[Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models](http://arxiv.org/abs/2507.12318v2)** | 2025-07-17 | <details><summary>In su...</summary><p>In submission, 22 pages, 7 tables, 12 figures</p></details> |
+| **[fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting](http://arxiv.org/abs/2507.13146v1)** | 2025-07-17 | <details><summary>Phili...</summary><p>Philippe C. Cattin and Florian Kofler: equal contribution</p></details> |
+| **[Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction](http://arxiv.org/abs/2505.20755v2)** | 2025-07-17 |  |
+| **[DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model](http://arxiv.org/abs/2507.13087v1)** | 2025-07-17 |  |
+| **[Label-Consistent Dataset Distillation with Detector-Guided Refinement](http://arxiv.org/abs/2507.13074v1)** | 2025-07-17 |  |
+| **[Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities](http://arxiv.org/abs/2507.13019v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[From Variability To Accuracy: Conditional Bernoulli Diffusion Models with Consensus-Driven Correction for Thin Structure Segmentation](http://arxiv.org/abs/2507.12985v1)** | 2025-07-17 | <details><summary>Early...</summary><p>Early accepted at MICCAI 2025</p></details> |
+| **[Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning](http://arxiv.org/abs/2507.12977v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted at IROS 2025</p></details> |
+| **[RGB Pre-Training Enhanced Unobservable Feature Latent Diffusion Model for Spectral Reconstruction](http://arxiv.org/abs/2507.12967v1)** | 2025-07-17 |  |
+| **[DMQ: Dissecting Outliers of Diffusion Models for Post-Training Quantization](http://arxiv.org/abs/2507.12933v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[Energy-Efficient RSMA-enabled Low-altitude MEC Optimization Via Generative AI-enhanced Deep Reinforcement Learning](http://arxiv.org/abs/2507.12910v1)** | 2025-07-17 | 13 pages, 10 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative Diffusion Models for Resource Allocation in Wireless Networks](http://arxiv.org/abs/2504.20277v2)** | 2025-07-17 |  |
+| **[A Spectral Interpretation of Redundancy in a Graph Reservoir](http://arxiv.org/abs/2507.12963v1)** | 2025-07-17 | <details><summary>This ...</summary><p>This paper has been accepted for presentation at the 3rd International Workshop on Reservoir Computing (RC 2025) at ICANN 2025</p></details> |
+| **[Multi-Channel Graph Neural Network for Financial Risk Prediction of NEEQ Enterprises](http://arxiv.org/abs/2507.12787v1)** | 2025-07-17 | <details><summary>10 pa...</summary><p>10 pages, 4 figures. Submitted for conference review</p></details> |
+| **[MS-DGCNN++: A Multi-Scale Fusion Dynamic Graph Neural Network with Biological Knowledge Integration for LiDAR Tree Species Classification](http://arxiv.org/abs/2507.12602v1)** | 2025-07-16 |  |
+| **[Rel-HNN: Split Parallel Hypergraph Neural Network for Learning on Relational Databases](http://arxiv.org/abs/2507.12562v1)** | 2025-07-16 |  |
 | **[Heat Kernel Goes Topological](http://arxiv.org/abs/2507.12380v1)** | 2025-07-16 |  |
 | **[Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection](http://arxiv.org/abs/2507.11997v1)** | 2025-07-16 |  |
 | **[Simplifying Graph Kernels for Efficient](http://arxiv.org/abs/2507.03560v2)** | 2025-07-16 |  |
@@ -109,4 +114,7 @@ labels: documentation
 | **[A Graph-in-Graph Learning Framework for Drug-Target Interaction Prediction](http://arxiv.org/abs/2507.11757v1)** | 2025-07-15 |  |
 | **[Graph Neural Networks Powered by Encoder Embedding for Improved Node Learning](http://arxiv.org/abs/2507.11732v1)** | 2025-07-15 |  |
 | **[Subgraph Generation for Generalizing on Out-of-Distribution Links](http://arxiv.org/abs/2507.11710v1)** | 2025-07-15 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, preprint</p></details> |
+| **[PGT-I: Scaling Spatiotemporal GNNs with Memory-Efficient Distributed Training](http://arxiv.org/abs/2507.11683v1)** | 2025-07-15 | <details><summary>To be...</summary><p>To be published in the 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis</p></details> |
+| **[ComFairGNN: Community Fair Graph Neural Network](http://arxiv.org/abs/2411.04371v3)** | 2025-07-15 | PAKDD 2025 |
+| **[Modeling Code: Is Text All You Need?](http://arxiv.org/abs/2507.11467v1)** | 2025-07-15 |  |
 
