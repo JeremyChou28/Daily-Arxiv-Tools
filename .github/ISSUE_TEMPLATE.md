@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 02, 2025
+title: Latest 15 Papers - August 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -87,6 +87,17 @@ labels: documentation
 | **[Learning to Align and Refine: A Foundation-to-Diffusion Framework for Occlusion-Robust Two-Hand Reconstruction](http://arxiv.org/abs/2503.17788v2)** | 2025-07-31 |  |
 | **[DiffuMatch: Category-Agnostic Spectral Diffusion Priors for Robust Non-rigid Shape Matching](http://arxiv.org/abs/2507.23715v1)** | 2025-07-31 | <details><summary>Prese...</summary><p>Presented at ICCV 2025</p></details> |
 | **[UniLDiff: Unlocking the Power of Diffusion Priors for All-in-One Image Restoration](http://arxiv.org/abs/2507.23685v1)** | 2025-07-31 |  |
+| **[I2V-GS: Infrastructure-to-Vehicle View Transformation with Gaussian Splatting for Autonomous Driving Data Generation](http://arxiv.org/abs/2507.23683v1)** | 2025-07-31 |  |
+| **[An Inversion-based Measure of Memorization for Diffusion Models](http://arxiv.org/abs/2405.05846v3)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis](http://arxiv.org/abs/2507.23652v1)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted by MICCAI2025</p></details> |
+| **[DivControl: Knowledge Diversion for Controllable Image Generation](http://arxiv.org/abs/2507.23620v1)** | 2025-07-31 |  |
+| **[MoGA: 3D Generative Avatar Prior for Monocular Gaussian Avatar Reconstruction](http://arxiv.org/abs/2507.23597v1)** | 2025-07-31 | <details><summary>ICCV ...</summary><p>ICCV 2025 (Highlight), Project Page: https://zj-dong.github.io/MoGA/</p></details> |
+| **[Diffusion Beats Autoregressive in Data-Constrained Settings](http://arxiv.org/abs/2507.15857v4)** | 2025-07-31 | <details><summary>Proje...</summary><p>Project Webpage: https://diffusion-scaling.github.io</p></details> |
+| **[Stable-Sim2Real: Exploring Simulation of Real-Captured 3D Data with Two-Stage Depth Diffusion](http://arxiv.org/abs/2507.23483v1)** | 2025-07-31 | <details><summary>ICCV ...</summary><p>ICCV 2025 (Highlight). Project page: https://mutianxu.github.io/stable-sim2real/</p></details> |
+| **[Adjoint-Based Aerodynamic Shape Optimization with a Manifold Constraint Learned by Diffusion Models](http://arxiv.org/abs/2507.23443v1)** | 2025-07-31 |  |
+| **[Mocap-2-to-3: Multi-view Lifting for Monocular Motion Recovery with 2D Pretraining](http://arxiv.org/abs/2503.03222v5)** | 2025-07-31 | <details><summary>Proje...</summary><p>Project page: https://wangzhumei.github.io/mocap-2-to-3/</p></details> |
+| **[Out-of-Distribution Detection in Medical Imaging via Diffusion Trajectories](http://arxiv.org/abs/2507.23411v1)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted at Uncertainty for Safe Utilization of Machine Learning in Medical Imaging, MICCAI 2025</p></details> |
+| **[UniEmo: Unifying Emotional Understanding and Generation with Learnable Expert Queries](http://arxiv.org/abs/2507.23372v1)** | 2025-07-31 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
@@ -94,4 +105,16 @@ labels: documentation
 | **[Identifying Super Spreaders in Multilayer Networks](http://arxiv.org/abs/2505.20980v2)** | 2025-07-31 |  |
 | **[Graph Sampling for Scalable and Expressive Graph Neural Networks on Homophilic Graphs](http://arxiv.org/abs/2410.16593v4)** | 2025-07-30 |  |
 | **[Causal-Inspired Multi-Agent Decision-Making via Graph Reinforcement Learning](http://arxiv.org/abs/2507.23080v1)** | 2025-07-30 |  |
+| **[Repetition Makes Perfect: Recurrent Graph Neural Networks Match Message Passing Limit](http://arxiv.org/abs/2505.00291v2)** | 2025-07-30 |  |
+| **[Graph Collaborative Attention Network for Link Prediction in Knowledge Graphs](http://arxiv.org/abs/2507.03947v2)** | 2025-07-30 | <details><summary>Homep...</summary><p>Homepage: https://graphattentionnetwork.github.io</p></details> |
+| **[Hyperbolic Graph Learning: A Comprehensive Review](http://arxiv.org/abs/2202.13852v3)** | 2025-07-30 | <details><summary>An im...</summary><p>An improved version of "Hyperbolic Graph Neural Networks: A Review of Methods and Applications"</p></details> |
+| **[TopoLiDM: Topology-Aware LiDAR Diffusion Models for Interpretable and Realistic LiDAR Point Cloud Generation](http://arxiv.org/abs/2507.22454v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted by IROS 2025. Code:https://github.com/IRMVLab/TopoLiDM</p></details> |
+| **[Masked Language Models are Good Heterogeneous Graph Generalizers](http://arxiv.org/abs/2506.06157v2)** | 2025-07-30 |  |
+| **[Benchmarking Android Malware Detection: Traditional vs. Deep Learning Models](http://arxiv.org/abs/2502.15041v2)** | 2025-07-30 | 10 pages, 5 figures |
+| **[Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items](http://arxiv.org/abs/2507.22268v1)** | 2025-07-29 |  |
+| **[A Neuro-Symbolic Approach for Probabilistic Reasoning on Graph Data](http://arxiv.org/abs/2507.21873v1)** | 2025-07-29 | <details><summary>Submi...</summary><p>Submitted to the Journal of Artificial Intelligence Research (JAIR); under revision. 29 pages, 6 figures. Code available at https://github.com/raffaelepojer/NeSy-for-graph-data</p></details> |
+| **[LiteFat: Lightweight Spatio-Temporal Graph Learning for Real-Time Driver Fatigue Detection](http://arxiv.org/abs/2507.21756v1)** | 2025-07-29 | 6 pages, 1 figure |
+| **[Data-Driven Extended Corresponding State Approach for Residual Property Prediction of Hydrofluoroolefins](http://arxiv.org/abs/2507.21720v1)** | 2025-07-29 |  |
+| **[Hierarchical Graph Neural Network for Compressed Speech Steganalysis](http://arxiv.org/abs/2507.21591v1)** | 2025-07-29 |  |
+| **[Torque-based Graph Surgery:Enhancing Graph Neural Networks with Hierarchical Rewiring](http://arxiv.org/abs/2507.21422v1)** | 2025-07-29 |  |
 
