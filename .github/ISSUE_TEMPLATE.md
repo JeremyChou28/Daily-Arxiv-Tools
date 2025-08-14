@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 13, 2025
+title: Latest 15 Papers - August 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -83,7 +83,7 @@ labels: documentation
 ## Diffusion Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer](http://arxiv.org/abs/2508.09131v1)** | 2025-08-12 |  |
+| **[Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer](http://arxiv.org/abs/2508.09131v2)** | 2025-08-13 |  |
 | **[Euclid Quick Data Release (Q1). Active galactic nuclei identification using diffusion-based inpainting of Euclid VIS images](http://arxiv.org/abs/2503.15321v2)** | 2025-08-12 | <details><summary>Paper...</summary><p>Paper submitted as part of the A&A Special Issue `Euclid Quick Data Release (Q1)', 34 pages, 26 figures</p></details> |
 | **[Fancy123: One Image to High-Quality 3D Mesh Generation via Plug-and-Play Deformation](http://arxiv.org/abs/2411.16185v2)** | 2025-08-12 | CVPR2025 |
 | **[TaoCache: Structure-Maintained Video Generation Acceleration](http://arxiv.org/abs/2508.08978v1)** | 2025-08-12 |  |
@@ -97,7 +97,7 @@ labels: documentation
 | **[Adaptive Multiple Access and Service Placement for Generative Diffusion Models](http://arxiv.org/abs/2508.07978v2)** | 2025-08-12 | <details><summary>This ...</summary><p>This manuscript has been accepted for presentation at IEEE GLOBECOM 2025. You can use this material personally. Reprinting or republishing this material for the purpose of advertising or promotion, etc., must adhere to IEEE policy. The DOI will be supplied as soon as it becomes available</p></details> |
 | **[From Slow Bidirectional to Fast Autoregressive Video Diffusion Models](http://arxiv.org/abs/2412.07772v3)** | 2025-08-12 | <details><summary>Proje...</summary><p>Project Page: https://causvid.github.io/</p></details> |
 | **[REDUCIO! Generating 1K Video within 16 Seconds using Extremely Compressed Motion Latents](http://arxiv.org/abs/2411.13552v3)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted to ICCV2025. Code available at https://github.com/microsoft/Reducio-VAE</p></details> |
-| **[Yan: Foundational Interactive Video Generation](http://arxiv.org/abs/2508.08601v1)** | 2025-08-12 |  |
+| **[Yan: Foundational Interactive Video Generation](http://arxiv.org/abs/2508.08601v2)** | 2025-08-13 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
