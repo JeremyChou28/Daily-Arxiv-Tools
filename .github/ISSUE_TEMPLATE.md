@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 16, 2025
+title: Latest 15 Papers - August 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -93,6 +93,11 @@ labels: documentation
 | **[Geospatial Diffusion for Land Cover Imperviousness Change Forecasting](http://arxiv.org/abs/2508.10649v1)** | 2025-08-14 |  |
 | **[LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation](http://arxiv.org/abs/2505.11528v3)** | 2025-08-14 | CoRL 2025 |
 | **[Projected Coupled Diffusion for Test-Time Constrained Joint Generation](http://arxiv.org/abs/2508.10531v1)** | 2025-08-14 | 37 pages |
+| **[EgoMusic-driven Human Dance Motion Estimation with Skeleton Mamba](http://arxiv.org/abs/2508.10522v1)** | 2025-08-14 | <details><summary>Accep...</summary><p>Accepted at The 2025 IEEE/CVF International Conference on Computer Vision (ICCV 2025)</p></details> |
+| **[Yan: Foundational Interactive Video Generation](http://arxiv.org/abs/2508.08601v3)** | 2025-08-14 |  |
+| **[KDPE: A Kernel Density Estimation Strategy for Diffusion Policy Trajectory Selection](http://arxiv.org/abs/2508.10511v1)** | 2025-08-14 | <details><summary>9th C...</summary><p>9th Conference on Robot Learning (CoRL 2025), Seoul, Korea</p></details> |
+| **[Motion Planning Diffusion: Learning and Adapting Robot Motion Planning with Diffusion Models](http://arxiv.org/abs/2412.19948v3)** | 2025-08-14 |  |
+| **[TweezeEdit: Consistent and Efficient Image Editing with Path Regularization](http://arxiv.org/abs/2508.10498v1)** | 2025-08-14 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
