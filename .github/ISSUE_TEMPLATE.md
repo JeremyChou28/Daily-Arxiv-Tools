@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2025
+title: Latest 15 Papers - August 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -16,7 +16,7 @@ labels: documentation
 | **[PENGUIN: Enhancing Transformer with Periodic-Nested Group Attention for Long-term Time Series Forecasting](http://arxiv.org/abs/2508.13773v1)** | 2025-08-19 |  |
 | **[FlowState: Sampling Rate Invariant Time Series Forecasting](http://arxiv.org/abs/2508.05287v2)** | 2025-08-19 | <details><summary>Curre...</summary><p>Currently under review</p></details> |
 | **[HRS: Hybrid Representation Framework with Scheduling Awareness for Time Series Forecasting in Crowdsourced Cloud-Edge Platforms](http://arxiv.org/abs/2508.12839v2)** | 2025-08-19 | <details><summary>10 pa...</summary><p>10 pages, 14 figures, ECAI2025</p></details> |
-| **[Simulation of extreme functionals in meteoceanic data: Application to surge evolution over tidal cycles](http://arxiv.org/abs/2508.13687v1)** | 2025-08-19 |  |
+| **[Simulation of extreme functionals in meteoceanic data: Application to surge evolution over tidal cycles](http://arxiv.org/abs/2508.13687v2)** | 2025-08-20 |  |
 | **[Dynamics-Informed Reservoir Computing with Visibility Graphs](http://arxiv.org/abs/2507.19046v2)** | 2025-08-19 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. The following article has been submitted to by Chaos: An Interdisciplinary Journal of Nonlinear Science</p></details> |
 | **[Comparative Analysis of Time Series Foundation Models for Demographic Forecasting: Enhancing Predictive Accuracy in US Population Dynamics](http://arxiv.org/abs/2508.11680v2)** | 2025-08-19 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 3 tables</p></details> |
 | **[Conditionally specified graphical modeling of stationary multivariate time series](http://arxiv.org/abs/2508.13572v1)** | 2025-08-19 |  |
@@ -89,12 +89,12 @@ labels: documentation
 | **[Revisiting Diffusion Q-Learning: From Iterative Denoising to One-Step Action Generation](http://arxiv.org/abs/2508.13904v1)** | 2025-08-19 |  |
 | **[Diffusion-Driven High-Dimensional Variable Selection](http://arxiv.org/abs/2508.13890v1)** | 2025-08-19 |  |
 | **[SSD-TS: Exploring the Potential of Linear State Space Models for Diffusion Models in Time Series Imputation](http://arxiv.org/abs/2410.13338v2)** | 2025-08-19 | KDD' 25 |
-| **[Latent Interpolation Learning Using Diffusion Models for Cardiac Volume Reconstruction](http://arxiv.org/abs/2508.13826v1)** | 2025-08-19 |  |
+| **[Latent Interpolation Learning Using Diffusion Models for Cardiac Volume Reconstruction](http://arxiv.org/abs/2508.13826v2)** | 2025-08-20 |  |
 | **[Sketch3DVE: Sketch-based 3D-Aware Scene Video Editing](http://arxiv.org/abs/2508.13797v1)** | 2025-08-19 | SIGGRAPH 2025 |
 | **[DegDiT: Controllable Audio Generation with Dynamic Event Graph Guided Diffusion Transformer](http://arxiv.org/abs/2508.13786v1)** | 2025-08-19 |  |
 | **[Comparing Conditional Diffusion Models for Synthesizing Contrast-Enhanced Breast MRI from Pre-Contrast Images](http://arxiv.org/abs/2508.13776v1)** | 2025-08-19 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, submitted and accepted to MICCAI Deepbreath workshop 2025</p></details> |
 | **[Eliminating Rasterization: Direct Vector Floor Plan Generation with DiffPlanner](http://arxiv.org/abs/2508.13738v1)** | 2025-08-19 | <details><summary>accep...</summary><p>accepted to IEEE Transactions on Visualization and Computer Graphics</p></details> |
-| **[DiffIER: Optimizing Diffusion Models with Iterative Error Reduction](http://arxiv.org/abs/2508.13628v1)** | 2025-08-19 |  |
+| **[DiffIER: Optimizing Diffusion Models with Iterative Error Reduction](http://arxiv.org/abs/2508.13628v2)** | 2025-08-20 |  |
 | **[LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation](http://arxiv.org/abs/2505.11528v5)** | 2025-08-19 | CoRL 2025 |
 | **[Temporal-Conditional Referring Video Object Segmentation with Noise-Free Text-to-Video Diffusion Model](http://arxiv.org/abs/2508.13584v1)** | 2025-08-19 | 11 pages, 7 figures |
 | **[Sample Complexity of Diffusion Model Training Without Empirical Risk Minimizer Access](http://arxiv.org/abs/2505.18344v3)** | 2025-08-19 |  |
@@ -113,7 +113,7 @@ labels: documentation
 | **[RoTO: Robust Topology Obfuscation Against Tomography Inference Attacks](http://arxiv.org/abs/2508.12852v1)** | 2025-08-18 |  |
 | **[Scaling Multi-Agent Epistemic Planning through GNN-Derived Heuristics](http://arxiv.org/abs/2508.12840v1)** | 2025-08-18 |  |
 | **[Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings](http://arxiv.org/abs/2506.17064v4)** | 2025-08-18 | <details><summary>10 pa...</summary><p>10 pages (main text), 4 figures, 2 tables. Submitted to NeurIPS 2025. Code and data are publicly available</p></details> |
-| **[Benchmarking Spectral Graph Neural Networks: A Comprehensive Study on Effectiveness and Efficiency](http://arxiv.org/abs/2406.09675v2)** | 2025-08-18 | <details><summary>Full ...</summary><p>Full Technical Report. Our code and evaluation is available at: https://github.com/gdmnl/Spectral-GNN-Benchmark</p></details> |
+| **[A Comprehensive Benchmark on Spectral GNNs: The Impact on Efficiency, Memory, and Effectiveness](http://arxiv.org/abs/2406.09675v3)** | 2025-08-20 | <details><summary>Techn...</summary><p>Technical Report with Appendix. Our code and evaluation is available at: https://github.com/gdmnl/Spectral-GNN-Benchmark</p></details> |
 | **[S2FGL: Spatial Spectral Federated Graph Learning](http://arxiv.org/abs/2507.02409v4)** | 2025-08-18 |  |
 | **[MPOCryptoML: Multi-Pattern based Off-Chain Crypto Money Laundering Detection](http://arxiv.org/abs/2508.12641v1)** | 2025-08-18 |  |
 | **[FlowMol3: Flow Matching for 3D De Novo Small-Molecule Generation](http://arxiv.org/abs/2508.12629v1)** | 2025-08-18 |  |
