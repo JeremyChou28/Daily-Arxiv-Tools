@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 22, 2025
+title: Latest 15 Papers - August 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -74,6 +74,11 @@ labels: documentation
 | **[DualDynamics: Synergizing Implicit and Explicit Methods for Robust Irregular Time Series Analysis](http://arxiv.org/abs/2401.04979v6)** | 2025-06-09 | <details><summary>Publi...</summary><p>Published at the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). https://ojs.aaai.org/index.php/AAAI/article/view/34173</p></details> |
 | **[Robust Moment Identification for Nonlinear PDEs via a Neural ODE Approach](http://arxiv.org/abs/2506.05245v1)** | 2025-06-05 |  |
 | **[A Kernel-Based Approach for Accurate Steady-State Detection in Performance Time Series](http://arxiv.org/abs/2506.04204v1)** | 2025-06-04 | <details><summary>This ...</summary><p>This manuscript is under review by Future Generation Computer Systems</p></details> |
+| **[Rotary Masked Autoencoders are Versatile Learners](http://arxiv.org/abs/2505.20535v1)** | 2025-05-26 | 26 pages, 5 figures |
+| **[DeNOTS: Stable Deep Neural ODEs for Time Series](http://arxiv.org/abs/2408.08055v3)** | 2025-05-18 |  |
+| **[Marginalization Consistent Probabilistic Forecasting of Irregular Time Series via Mixture of Separable flows](http://arxiv.org/abs/2406.07246v2)** | 2025-05-11 |  |
+| **[PYRREGULAR: A Unified Framework for Irregular Time Series, with Classification Benchmarks](http://arxiv.org/abs/2505.06047v1)** | 2025-05-09 |  |
+| **[Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series](http://arxiv.org/abs/2410.05602v3)** | 2025-02-28 |  |
 
 ## Diffusion Model
 | **Title** | **Date** | **Comment** |
