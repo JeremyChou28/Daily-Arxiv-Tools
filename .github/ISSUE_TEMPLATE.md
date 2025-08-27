@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2025
+title: Latest 15 Papers - August 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -8,7 +8,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Frozen in Time: Parameter-Efficient Time Series Transformers via Reservoir-Induced Feature Expansion and Fixed Random Dynamics](http://arxiv.org/abs/2508.18130v1)** | 2025-08-25 | <details><summary>8 pag...</summary><p>8 pages, 5 tables, 3 figures, accepted at ECAI 2025</p></details> |
-| **[Realizing Reduced and Sparse Biochemical Reaction Networks from Dynamics](http://arxiv.org/abs/2508.18096v1)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted to IEEE CDC 2025. Author-accepted version; supplementary material in appendix file</p></details> |
+| **[Realizing Reduced and Sparse Biochemical Reaction Networks from Dynamics](http://arxiv.org/abs/2508.18096v2)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted to IEEE CDC 2025. Author-accepted version; supplementary material in ancillary files (In this version, supplementary PDF is moved to ancillary files; no content changes to main article)</p></details> |
 | **[Riemannian Change Point Detection on Manifolds with Robust Centroid Estimation](http://arxiv.org/abs/2508.18045v1)** | 2025-08-25 |  |
 | **[An Unsupervised Deep XAI Framework for Localization of Concurrent Replay Attacks in Nuclear Reactor Signals](http://arxiv.org/abs/2508.09162v2)** | 2025-08-25 | <details><summary>Added...</summary><p>Added references, corrected typos, grammar check, authors updated</p></details> |
 | **[A foundation model with multi-variate parallel attention to generate neuronal activity](http://arxiv.org/abs/2506.20354v2)** | 2025-08-25 | <details><summary>The c...</summary><p>The code is available at https://github.com/IBM/multi-variate-parallel-transformer. The SWEC iEEG dataset is available at https://huggingface.co/datasets/NeuroTec/SWEC_iEEG_Dataset</p></details> |
@@ -89,7 +89,7 @@ labels: documentation
 | **[Incorporating Pre-trained Diffusion Models in Solving the Schrödinger Bridge Problem](http://arxiv.org/abs/2508.18095v1)** | 2025-08-25 |  |
 | **[V2X-R: Cooperative LiDAR-4D Radar Fusion with Denoising Diffusion for 3D Object Detection](http://arxiv.org/abs/2411.08402v5)** | 2025-08-25 | Accepted by CVPR2025 |
 | **[Objective and Subjective Evaluation of Diffusion-Based Speech Enhancement for Dysarthric Speech](http://arxiv.org/abs/2508.17980v1)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025</p></details> |
-| **[Generative Feature Imputing - A Technique for Error-resilient Semantic Communication](http://arxiv.org/abs/2508.17957v1)** | 2025-08-25 |  |
+| **[Generative Feature Imputing - A Technique for Error-resilient Semantic Communication](http://arxiv.org/abs/2508.17957v2)** | 2025-08-26 |  |
 | **[FasterVoiceGrad: Faster One-step Diffusion-Based Voice Conversion with Adversarial Diffusion Conversion Distillation](http://arxiv.org/abs/2508.17868v1)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025. Project page: https://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/fastervoicegrad/</p></details> |
 | **[Diffusion-Based Data Augmentation for Medical Image Segmentation](http://arxiv.org/abs/2508.17844v1)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted to CVAMD Workshop at ICCV 2025</p></details> |
 | **[MeSS: City Mesh-Guided Outdoor Scene Generation with Cross-View Consistent Diffusion](http://arxiv.org/abs/2508.15169v2)** | 2025-08-25 |  |
@@ -103,18 +103,4 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Weisfeiler-Lehman meets Events: An Expressivity Analysis for Continuous-Time Dynamic Graph Neural Networks](http://arxiv.org/abs/2508.18052v1)** | 2025-08-25 |  |
-| **[Training Transformers for Mesh-Based Simulations](http://arxiv.org/abs/2508.18051v1)** | 2025-08-25 |  |
-| **[Neural Algorithmic Reasoners informed Large Language Model for Multi-Agent Path Finding](http://arxiv.org/abs/2508.17971v1)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted by IJCNN 2025</p></details> |
-| **[Geometry-Aware Spiking Graph Neural Network](http://arxiv.org/abs/2508.06793v2)** | 2025-08-25 |  |
-| **[Can Large Language Models Act as Ensembler for Multi-GNNs?](http://arxiv.org/abs/2410.16822v3)** | 2025-08-25 |  |
-| **[Quantum Graph Attention Network: A Novel Quantum Multi-Head Attention Mechanism for Graph Learning](http://arxiv.org/abs/2508.17630v1)** | 2025-08-25 |  |
-| **[Bridging Graph and State-Space Modeling for Intensive Care Unit Length of Stay Prediction](http://arxiv.org/abs/2508.17554v1)** | 2025-08-24 |  |
-| **[GraphMMP: A Graph Neural Network Model with Mutual Information and Global Fusion for Multimodal Medical Prognosis](http://arxiv.org/abs/2508.17478v1)** | 2025-08-24 |  |
-| **[Graph-R1: Incentivizing the Zero-Shot Graph Learning Capability in LLMs via Explicit Reasoning](http://arxiv.org/abs/2508.17387v1)** | 2025-08-24 |  |
-| **[Multi-Level Fusion Graph Neural Network for Molecule Property Prediction](http://arxiv.org/abs/2507.03430v2)** | 2025-08-24 | <details><summary>42 pa...</summary><p>42 pages, 11 figures, 6 tables</p></details> |
-| **[Graph-oriented Instruction Tuning of Large Language Models for Generic Graph Mining](http://arxiv.org/abs/2403.04780v3)** | 2025-08-24 | <details><summary>Accep...</summary><p>Accepted by TPAMI 2025</p></details> |
-| **[HMAE: Self-Supervised Few-Shot Learning for Quantum Spin Systems](http://arxiv.org/abs/2505.03140v2)** | 2025-08-24 |  |
-| **[Equivariant Spherical Transformer for Efficient Molecular Modeling](http://arxiv.org/abs/2505.23086v2)** | 2025-08-24 | 24 pages, 3 figures |
-| **[Scaling Graph Transformers: A Comparative Study of Sparse and Dense Attention](http://arxiv.org/abs/2508.17175v1)** | 2025-08-24 |  |
-| **[Two Birds with One Stone: Enhancing Uncertainty Quantification and Interpretability with Graph Functional Neural Process](http://arxiv.org/abs/2508.17097v1)** | 2025-08-23 | AISTATS'25 |
 
