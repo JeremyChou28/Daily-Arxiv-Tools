@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 02, 2025
+title: Latest 15 Papers - September 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -10,7 +10,7 @@ labels: documentation
 | **[Orientability of Causal Relations in Time Series using Summary Causal Graphs and Faithful Distributions](http://arxiv.org/abs/2508.21742v1)** | 2025-08-29 |  |
 | **[Time-RA: Towards Time Series Reasoning for Anomaly with LLM Feedback](http://arxiv.org/abs/2507.15066v3)** | 2025-08-29 | <details><summary>Under...</summary><p>Under review. 19 pages, 8 figures, 12 tables. Code and dataset are publicly available</p></details> |
 | **[Practically significant change points in high dimension -- measuring signal strength pro active component](http://arxiv.org/abs/2508.21520v1)** | 2025-08-29 |  |
-| **[Data-driven Discovery of Digital Twins in Biomedical Research](http://arxiv.org/abs/2508.21484v1)** | 2025-08-29 |  |
+| **[Data-driven Discovery of Digital Twins in Biomedical Research](http://arxiv.org/abs/2508.21484v2)** | 2025-09-01 |  |
 | **[DLGAN : Time Series Synthesis Based on Dual-Layer Generative Adversarial Networks](http://arxiv.org/abs/2508.21340v1)** | 2025-08-29 | 8 pages, 3 figures |
 | **[Stage-Diff: Stage-wise Long-Term Time Series Generation Based on Diffusion Models](http://arxiv.org/abs/2508.21330v1)** | 2025-08-29 | 8 pages, 5 figures |
 | **[Change Point Detection on A Separable Model for Dynamic Networks](http://arxiv.org/abs/2303.17642v5)** | 2025-08-29 |  |
@@ -38,7 +38,7 @@ labels: documentation
 | **[When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios](http://arxiv.org/abs/2507.20198v4)** | 2025-08-28 | <details><summary>For o...</summary><p>For ongoing updates and to track the latest advances in this promising area, we maintain a public repository: https://github.com/cokeshao/Awesome-Multimodal-Token-Compression</p></details> |
 | **[ScanMove: Motion Prediction and Transfer for Unregistered Body Meshes](http://arxiv.org/abs/2508.21095v1)** | 2025-08-27 |  |
 | **[Spherical Vision Transformers for Audio-Visual Saliency Prediction in 360-Degree Videos](http://arxiv.org/abs/2508.20221v1)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transaction on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</p></details> |
-| **[Combined Stochastic and Robust Optimization for Electric Autonomous Mobility-on-Demand with Nested Benders Decomposition](http://arxiv.org/abs/2508.19933v1)** | 2025-08-27 | 29 pages, 12 figures |
+| **[Combined Stochastic and Robust Optimization for Electric Autonomous Mobility-on-Demand with Nested Benders Decomposition](http://arxiv.org/abs/2508.19933v2)** | 2025-09-01 | 29 pages, 12 figures |
 | **[Efficient Human-Aware Task Allocation for Multi-Robot Systems in Shared Environments](http://arxiv.org/abs/2508.19731v1)** | 2025-08-27 | <details><summary>7 Pag...</summary><p>7 Pages, 4 Figures, Accepted in IROS2025</p></details> |
 | **[UTAL-GNN: Unsupervised Temporal Action Localization using Graph Neural Networks](http://arxiv.org/abs/2508.19647v1)** | 2025-08-27 | <details><summary>This ...</summary><p>This paper has been accepted at the ICIP Satellite Workshop 2025</p></details> |
 
@@ -93,11 +93,6 @@ labels: documentation
 | **[Equivariant Hypergraph Diffusion for Crystal Structure Prediction](http://arxiv.org/abs/2501.18850v2)** | 2025-08-29 | 14 pages, 4 figures |
 | **[Large Intestine 3D Shape Refinement Using Point Diffusion Models for Digital Phantom Generation](http://arxiv.org/abs/2309.08289v3)** | 2025-08-29 |  |
 | **[Dynamics-Compliant Trajectory Diffusion for Super-Nominal Payload Manipulation](http://arxiv.org/abs/2508.21375v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to 2025 Conference on Robot Learning [CoRL]</p></details> |
-| **[CLUE-MARK: Watermarking Diffusion Models using CLWE](http://arxiv.org/abs/2411.11434v4)** | 2025-08-29 |  |
-| **[Efficient Diffusion-Based 3D Human Pose Estimation with Hierarchical Temporal Pruning](http://arxiv.org/abs/2508.21363v1)** | 2025-08-29 |  |
-| **[Stage-Diff: Stage-wise Long-Term Time Series Generation Based on Diffusion Models](http://arxiv.org/abs/2508.21330v1)** | 2025-08-29 | 8 pages, 5 figures |
-| **[Gaussian is All You Need: A Unified Framework for Solving Inverse Problems via Diffusion Posterior Sampling](http://arxiv.org/abs/2409.08906v3)** | 2025-08-29 |  |
-| **[BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning](http://arxiv.org/abs/2506.05762v2)** | 2025-08-29 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
