@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 05, 2025
+title: Latest 15 Papers - September 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -112,4 +112,9 @@ labels: documentation
 | **[Learning to Select MCP Algorithms: From Traditional ML to Dual-Channel GAT-MLP](http://arxiv.org/abs/2508.08005v2)** | 2025-09-03 | 10 pages, 6 figures |
 | **[Temporal social network modeling of mobile connectivity data with graph neural networks](http://arxiv.org/abs/2509.03319v1)** | 2025-09-03 | 22 pages, 7 figures |
 | **[Can Large Language Models Act as Ensembler for Multi-GNNs?](http://arxiv.org/abs/2410.16822v5)** | 2025-09-03 |  |
+| **[Rashomon in the Streets: Explanation Ambiguity in Scene Understanding](http://arxiv.org/abs/2509.03169v1)** | 2025-09-03 | <details><summary>AAAI ...</summary><p>AAAI 2025 Fall Symposium: AI Trustworthiness and Risk Assessment for Challenged Contexts (ATRACC)</p></details> |
+| **[Memorization in Graph Neural Networks](http://arxiv.org/abs/2508.19352v3)** | 2025-09-03 | <details><summary>Versi...</summary><p>Version3, updated affiliation</p></details> |
+| **[TRELLIS-Enhanced Surface Features for Comprehensive Intracranial Aneurysm Analysis](http://arxiv.org/abs/2509.03095v1)** | 2025-09-03 |  |
+| **[Statistical Test for Saliency Maps of Graph Neural Networks via Selective Inference](http://arxiv.org/abs/2505.16893v2)** | 2025-09-03 |  |
+| **[Unsupervised Learning of Local Updates for Maximum Independent Set in Dynamic Graphs](http://arxiv.org/abs/2505.13754v2)** | 2025-09-03 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 2 tables, 3 algorithms</p></details> |
 
