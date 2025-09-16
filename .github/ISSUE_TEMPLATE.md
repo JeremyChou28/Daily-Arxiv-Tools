@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 15, 2025
+title: Latest 15 Papers - September 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -7,25 +7,18 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[NeedForHeat DataGear: An Open Monitoring System to Accelerate the Residential Heating Transition](http://arxiv.org/abs/2509.06927v2)** | 2025-09-11 | <details><summary>10 pa...</summary><p>10 pages + 3 pages appendices</p></details> |
-| **[Bridging Simplicity and Sophistication using GLinear: A Novel Architecture for Enhanced Time Series Prediction](http://arxiv.org/abs/2501.01087v4)** | 2025-09-11 | <details><summary>Submi...</summary><p>Submitted to Digital Signal Processing Journal</p></details> |
-| **[AdaWaveNet: Adaptive Wavelet Network for Time Series Analysis](http://arxiv.org/abs/2405.11124v2)** | 2025-09-11 | <details><summary>Trans...</summary><p>Transactions on Machine Learning Research; code: https://github.com/comp-well-org/AdaWaveNet ; TMLR review: https://openreview.net/forum?id=m4bE9Y9FlX</p></details> |
-| **[A Vector-Quantized Foundation Model for Patient Behavior Monitoring](http://arxiv.org/abs/2503.15221v3)** | 2025-09-11 | <details><summary>10 pa...</summary><p>10 pages (32 with references and supplementary material). Submitted to Elsevier's journal on Artificial Intelligence in Medicine</p></details> |
-| **[Temporal Query Network for Efficient Multivariate Time Series Forecasting](http://arxiv.org/abs/2505.12917v2)** | 2025-09-11 | ICML 2025 |
-| **[FinMultiTime: A Four-Modal Bilingual Dataset for Financial Time-Series Analysis](http://arxiv.org/abs/2506.05019v2)** | 2025-09-11 | Under review |
-| **[Learning What Matters: Causal Time Series Modeling for Arctic Sea Ice Prediction](http://arxiv.org/abs/2509.09128v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted and presented at the AI4TS Workshop @ IJCAI 2025 (non-archival)</p></details> |
-| **[ANOVA for High-dimensional Non-stationary Time Series](http://arxiv.org/abs/2509.09079v1)** | 2025-09-11 |  |
-| **[Deep Reinforcement Learning for Inventory Networks: Toward Reliable Policy Optimization](http://arxiv.org/abs/2306.11246v3)** | 2025-09-10 |  |
-| **[Spec2VolCAMU-Net: A Spectrogram-to-Volume Model for EEG-to-fMRI Reconstruction based on Multi-directional Time-Frequency Convolutional Attention Encoder and Vision-Mamba U-Net](http://arxiv.org/abs/2505.09521v2)** | 2025-09-10 |  |
-| **[FoundationalECGNet: A Lightweight Foundational Model for ECG-based Multitask Cardiac Analysis](http://arxiv.org/abs/2509.08961v1)** | 2025-09-10 |  |
-| **[Feature Representation and Clustering of Airport Congestion with Hurst Exponent and High Order Statistics](http://arxiv.org/abs/2509.08952v1)** | 2025-09-10 |  |
-| **[Quantum-Assisted Machine Learning Models for Enhanced Weather Prediction](http://arxiv.org/abs/2503.23408v3)** | 2025-09-12 | <details><summary>Will ...</summary><p>Will require more permissions and data to be republished later for academic rigor</p></details> |
-| **[FinZero: Launching Multi-modal Financial Time Series Forecast with Large Reasoning Model](http://arxiv.org/abs/2509.08742v1)** | 2025-09-10 |  |
-| **[Investigating Compositional Reasoning in Time Series Foundation Models](http://arxiv.org/abs/2502.06037v2)** | 2025-09-10 |  |
+| **[ARMA Block: A CNN-Based Autoregressive and Moving Average Module for Long-Term Time Series Forecasting](http://arxiv.org/abs/2509.10324v1)** | 2025-09-12 |  |
 
 ## Spatio Temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Acetrans: An Autonomous Corridor-Based and Efficient UAV Suspended Transport System](http://arxiv.org/abs/2509.10349v1)** | 2025-09-12 |  |
+| **[GundamQ: Multi-Scale Spatio-Temporal Representation Learning for Robust Robot Path Planning](http://arxiv.org/abs/2509.10305v1)** | 2025-09-12 | 6 pages, 5 figures |
+| **[Multivariate Long-term Time Series Forecasting with Fourier Neural Filter](http://arxiv.org/abs/2506.09174v2)** | 2025-09-12 |  |
+| **[Sparse Coding Representation of 2-way Data](http://arxiv.org/abs/2509.10033v1)** | 2025-09-12 |  |
+| **[ISTASTrack: Bridging ANN and SNN via ISTA Adapter for RGB-Event Tracking](http://arxiv.org/abs/2509.09977v1)** | 2025-09-12 | 15 pages, 8 figures |
+| **[TSGCNeXt: Dynamic-Static Multi-Graph Convolution for Efficient Skeleton-Based Action Recognition with Long-term Learning Potential](http://arxiv.org/abs/2304.11631v2)** | 2025-09-12 |  |
+| **[Spatio-Temporal Graphical Counterfactuals: An Overview](http://arxiv.org/abs/2407.01875v2)** | 2025-09-12 | in press |
 | **[Mechanistic Learning with Guided Diffusion Models to Predict Spatio-Temporal Brain Tumor Growth](http://arxiv.org/abs/2509.09610v1)** | 2025-09-11 | 13 pages, 4 figures |
 | **[Conditioning on PDE Parameters to Generalise Deep Learning Emulation of Stochastic and Chaotic Dynamics](http://arxiv.org/abs/2509.09599v1)** | 2025-09-11 |  |
 | **[SMapper: A Multi-Modal Data Acquisition Platform for SLAM Benchmarking](http://arxiv.org/abs/2509.09509v1)** | 2025-09-11 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 5 tables</p></details> |
@@ -34,13 +27,6 @@ labels: documentation
 | **[ProgD: Progressive Multi-scale Decoding with Dynamic Graphs for Joint Multi-agent Motion Forecasting](http://arxiv.org/abs/2509.09210v1)** | 2025-09-11 |  |
 | **[GeneVA: A Dataset of Human Annotations for Generative Text to Video Artifacts](http://arxiv.org/abs/2509.08818v1)** | 2025-09-10 |  |
 | **[Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction](http://arxiv.org/abs/2509.08752v1)** | 2025-09-10 |  |
-| **[Skeleton-based sign language recognition using a dual-stream spatio-temporal dynamic graph convolutional network](http://arxiv.org/abs/2509.08661v1)** | 2025-09-10 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, ICASSP</p></details> |
-| **[Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration](http://arxiv.org/abs/2509.08354v1)** | 2025-09-10 | <details><summary>20 pa...</summary><p>20 pages, 19 figures, accepted by IEEE Transactions on Robotics</p></details> |
-| **[Large-scale Pre-training for Grounded Video Caption Generation](http://arxiv.org/abs/2503.10781v3)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. Erratum: An earlier version reported ablations (Table 6 & Fig. 6) with pre-training on a 50k subset of HowToGround1M + fine-tuning on iGround. In the ICCV camera-ready, Table 6 already used the full dataset, but Fig. 6 and a sentence in the text were mistakenly left on 50k. All now use the full HowToGround1M</p></details> |
-| **[Topology-Aware Optimization of Gaussian Primitives for Human-Centric Volumetric Videos](http://arxiv.org/abs/2509.07653v1)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted at SIGGRAPH Asia 2025. Project page: https://guochch.github.io/TaoGS/</p></details> |
-| **[Conditional Video Generation for High-Efficiency Video Compression](http://arxiv.org/abs/2507.15269v3)** | 2025-09-09 | <details><summary>Criti...</summary><p>Critical methodology flaws invalidate key results</p></details> |
-| **[LASER: A Neuro-Symbolic Framework for Learning Spatial-Temporal Scene Graphs with Weak Supervision](http://arxiv.org/abs/2304.07647v6)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted at International Conference on Learning Representations (ICLR) 2025</p></details> |
-| **[H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers](http://arxiv.org/abs/2509.06956v1)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted by TPAMI 2025, Open Sourced. arXiv admin note: substantial text overlap with arXiv:2311.12028</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
