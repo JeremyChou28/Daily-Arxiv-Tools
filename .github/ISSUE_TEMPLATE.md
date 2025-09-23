@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 22, 2025
+title: Latest 15 Papers - September 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -46,7 +46,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[STDiff: A State Transition Diffusion Framework for Time Series Imputation in Industrial Systems](http://arxiv.org/abs/2508.19011v2)** | 2025-08-28 |  |
-| **[A Structure-Preserving Assessment of VBPBB for Time Series Imputation Under Periodic Trends, Noise, and Missingness Mechanisms](http://arxiv.org/abs/2508.19535v1)** | 2025-08-27 | <details><summary>24 pa...</summary><p>24 pages, 6 figure and 3 tables</p></details> |
+| **[A Structure-Preserving Assessment of VBPBB for Time Series Imputation Under Periodic Trends, Noise, and Missingness Mechanisms](http://arxiv.org/abs/2508.19535v2)** | 2025-09-21 | <details><summary>24 pa...</summary><p>24 pages, 6 figure and 3 tables</p></details> |
 | **[SSD-TS: Exploring the Potential of Linear State Space Models for Diffusion Models in Time Series Imputation](http://arxiv.org/abs/2410.13338v2)** | 2025-08-19 | KDD' 25 |
 | **[Temporal Wasserstein Imputation: A Versatile Method for Time Series Imputation](http://arxiv.org/abs/2411.02811v3)** | 2025-08-13 |  |
 | **[Spatial Imputation Drives Cross-Domain Alignment for EEG Classification](http://arxiv.org/abs/2508.03437v1)** | 2025-08-05 | ACMMM 2025 poster |
@@ -84,7 +84,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[FlightDiffusion: Revolutionising Autonomous Drone Training with Diffusion Models Generating FPV Video](http://arxiv.org/abs/2509.14082v2)** | 2025-09-19 | <details><summary>Submi...</summary><p>Submitted to conference</p></details> |
-| **[Dynamic Classifier-Free Diffusion Guidance via Online Feedback](http://arxiv.org/abs/2509.16131v1)** | 2025-09-19 |  |
+| **[Dynamic Classifier-Free Diffusion Guidance via Online Feedback](http://arxiv.org/abs/2509.16131v2)** | 2025-09-22 |  |
 | **[DiffusionNFT: Online Diffusion Reinforcement with Forward Process](http://arxiv.org/abs/2509.16117v1)** | 2025-09-19 |  |
 | **[PRISM: Probabilistic and Robust Inverse Solver with Measurement-Conditioned Diffusion Prior for Blind Inverse Problems](http://arxiv.org/abs/2509.16106v1)** | 2025-09-19 |  |
 | **[Blind-Spot Guided Diffusion for Self-supervised Real-World Denoising](http://arxiv.org/abs/2509.16091v1)** | 2025-09-19 |  |
