@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 28, 2025
+title: Latest 15 Papers - September 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -113,7 +113,7 @@ labels: documentation
 | **[Enhancing Molecular Property Prediction with Knowledge from Large Language Models](http://arxiv.org/abs/2509.20664v1)** | 2025-09-25 | 9 pages, 5 figures |
 | **[Exploring Graph-Transformer Out-of-Distribution Generalization Abilities](http://arxiv.org/abs/2506.20575v2)** | 2025-09-24 |  |
 | **[Graph Variate Neural Networks](http://arxiv.org/abs/2509.20311v1)** | 2025-09-24 |  |
-| **[Beyond Simple Graphs: Neural Multi-Objective Routing on Multigraphs](http://arxiv.org/abs/2506.22095v3)** | 2025-09-24 | 29 pages, 6 Figures |
+| **[Beyond Simple Graphs: Neural Multi-Objective Routing on Multigraphs](http://arxiv.org/abs/2506.22095v4)** | 2025-09-26 | 29 pages, 6 Figures |
 | **[Heterogeneous Directed Hypergraph Neural Network over abstract syntax tree (AST) for Code Classification](http://arxiv.org/abs/2305.04228v6)** | 2025-09-24 | <details><summary>Publi...</summary><p>Published in the 35th International Conference on Software Engineering and Knowledge Engineering (SEKE 2023) as a regular paper; the latest version is consistent with the official conference version</p></details> |
 | **[EC-LDA : Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression](http://arxiv.org/abs/2505.15140v3)** | 2025-09-24 | <details><summary>This ...</summary><p>This paper has been accepted by 2025 IEEE International Conference on Data Mining (ICDM 2025)</p></details> |
 | **[The Iterative Chainlet Partitioning Algorithm for the Traveling Salesman Problem with Drone and Neural Acceleration](http://arxiv.org/abs/2504.15147v2)** | 2025-09-24 | <details><summary>v2: M...</summary><p>v2: Major revision. Extended the neural acceleration model to support problems with a limited drone flying range. Added new experimental results</p></details> |
