@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 04, 2025
+title: Latest 15 Papers - October 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -88,16 +88,6 @@ labels: documentation
 | **[Diffusion Models and the Manifold Hypothesis: Log-Domain Smoothing is Geometry Adaptive](http://arxiv.org/abs/2510.02305v1)** | 2025-10-02 |  |
 | **[Continual Personalization for Diffusion Models](http://arxiv.org/abs/2510.02296v1)** | 2025-10-02 |  |
 | **[Test-Time Anchoring for Discrete Diffusion Posterior Sampling](http://arxiv.org/abs/2510.02291v1)** | 2025-10-02 | Preprint |
-| **[Learning to Generate Object Interactions with Physics-Guided Video Diffusion](http://arxiv.org/abs/2510.02284v1)** | 2025-10-02 |  |
-| **[Self-Forcing++: Towards Minute-Scale High-Quality Video Generation](http://arxiv.org/abs/2510.02283v1)** | 2025-10-02 | preprint |
-| **[TempoControl: Temporal Attention Guidance for Text-to-Video Models](http://arxiv.org/abs/2510.02226v1)** | 2025-10-02 | Under Review |
-| **[Measurement-Guided Consistency Model Sampling for Inverse Problems](http://arxiv.org/abs/2510.02208v1)** | 2025-10-02 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, submitted to IEEE Signal Processing Letters</p></details> |
-| **[Uncovering Semantic Selectivity of Latent Groups in Higher Visual Cortex with Mutual Information-Guided Diffusion](http://arxiv.org/abs/2510.02182v1)** | 2025-10-02 |  |
-| **[One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation](http://arxiv.org/abs/2503.13358v3)** | 2025-10-02 |  |
-| **[Policy Gradient Guidance Enables Test Time Control](http://arxiv.org/abs/2510.02148v1)** | 2025-10-02 |  |
-| **[VGDM: Vision-Guided Diffusion Model for Brain Tumor Detection and Segmentation](http://arxiv.org/abs/2510.02086v1)** | 2025-10-02 |  |
-| **[Fine-Tuning Flow Matching via Maximum Likelihood Estimation of Reconstructions](http://arxiv.org/abs/2510.02081v1)** | 2025-10-02 |  |
-| **[DiCache: Let Diffusion Model Determine Its Own Cache](http://arxiv.org/abs/2508.17356v2)** | 2025-10-02 | <details><summary>Proje...</summary><p>Project Page: https://bujiazi.github.io/dicache.github.io/ Code: https://github.com/Bujiazi/DiCache</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
