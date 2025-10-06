@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2025
+title: Latest 15 Papers - October 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -9,11 +9,12 @@ labels: documentation
 | --- | --- | --- |
 | **[Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models](http://arxiv.org/abs/2510.02224v1)** | 2025-10-02 |  |
 | **[Diffusion Transformers for Imputation: Statistical Efficiency and Uncertainty Quantification](http://arxiv.org/abs/2510.02216v1)** | 2025-10-02 | <details><summary>49 pa...</summary><p>49 pages, 4 figures. Accepted as a poster at NeurIPS 2025</p></details> |
-| **[VarCoNet: A variability-aware self-supervised framework for functional connectome extraction from resting-state fMRI](http://arxiv.org/abs/2510.02120v1)** | 2025-10-02 | <details><summary>My pr...</summary><p>My preview .pdf was not loading. Can you please share with me a compiled .pdf file so I can confirm that the result is correct?</p></details> |
-| **[KAIROS: Unified Training for Universal Non-Autoregressive Time Series Forecasting](http://arxiv.org/abs/2510.02084v1)** | 2025-10-02 |  |
+| **[VarCoNet: A variability-aware self-supervised framework for functional connectome extraction from resting-state fMRI](http://arxiv.org/abs/2510.02120v2)** | 2025-10-03 |  |
+| **[KAIROS: Unified Training for Universal Non-Autoregressive Time Series Forecasting](http://arxiv.org/abs/2510.02084v2)** | 2025-10-03 |  |
 | **[Time-o1: Time-Series Forecasting Needs Transformed Label Alignment](http://arxiv.org/abs/2505.17847v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted as poster in NeurIPS 2025</p></details> |
 | **[Moon: A Modality Conversion-based Efficient Multivariate Time Series Anomaly Detection](http://arxiv.org/abs/2510.01970v1)** | 2025-10-02 |  |
 | **[A Novel Approach for Estimating Largest Lyapunov Exponents in One-Dimensional Chaotic Time Series Using Machine Learning](http://arxiv.org/abs/2507.04868v3)** | 2025-10-02 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 2 Tables, 14 Equations</p></details> |
+| **[Wasserstein multivariate auto-regressive models for modeling distributional time series](http://arxiv.org/abs/2207.05442v6)** | 2025-10-02 |  |
 | **[How Foundational are Foundation Models for Time Series Forecasting?](http://arxiv.org/abs/2510.00742v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Workshop on Recent Advances in Time Series Foundation Models (BERT2S)</p></details> |
 | **[Are Time Series Foundation Models Susceptible to Catastrophic Forgetting?](http://arxiv.org/abs/2510.00809v2)** | 2025-10-02 |  |
 | **[Robust Capacity Expansion Modelling for Renewable Energy Systems](http://arxiv.org/abs/2504.06750v3)** | 2025-10-02 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Learning Beyond Experience: Generalizing to Unseen State Space with Reservoir Computing](http://arxiv.org/abs/2506.05292v2)** | 2025-10-02 | <details><summary>18 pa...</summary><p>18 pages, 12 figures. Updated to include results with RC generalization to unseen segregated and asymmetric basins of attraction and unseen chaotic attractors</p></details> |
 | **[Forecasting intraday particle number size distribution: A functional time series approach](http://arxiv.org/abs/2510.01692v1)** | 2025-10-02 | <details><summary>31 pa...</summary><p>31 pages, 11 figures, 2 tables</p></details> |
 | **[Learning Time-Series Representations by Hierarchical Uniformity-Tolerance Latent Balancing](http://arxiv.org/abs/2510.01658v1)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted in Transactions on Machine Learning Research</p></details> |
-| **[FTSCommDetector: Discovering Behavioral Communities through Temporal Synchronization](http://arxiv.org/abs/2510.00014v2)** | 2025-10-02 |  |
 
 ## Spatio Temporal
 | **Title** | **Date** | **Comment** |
@@ -35,12 +35,6 @@ labels: documentation
 | **[Graphon Particle Systems, Part I: Spatio-Temporal Approximation and Law of Large Numbers](http://arxiv.org/abs/2405.16760v4)** | 2025-10-01 |  |
 | **[GUI-KV: Efficient GUI Agents via KV Cache with Spatio-Temporal Awareness](http://arxiv.org/abs/2510.00536v1)** | 2025-10-01 |  |
 | **[Black-Box Time-Series Domain Adaptation via Cross-Prompt Foundation Models](http://arxiv.org/abs/2510.00487v1)** | 2025-10-01 |  |
-| **[Robust Spatiotemporally Contiguous Anomaly Detection Using Tensor Decomposition](http://arxiv.org/abs/2510.00460v1)** | 2025-10-01 |  |
-| **[UrbanGraph: Physics-Informed Spatio-Temporal Dynamic Heterogeneous Graphs for Urban Microclimate Prediction](http://arxiv.org/abs/2510.00457v1)** | 2025-10-01 |  |
-| **[Editing Physiological Signals in Videos Using Latent Representations](http://arxiv.org/abs/2509.25348v2)** | 2025-10-01 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, 7 tables</p></details> |
-| **[STaR-Attack: A Spatio-Temporal and Narrative Reasoning Attack Framework for Unified Multimodal Understanding and Generation Models](http://arxiv.org/abs/2509.26473v1)** | 2025-09-30 |  |
-| **[Continuous Space-Time Video Super-Resolution with 3D Fourier Fields](http://arxiv.org/abs/2509.26325v1)** | 2025-09-30 |  |
-| **[TSalV360: A Method and Dataset for Text-driven Saliency Detection in 360-Degrees Videos](http://arxiv.org/abs/2509.26208v1)** | 2025-09-30 | <details><summary>IEEE ...</summary><p>IEEE CBMI 2025. This is the authors' accepted version. The final publication is available at https://ieeexplore.ieee.org/</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
@@ -88,6 +82,16 @@ labels: documentation
 | **[Diffusion Models and the Manifold Hypothesis: Log-Domain Smoothing is Geometry Adaptive](http://arxiv.org/abs/2510.02305v1)** | 2025-10-02 |  |
 | **[Continual Personalization for Diffusion Models](http://arxiv.org/abs/2510.02296v1)** | 2025-10-02 |  |
 | **[Test-Time Anchoring for Discrete Diffusion Posterior Sampling](http://arxiv.org/abs/2510.02291v1)** | 2025-10-02 | Preprint |
+| **[Learning to Generate Object Interactions with Physics-Guided Video Diffusion](http://arxiv.org/abs/2510.02284v1)** | 2025-10-02 |  |
+| **[Self-Forcing++: Towards Minute-Scale High-Quality Video Generation](http://arxiv.org/abs/2510.02283v1)** | 2025-10-02 | preprint |
+| **[TempoControl: Temporal Attention Guidance for Text-to-Video Models](http://arxiv.org/abs/2510.02226v1)** | 2025-10-02 | Under Review |
+| **[Measurement-Guided Consistency Model Sampling for Inverse Problems](http://arxiv.org/abs/2510.02208v1)** | 2025-10-02 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, submitted to IEEE Signal Processing Letters</p></details> |
+| **[Uncovering Semantic Selectivity of Latent Groups in Higher Visual Cortex with Mutual Information-Guided Diffusion](http://arxiv.org/abs/2510.02182v1)** | 2025-10-02 |  |
+| **[One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation](http://arxiv.org/abs/2503.13358v3)** | 2025-10-02 |  |
+| **[Policy Gradient Guidance Enables Test Time Control](http://arxiv.org/abs/2510.02148v1)** | 2025-10-02 |  |
+| **[VGDM: Vision-Guided Diffusion Model for Brain Tumor Detection and Segmentation](http://arxiv.org/abs/2510.02086v1)** | 2025-10-02 |  |
+| **[Fine-Tuning Flow Matching via Maximum Likelihood Estimation of Reconstructions](http://arxiv.org/abs/2510.02081v1)** | 2025-10-02 |  |
+| **[DiCache: Let Diffusion Model Determine Its Own Cache](http://arxiv.org/abs/2508.17356v2)** | 2025-10-02 | <details><summary>Proje...</summary><p>Project Page: https://bujiazi.github.io/dicache.github.io/ Code: https://github.com/Bujiazi/DiCache</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
