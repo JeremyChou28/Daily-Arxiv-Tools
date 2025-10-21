@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 20, 2025
+title: Latest 15 Papers - October 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -21,7 +21,7 @@ labels: documentation
 | **[Accurate Bayesian inference for tail risk extrapolation in time series](http://arxiv.org/abs/2510.14637v1)** | 2025-10-16 |  |
 | **[Proprioceptive Image: An Image Representation of Proprioceptive Data from Quadruped Robots for Contact Estimation Learning](http://arxiv.org/abs/2510.14612v1)** | 2025-10-16 |  |
 | **[Data-driven Calibration Sample Selection and Forecast Combination in Electricity Price Forecasting: An Application of the ARHNN Method](http://arxiv.org/abs/2510.15011v1)** | 2025-10-16 |  |
-| **[Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective](http://arxiv.org/abs/2510.14510v1)** | 2025-10-16 |  |
+| **[Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective](http://arxiv.org/abs/2510.14510v2)** | 2025-10-20 |  |
 
 ## Spatio Temporal
 | **Title** | **Date** | **Comment** |
@@ -109,7 +109,7 @@ labels: documentation
 | **[Backdoor or Manipulation? Graph Mixture of Experts Can Defend Against Various Graph Adversarial Attacks](http://arxiv.org/abs/2510.15333v1)** | 2025-10-17 |  |
 | **[Spatiotemporal Traffic Prediction in Distributed Backend Systems via Graph Neural Networks](http://arxiv.org/abs/2510.15215v1)** | 2025-10-17 |  |
 | **[Structural Generalization for Microservice Routing Using Graph Neural Networks](http://arxiv.org/abs/2510.15210v1)** | 2025-10-17 |  |
-| **[OCR-APT: Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs](http://arxiv.org/abs/2510.15188v1)** | 2025-10-16 |  |
+| **[OCR-APT: Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs](http://arxiv.org/abs/2510.15188v2)** | 2025-10-20 | <details><summary>This ...</summary><p>This is the authors' extended version of the paper accepted for publication at the ACM SIGSAC Conference on Computer and Communications Security (CCS 2025). The final published version is available at https://doi.org/10.1145/3719027.3765219</p></details> |
 | **[GraphLand: Evaluating Graph Machine Learning Models on Diverse Industrial Data](http://arxiv.org/abs/2409.14500v4)** | 2025-10-16 |  |
 | **[A Comprehensive Evaluation of Graph Neural Networks and Physics Informed Learning for Surrogate Modelling of Finite Element Analysis](http://arxiv.org/abs/2510.15750v1)** | 2025-10-16 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 5 tables. Code available at:https://github.com/SinghNayanKumar/DL-surrogate-modelling</p></details> |
 | **[Spatial Computing Communications for Multi-User Virtual Reality in Distributed Mobile Edge Computing Network](http://arxiv.org/abs/2510.14243v1)** | 2025-10-16 | <details><summary>submi...</summary><p>submited to IEEE journal</p></details> |
