@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 27, 2025
+title: Latest 15 Papers - October 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -27,6 +27,20 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[REVE: A Foundation Model for EEG -- Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects](http://arxiv.org/abs/2510.21585v1)** | 2025-10-24 | <details><summary>Code ...</summary><p>Code available at: https://brain-bzh.github.io/reve/</p></details> |
+| **[RiverMamba: A State Space Model for Global River Discharge and Flood Forecasting](http://arxiv.org/abs/2505.22535v3)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025). Main paper 10 pages, Appendix 54 pages</p></details> |
+| **[Unveiling the Spatial-temporal Effective Receptive Fields of Spiking Neural Networks](http://arxiv.org/abs/2510.21403v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Acceped by 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[Action Quality Assessment via Hierarchical Pose-guided Multi-stage Contrastive Regression](http://arxiv.org/abs/2501.03674v2)** | 2025-10-24 |  |
+| **[Spiking Neural Networks for Radio Frequency Interference Detection in Radio Astronomy](http://arxiv.org/abs/2412.06124v2)** | 2025-10-24 | <details><summary>36 pa...</summary><p>36 pages, 6 figures, 10 tables. In-Review</p></details> |
+| **[SAMA: Towards Multi-Turn Referential Grounded Video Chat with Large Language Models](http://arxiv.org/abs/2505.18812v2)** | 2025-10-24 | NeurIPS 2025 |
+| **[STACI: Spatio-Temporal Aleatoric Conformal Inference](http://arxiv.org/abs/2505.21658v2)** | 2025-10-23 |  |
+| **[Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence](http://arxiv.org/abs/2510.20579v1)** | 2025-10-23 |  |
+| **[GMFVAD: Using Grained Multi-modal Feature to Improve Video Anomaly Detection](http://arxiv.org/abs/2510.20268v1)** | 2025-10-23 |  |
+| **[Crisis-Resilient Portfolio Management via Graph-based Spatio-Temporal Learning](http://arxiv.org/abs/2510.20868v1)** | 2025-10-23 |  |
+| **[PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching](http://arxiv.org/abs/2510.20178v1)** | 2025-10-23 |  |
+| **[LyTimeT: Towards Robust and Interpretable State-Variable Discovery](http://arxiv.org/abs/2510.19716v1)** | 2025-10-22 |  |
+| **[A Data-Driven Method to Identify Major Contributors to Low-Frequency Oscillations](http://arxiv.org/abs/2505.14267v2)** | 2025-10-22 | <details><summary>10 pa...</summary><p>10 pages, 11 figures, Journal paper.Submitted to IEEE Transactions on Power System</p></details> |
+| **[BlockGPT: Spatio-Temporal Modelling of Rainfall via Frame-Level Autoregression](http://arxiv.org/abs/2510.06293v2)** | 2025-10-22 |  |
+| **[Memory-Augmented Generative AI for Real-time Wireless Prediction in Dynamic Industrial Environments](http://arxiv.org/abs/2510.06884v2)** | 2025-10-22 | <details><summary>Found...</summary><p>Found a fundamental error (data leakage) in cross-validation setup affecting both papers. This issue compromises the model training and results, making performance claims unreliable and potentially misleading. We request withdrawal of current versions (v1) to prevent the dissemination of incorrect scientific findings. Corrected versions will be submitted later</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
@@ -60,6 +74,11 @@ labels: documentation
 | **[State of Health Estimation of Batteries Using a Time-Informed Dynamic Sequence-Inverted Transformer](http://arxiv.org/abs/2507.18320v1)** | 2025-07-24 | 11 pages, 3 figures |
 | **[Solar Flare Prediction Using Long Short-term Memory (LSTM) and Decomposition-LSTM with Sliding Window Pattern Recognition](http://arxiv.org/abs/2507.05313v2)** | 2025-07-15 | <details><summary>Publi...</summary><p>Published in the Astrophysical Journal Supplement Series, volume 279, 2025, DOI: 10.3847/1538-4365/addc73</p></details> |
 | **[ReTimeCausal: EM-Augmented Additive Noise Models for Interpretable Causal Discovery in Irregular Time Series](http://arxiv.org/abs/2507.03310v1)** | 2025-07-04 | 12 pages, 2 figures |
+| **[Enhancing Glucose Level Prediction of ICU Patients through Hierarchical Modeling of Irregular Time-Series](http://arxiv.org/abs/2411.01418v3)** | 2025-06-21 | <details><summary>27 pa...</summary><p>27 pages, 7 figures V3: Revised significantly. Added more appendix and a webserver demo</p></details> |
+| **[DualDynamics: Synergizing Implicit and Explicit Methods for Robust Irregular Time Series Analysis](http://arxiv.org/abs/2401.04979v6)** | 2025-06-09 | <details><summary>Publi...</summary><p>Published at the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). https://ojs.aaai.org/index.php/AAAI/article/view/34173</p></details> |
+| **[Robust Moment Identification for Nonlinear PDEs via a Neural ODE Approach](http://arxiv.org/abs/2506.05245v1)** | 2025-06-05 |  |
+| **[A Kernel-Based Approach for Accurate Steady-State Detection in Performance Time Series](http://arxiv.org/abs/2506.04204v1)** | 2025-06-04 | <details><summary>This ...</summary><p>This manuscript is under review by Future Generation Computer Systems</p></details> |
+| **[Rotary Masked Autoencoders are Versatile Learners](http://arxiv.org/abs/2505.20535v1)** | 2025-05-26 | 26 pages, 5 figures |
 
 ## Diffusion Model
 | **Title** | **Date** | **Comment** |
