@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 01, 2025
+title: Latest 15 Papers - November 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -93,11 +93,6 @@ labels: documentation
 | **[EEG-Driven Image Reconstruction with Saliency-Guided Diffusion Models](http://arxiv.org/abs/2510.26391v1)** | 2025-10-30 | Demo paper |
 | **[GLYPH-SR: Can We Achieve Both High-Quality Image Super-Resolution and High-Fidelity Text Recovery via VLM-guided Latent Diffusion Model?](http://arxiv.org/abs/2510.26339v1)** | 2025-10-30 | <details><summary>11 pa...</summary><p>11 pages, 6 figures. Includes supplementary material. Under review as a conference paper at ICLR 2026</p></details> |
 | **[Posterior Sampling by Combining Diffusion Models with Annealed Langevin Dynamics](http://arxiv.org/abs/2510.26324v1)** | 2025-10-30 | NeurIPS 2025 |
-| **[Neurosymbolic Diffusion Models](http://arxiv.org/abs/2505.13138v2)** | 2025-10-30 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[Distributional Multi-objective Black-box Optimization for Diffusion-model Inference-time Multi-Target Generation](http://arxiv.org/abs/2510.26278v1)** | 2025-10-30 |  |
-| **[Revisiting Generative Infrared and Visible Image Fusion Based on Human Cognitive Laws](http://arxiv.org/abs/2510.26268v1)** | 2025-10-30 | <details><summary>NeurI...</summary><p>NeurIPS 2025 spotlight</p></details> |
-| **[SPARKE: Scalable Prompt-Aware Diversity and Novelty Guidance in Diffusion Models via RKE Score](http://arxiv.org/abs/2506.10173v2)** | 2025-10-30 |  |
-| **[Sketch2PoseNet: Efficient and Generalized Sketch to 3D Human Pose Prediction](http://arxiv.org/abs/2510.26196v1)** | 2025-10-30 | SIGGRAPH Asia 2025 |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
