@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 14, 2025
+title: Latest 15 Papers - November 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -7,114 +7,114 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Time series classification for varying length series](https://arxiv.org/pdf/1910.04341v1)** | 2019-10-11 | 23 pages |
-| **[Forecasting Hierarchical Time Series](https://arxiv.org/pdf/2210.16969v1)** | 2022-12-27 |  |
-| **[Expressing Multivariate Time Series as Graphs with Time Series Attention Transformer](https://arxiv.org/pdf/2208.09300v1)** | 2022-08-22 | <details><summary>IJCAI...</summary><p>IJCAI'22 WORKSHOP AI4TS: AI FOR TIME SERIES ANALYSIS</p></details> |
-| **[MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data](https://arxiv.org/pdf/2110.14354v1)** | 2021-10-28 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, NeurIPS 2021</p></details> |
-| **[TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis](https://arxiv.org/pdf/2402.16412v2)** | 2025-01-03 | <details><summary>Accep...</summary><p>Accepted to TMLR (12/24), 33 pages. TMLR link: https://openreview.net/pdf?id=QlTLkH6xRC</p></details> |
-| **[Highly comparative time-series analysis: The empirical structure of time series and their methods](https://arxiv.org/pdf/1304.1209v1)** | 2013-05-23 |  |
-| **[Transformers in Time Series: A Survey](https://arxiv.org/pdf/2202.07125v5)** | 2023-05-15 | <details><summary>Accep...</summary><p>Accepted by 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023). 9 pages. The first work to comprehensively and systematically summarize time series Transformers. The GitHub repository is https://github.com/qingsongedu/time-series-transformers-review</p></details> |
-| **[Forecasting with time series imaging](https://arxiv.org/pdf/1904.08064v3)** | 2020-07-21 |  |
-| **[Time series conditional extremes](https://arxiv.org/pdf/2303.04447v1)** | 2023-03-09 |  |
-| **[Respecting Time Series Properties Makes Deep Time Series Forecasting Perfect](https://arxiv.org/pdf/2207.10941v1)** | 2022-07-25 |  |
-| **[Series Saliency: Temporal Interpretation for Multivariate Time Series Forecasting](https://arxiv.org/pdf/2012.09324v1)** | 2020-12-18 |  |
-| **[catch22: CAnonical Time-series CHaracteristics](https://arxiv.org/pdf/1901.10200v2)** | 2019-02-05 |  |
-| **[Autoregressive with Slack Time Series Model for Forecasting a Partially-Observed Dynamical Time Series](https://arxiv.org/pdf/2306.16593v2)** | 2024-02-12 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, accepted to IEEE Access</p></details> |
-| **[Random Matrix Time Series](https://arxiv.org/pdf/2203.12789v1)** | 2023-08-07 | 15 pages |
-| **[Error-bounded Approximate Time Series Joins Using Compact Dictionary Representations of Time Series](https://arxiv.org/pdf/2112.12965v2)** | 2023-11-07 |  |
+| **[Querying Labeled Time Series Data with Scenario Programs](https://arxiv.org/abs/2511.10627v1)** | 2025-11-13 |  |
+| **[Weak Relation Enforcement for Kinematic-Informed Long-Term Stock Prediction with Artificial Neural Networks](https://arxiv.org/abs/2511.10494v1)** | 2025-11-13 |  |
+| **[Continuum Dropout for Neural Differential Equations](https://arxiv.org/abs/2511.10446v1)** | 2025-11-13 |  |
+| **[Unlocking Dynamic Inter-Client Spatial Dependencies: A Federated Spatio-Temporal Graph Learning Method for Traffic Flow Forecasting](https://arxiv.org/abs/2511.10434v1)** | 2025-11-13 |  |
+| **[ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset](https://arxiv.org/abs/2509.04449v2)** | 2025-11-13 |  |
+| **[Fault Detection in Solar Thermal Systems using Probabilistic Reconstructions](https://arxiv.org/abs/2511.10296v1)** | 2025-11-13 |  |
+| **[Prediction of linear fractional stable motions using codifference, with application to non-Gaussian rough volatility](https://arxiv.org/abs/2507.15437v2)** | 2025-11-13 |  |
+| **[Beyond MSE: Ordinal Cross-Entropy for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2511.10200v1)** | 2025-11-13 |  |
+| **[DenoGrad: Deep Gradient Denoising Framework for Enhancing the Performance of Interpretable AI Models](https://arxiv.org/abs/2511.10161v1)** | 2025-11-13 |  |
+| **[On the Estimation of Climate Normals and Anomalies](https://arxiv.org/abs/2511.05071v2)** | 2025-11-13 |  |
+| **[RI-Loss: A Learnable Residual-Informed Loss for Time Series Forecasting](https://arxiv.org/abs/2511.10130v1)** | 2025-11-13 |  |
+| **[Intilligence Foundation Model: A New Perspective to Approach Artificial General Intelligence](https://arxiv.org/abs/2511.10119v1)** | 2025-11-13 |  |
+| **[Information Capacity: Evaluating the Efficiency of Large Language Models via Text Compression](https://arxiv.org/abs/2511.08066v3)** | 2025-11-13 | <details><summary>Code:...</summary><p>Code: https://github.com/TeleAI-AI-Flow/InformationCapacity. Data: https://huggingface.co/datasets/TeleAI-AI-Flow/InformationCapacity</p></details> |
+| **[Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective](https://arxiv.org/abs/2510.14510v3)** | 2025-11-13 |  |
+| **[Towards Non-Stationary Time Series Forecasting with Temporal Stabilization and Frequency Differencing](https://arxiv.org/abs/2511.08229v3)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 
 ## Spatio Temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Spatio-Temporal Graph Scattering Transform](https://arxiv.org/pdf/2012.03363v3)** | 2021-02-10 | 18 pages, ICLR 2021 |
-| **[A Survey on Spatio-temporal Data Analytics Systems](https://arxiv.org/pdf/2103.09883v1)** | 2021-03-19 |  |
-| **[Spatio-Temporal Graph Unlearning](https://arxiv.org/pdf/2511.09404v1)** | 2025-11-13 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 4 tables</p></details> |
-| **[Spatio-Temporal Functional Neural Networks](https://arxiv.org/pdf/2009.05665v1)** | 2020-09-15 | <details><summary>Accep...</summary><p>Accepted by 2020 IEEE International Conference on Data Science and Advanced Analytics (DSAA)</p></details> |
-| **[UrbanGPT: Spatio-Temporal Large Language Models](https://arxiv.org/pdf/2403.00813v3)** | 2024-05-21 | <details><summary>Accep...</summary><p>Accepted by KDD'2024 as Full Paper</p></details> |
-| **[Spatio-temporal Diffusion Point Processes](https://arxiv.org/pdf/2305.12403v2)** | 2023-06-27 | Accepted by KDD23 |
-| **[Robust and Conjugate Spatio-Temporal Gaussian Processes](https://arxiv.org/pdf/2502.02450v2)** | 2025-05-29 |  |
-| **[EasyST: A Simple Framework for Spatio-Temporal Prediction](https://arxiv.org/pdf/2409.06748v1)** | 2024-09-12 | <details><summary>Accep...</summary><p>Accepted by CIKM'2024, full paper</p></details> |
-| **[Spatio-Temporal Meta Contrastive Learning](https://arxiv.org/pdf/2310.17678v1)** | 2023-10-30 | <details><summary>32nd ...</summary><p>32nd ACM International Conference on Information and Knowledge Management (CIKM' 23)</p></details> |
-| **[STACI: Spatio-Temporal Aleatoric Conformal Inference](https://arxiv.org/pdf/2505.21658v2)** | 2025-10-27 |  |
-| **[Spatio-temporal networks: reachability, centrality and robustness](https://arxiv.org/pdf/1506.00627v2)** | 2016-07-05 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 3 tables</p></details> |
-| **[Identifying Spatio-Temporal Drivers of Extreme Events](https://arxiv.org/pdf/2410.24075v1)** | 2024-11-01 | <details><summary>Accep...</summary><p>Accepted at the 38th Conference on Neural Information Processing Systems (NeurIPS 2024)</p></details> |
-| **[Spatio-Temporal Data Mining: A Survey of Problems and Methods](https://arxiv.org/pdf/1711.04710v2)** | 2017-11-20 | <details><summary>Accep...</summary><p>Accepted for publication at ACM Computing Surveys</p></details> |
-| **[Spatio-temporal count autoregression](https://arxiv.org/pdf/2404.02982v4)** | 2024-11-14 | <details><summary>24 pa...</summary><p>24 pages, 16 figures and 22 tables</p></details> |
-| **[AutoSTL: Automated Spatio-Temporal Multi-Task Learning](https://arxiv.org/pdf/2304.09174v1)** | 2023-04-20 |  |
+| **[Unlocking Dynamic Inter-Client Spatial Dependencies: A Federated Spatio-Temporal Graph Learning Method for Traffic Flow Forecasting](https://arxiv.org/abs/2511.10434v1)** | 2025-11-13 |  |
+| **[Xiaoice: Training-Free Video Understanding via Self-Supervised Spatio-Temporal Clustering of Semantic Features](https://arxiv.org/abs/2510.16781v2)** | 2025-11-13 | <details><summary>This ...</summary><p>This paper is being withdrawn because we have identified a significant error in the implementation of our self-supervised clustering approach. Specifically, our feature aggregation step inadvertently leaked temporal information across frames, which violates the core assumption of our training-free method. We sincerely apologize to the research community</p></details> |
+| **[TubeRMC: Tube-conditioned Reconstruction with Mutual Constraints for Weakly-supervised Spatio-Temporal Video Grounding](https://arxiv.org/abs/2511.10241v1)** | 2025-11-13 |  |
+| **[Dolphin: An Actor-Oriented Database for Reactive Moving Object Data Management](https://arxiv.org/abs/2511.10063v1)** | 2025-11-13 |  |
+| **[DarkFarseer: Robust Spatio-temporal Kriging under Graph Sparsity and Noise](https://arxiv.org/abs/2501.02808v2)** | 2025-11-13 | Accepted by AAAI'26 |
+| **[Modeling Spatio-Temporal Transport: From Rigid Advection to Realistic Dynamics](https://arxiv.org/abs/2303.02756v3)** | 2025-11-13 |  |
+| **[Local Interaction Autoregressive Model for High Dimension Time Series Data](https://arxiv.org/abs/2511.09542v1)** | 2025-11-12 |  |
+| **[Spatio-Temporal Graph Unlearning](https://arxiv.org/abs/2511.09404v1)** | 2025-11-12 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 4 tables</p></details> |
+| **[ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow](https://arxiv.org/abs/2505.01288v3)** | 2025-11-12 |  |
+| **[Strategic Coordination of Drones via Short-term Distributed Optimization and Long-term Reinforcement Learning](https://arxiv.org/abs/2311.09852v8)** | 2025-11-12 | <details><summary>23 pa...</summary><p>23 pages, 16 figures, accepted by Applied Soft Computing</p></details> |
+| **[FsimNNs: An Open-Source Graph Neural Network Platform for SEU Simulation-based Fault Injection](https://arxiv.org/abs/2511.09131v1)** | 2025-11-12 |  |
+| **[Spatio-Temporal Data Enhanced Vision-Language Model for Traffic Scene Understanding](https://arxiv.org/abs/2511.08978v1)** | 2025-11-12 |  |
+| **[M3-Net: A Cost-Effective Graph-Free MLP-Based Model for Traffic Prediction](https://arxiv.org/abs/2508.08543v3)** | 2025-11-12 |  |
+| **[MicroEvoEval: A Systematic Evaluation Framework for Image-Based Microstructure Evolution Prediction](https://arxiv.org/abs/2511.08955v1)** | 2025-11-12 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[Expand Your SCOPE: Semantic Cognition over Potential-Based Exploration for Embodied Visual Navigation](https://arxiv.org/abs/2511.08935v1)** | 2025-11-12 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Time Series Imputation](https://arxiv.org/pdf/1903.09732v1)** | 2019-03-26 | <details><summary>Maste...</summary><p>Master paper, draft to be submitted</p></details> |
-| **[NRTSI: Non-Recurrent Time Series Imputation](https://arxiv.org/pdf/2102.03340v3)** | 2021-05-28 | <details><summary>Codes...</summary><p>Codes available at https://github.com/lupalab/NRTSI</p></details> |
-| **[Continuous-time Autoencoders for Regular and Irregular Time Series Imputation](https://arxiv.org/pdf/2312.16581v3)** | 2024-06-25 | <details><summary>Publi...</summary><p>Published as a WSDM'24 full paper (oral presentation)</p></details> |
-| **[TSI-Bench: Benchmarking Time Series Imputation](https://arxiv.org/pdf/2406.12747v2)** | 2024-11-01 |  |
-| **[Temporal Wasserstein Imputation: A Versatile Method for Time Series Imputation](https://arxiv.org/pdf/2411.02811v3)** | 2025-08-15 |  |
-| **[ImputeGAP: A Comprehensive Library for Time Series Imputation](https://arxiv.org/pdf/2503.15250v1)** | 2025-03-20 |  |
-| **[BRITS: Bidirectional Recurrent Imputation for Time Series](https://arxiv.org/pdf/1805.10572v1)** | 2018-05-29 |  |
-| **[Impute With Confidence: A Framework for Uncertainty Aware Multivariate Time Series Imputation](https://arxiv.org/pdf/2507.09353v1)** | 2025-07-15 |  |
-| **[Probabilistic Imputation for Time-series Classification with Missing Data](https://arxiv.org/pdf/2308.06738v1)** | 2023-08-15 |  |
-| **[Imputation with Inter-Series Information from Prototypes for Irregular Sampled Time Series](https://arxiv.org/pdf/2401.07249v1)** | 2024-01-17 |  |
-| **[Time-series imputation using low-rank matrix completion](https://arxiv.org/pdf/2408.02594v1)** | 2024-08-06 | 12 pages, 6 figures |
-| **[Data-Driven Copy-Paste Imputation for Energy Time Series](https://arxiv.org/pdf/2101.01423v1)** | 2021-08-11 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, submitted to IEEE Transactions on Smart Grid, the first two authors equally contributed to this work</p></details> |
-| **[Comparison of different Methods for Univariate Time Series Imputation in R](https://arxiv.org/pdf/1510.03924v1)** | 2015-10-15 |  |
-| **[SAITS: Self-Attention-based Imputation for Time Series](https://arxiv.org/pdf/2202.08516v5)** | 2023-07-06 | <details><summary>This ...</summary><p>This paper has been published in the journal Expert Systems with Applications. The DOI link is https://doi.org/10.1016/j.eswa.2023.119619/</p></details> |
-| **[Time Series Data Imputation: A Survey on Deep Learning Approaches](https://arxiv.org/pdf/2011.11347v1)** | 2020-11-24 |  |
+| **[CSAI: Conditional Self-Attention Imputation for Healthcare Time-series](https://arxiv.org/abs/2312.16713v5)** | 2025-11-11 |  |
+| **[IBMA: An Imputation-Based Mixup Augmentation Using Self-Supervised Learning for Time Series Data](https://arxiv.org/abs/2511.07930v1)** | 2025-11-11 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 1 table, accepted at the AAAI2025 conference</p></details> |
+| **[Beyond Observations: Reconstruction Error-Guided Irregularly Sampled Time Series Representation Learning](https://arxiv.org/abs/2511.06854v1)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling](https://arxiv.org/abs/2507.13207v3)** | 2025-11-08 | <details><summary>10th ...</summary><p>10th Workshop on Advanced Analytics and Learning on Temporal Data (AALTD), ECML 2025</p></details> |
+| **[Are Time-Indexed Foundation Models the Future of Time Series Imputation?](https://arxiv.org/abs/2511.05980v1)** | 2025-11-08 |  |
+| **[HAGI++: Head-Assisted Gaze Imputation and Generation](https://arxiv.org/abs/2511.02468v1)** | 2025-11-04 | <details><summary>Exten...</summary><p>Extended version of our UIST'25 paper "HAGI: Head-Assisted Gaze Imputation for Mobile Eye Trackers"</p></details> |
+| **[Revisiting Multivariate Time Series Forecasting with Missing Values](https://arxiv.org/abs/2509.23494v2)** | 2025-11-03 |  |
+| **[An Interdisciplinary and Cross-Task Review on Missing Data Imputation](https://arxiv.org/abs/2511.01196v1)** | 2025-11-03 |  |
+| **[Closing Gaps: An Imputation Analysis of ICU Vital Signs](https://arxiv.org/abs/2510.24217v1)** | 2025-10-28 | Preprint |
+| **[CPSLint: A Domain-Specific Language Providing Data Validation and Sanitisation for Industrial Cyber-Physical Systems](https://arxiv.org/abs/2510.18651v1)** | 2025-10-21 |  |
+| **[Unlocking the Power of Mixture-of-Experts for Task-Aware Time Series Analytics](https://arxiv.org/abs/2509.22279v2)** | 2025-10-20 |  |
+| **[Spatiotemporal Besov Priors for Bayesian Inverse Problems](https://arxiv.org/abs/2306.16378v3)** | 2025-10-17 | 64 pages, 17 figures |
+| **[Extending Prediction-Powered Inference through Conformal Prediction](https://arxiv.org/abs/2510.16166v1)** | 2025-10-17 |  |
+| **[CauchyNet: Compact and Data-Efficient Learning using Holomorphic Activation Functions](https://arxiv.org/abs/2510.10195v1)** | 2025-10-11 |  |
+| **[CarbonX: An Open-Source Tool for Computational Decarbonization Using Time Series Foundation Models](https://arxiv.org/abs/2510.01521v2)** | 2025-10-10 | <details><summary>Updat...</summary><p>Update: Corrected PDF rendering error on page 10 (caption of Figure 5 was previously overlapping with paper text)</p></details> |
 
 ## Irregular Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Continuous Time Evidential Distributions for Irregular Time Series](https://arxiv.org/pdf/2307.13503v1)** | 2023-07-26 | <details><summary>ICML ...</summary><p>ICML 2023 Workshop on Interpretable Machine Learning in Healthcare. Code is available at https://github.com/twkillian/EDICT</p></details> |
-| **[Stop&Hop: Early Classification of Irregular Time Series](https://arxiv.org/pdf/2208.09795v1)** | 2022-08-23 | <details><summary>This ...</summary><p>This paper was accepted to CIKM'22. Code at https://github.com/thartvigsen/StopAndHop</p></details> |
-| **[Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series](https://arxiv.org/pdf/2506.10412v4)** | 2025-10-16 | <details><summary>This ...</summary><p>This paper has been accepted by the NeurIPS 2025 Datasets and Benchmarks Track</p></details> |
-| **[Warpformer: A Multi-scale Modeling Approach for Irregular Clinical Time Series](https://arxiv.org/pdf/2306.09368v1)** | 2023-06-19 | KDD23 Research Track |
-| **[Continuous-Time Linear Positional Embedding for Irregular Time Series Forecasting](https://arxiv.org/pdf/2409.20092v1)** | 2024-10-01 |  |
-| **[Improved Batching Strategy For Irregular Time-Series ODE](https://arxiv.org/pdf/2207.05708v1)** | 2022-07-13 | 10 pages, 3 figures |
-| **[ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling](https://arxiv.org/pdf/2402.10635v1)** | 2024-02-19 | Neurips 2023 Poster |
-| **[Time Series Data Cleaning with Regular and Irregular Time Intervals](https://arxiv.org/pdf/2004.08284v3)** | 2020-06-09 |  |
-| **[An Adversarial Learning Approach to Irregular Time-Series Forecasting](https://arxiv.org/pdf/2411.19341v1)** | 2024-12-02 | <details><summary>Accep...</summary><p>Accepted to AdvML-Frontiers Workshop @ NeurIPS 2024</p></details> |
-| **[AutoFITS: Automatic Feature Engineering for Irregular Time Series](https://arxiv.org/pdf/2112.14806v1)** | 2022-01-03 |  |
-| **[Two-Stage Aggregation with Dynamic Local Attention for Irregular Time Series](https://arxiv.org/pdf/2311.07744v2)** | 2024-04-26 | <details><summary>A sho...</summary><p>A short version of this paper has been accepted for presentation at the Findings of Machine Learning for Health (ML4H) 2023 conference</p></details> |
-| **[EMIT- Event-Based Masked Auto Encoding for Irregular Time Series](https://arxiv.org/pdf/2409.16554v2)** | 2024-10-16 | <details><summary>Accep...</summary><p>Accepted at ICDM 2024</p></details> |
-| **[Irregularity-Informed Time Series Analysis: Adaptive Modelling of Spatial and Temporal Dynamics](https://arxiv.org/pdf/2410.12257v1)** | 2024-10-17 |  |
-| **[PIETS: Parallelised Irregularity Encoders for Forecasting with Heterogeneous Time-Series](https://arxiv.org/pdf/2110.00071v2)** | 2021-10-07 | Accepted to ICDM2021 |
-| **[MedFuse: Multiplicative Embedding Fusion For Irregular Clinical Time Series](https://arxiv.org/pdf/2511.09247v1)** | 2025-11-13 |  |
+| **[Continuum Dropout for Neural Differential Equations](https://arxiv.org/abs/2511.10446v1)** | 2025-11-13 |  |
+| **[MedFuse: Multiplicative Embedding Fusion For Irregular Clinical Time Series](https://arxiv.org/abs/2511.09247v1)** | 2025-11-12 |  |
+| **[Rotary Masked Autoencoders are Versatile Learners](https://arxiv.org/abs/2505.20535v2)** | 2025-11-08 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Camera Ready</p></details> |
+| **[MedM2T: A MultiModal Framework for Time-Aware Modeling with Electronic Health Record and Electrocardiogram Data](https://arxiv.org/abs/2510.27321v1)** | 2025-10-31 | <details><summary>This ...</summary><p>This preprint version of the manuscript has been submitted to the IEEE Journal of Biomedical and Health Informatics (JBHI) for review. The implementation of MedM2T is available at https://github.com/DHLab-TSENG/MedM2T</p></details> |
+| **[Unbiased likelihood estimation of the Langevin diffusion for animal movement modelling](https://arxiv.org/abs/2510.24539v1)** | 2025-10-28 |  |
+| **[Mixing It Up: Exploring Mixer Networks for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2502.11816v2)** | 2025-10-27 |  |
+| **[Log Neural Controlled Differential Equations: The Lie Brackets Make a Difference](https://arxiv.org/abs/2402.18512v4)** | 2025-10-23 | 23 pages, 5 figures |
+| **[MIRA: Medical Time Series Foundation Model for Real-World Health Data](https://arxiv.org/abs/2506.07584v5)** | 2025-10-23 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Main Conference</p></details> |
+| **[Leveraging Sidewalk Robots for Walkability-Related Analyses](https://arxiv.org/abs/2507.12148v2)** | 2025-10-23 |  |
+| **[SynTSBench: Rethinking Temporal Pattern Learning in Deep Learning Models for Time Series](https://arxiv.org/abs/2510.20273v1)** | 2025-10-23 | NeurIPS 2025 |
+| **[A Climate-Aware Deep Learning Framework for Generalizable Epidemic Forecasting](https://arxiv.org/abs/2510.19611v1)** | 2025-10-22 |  |
+| **[Still Competitive: Revisiting Recurrent Models for Irregular Time Series Prediction](https://arxiv.org/abs/2510.16161v1)** | 2025-10-17 |  |
+| **[Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series](https://arxiv.org/abs/2506.10412v4)** | 2025-10-15 | <details><summary>This ...</summary><p>This paper has been accepted by the NeurIPS 2025 Datasets and Benchmarks Track</p></details> |
+| **[Learning Representations of Event Time Series with Sparse Autoencoders for Anomaly Detection, Similarity Search, and Unsupervised Classification](https://arxiv.org/abs/2507.11620v2)** | 2025-10-11 | <details><summary>Accep...</summary><p>Accepted at the 2025 ICML Workshop on Machine Learning for Astrophysics, Code available at: https://github.com/StevenDillmann/ml-xraytransients-mnras</p></details> |
+| **[A Diffusion Model for Regular Time Series Generation from Irregular Data with Completion and Masking](https://arxiv.org/abs/2510.06699v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025; The first two authors contributed equally and are co-leading authors</p></details> |
 
 ## Diffusion Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Blurring Diffusion Models](https://arxiv.org/pdf/2209.05557v3)** | 2024-05-02 |  |
-| **[Diffusion Explorer: Interactive Exploration of Diffusion Models](https://arxiv.org/pdf/2507.01178v2)** | 2025-07-08 |  |
-| **[Generative Modeling with Diffusion](https://arxiv.org/pdf/2412.10948v2)** | 2025-06-13 | <details><summary>17 pa...</summary><p>17 pages with 6 figures</p></details> |
-| **[Q-Diffusion: Quantizing Diffusion Models](https://arxiv.org/pdf/2302.04304v3)** | 2023-06-09 | <details><summary>The c...</summary><p>The code is available at https://github.com/Xiuyu-Li/q-diffusion</p></details> |
-| **[Mirror Diffusion Models](https://arxiv.org/pdf/2308.06342v2)** | 2023-08-21 |  |
-| **[Continuous Diffusion Model for Language Modeling](https://arxiv.org/pdf/2502.11564v2)** | 2025-10-24 | NeurIPS 2025 |
-| **[Diffusion Models in Vision: A Survey](https://arxiv.org/pdf/2209.04747v6)** | 2025-01-17 | <details><summary>Accep...</summary><p>Accepted in IEEE Transactions on Pattern Analysis and Machine Intelligence. 25 pages, 3 figures</p></details> |
-| **[Renormalizing Diffusion Models](https://arxiv.org/pdf/2308.12355v2)** | 2023-09-07 | <details><summary>69+15...</summary><p>69+15 pages, 8 figures; v2: figure and references added, typos corrected</p></details> |
-| **[Non-Uniform Diffusion Models](https://arxiv.org/pdf/2207.09786v1)** | 2022-07-21 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2111.13606</p></details> |
-| **[Diffusion Models are Evolutionary Algorithms](https://arxiv.org/pdf/2410.02543v2)** | 2024-10-07 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 2 tables</p></details> |
-| **[On Memorization in Diffusion Models](https://arxiv.org/pdf/2310.02664v2)** | 2025-02-21 | TMLR 2025 |
-| **[Decentralized Diffusion Models](https://arxiv.org/pdf/2501.05450v2)** | 2025-01-13 | <details><summary>Proje...</summary><p>Project webpage: https://decentralizeddiffusion.github.io/</p></details> |
-| **[Dynamical Diffusion: Learning Temporal Dynamics with Diffusion Models](https://arxiv.org/pdf/2503.00951v1)** | 2025-03-04 | ICLR 2025 Accepted |
-| **[Bellman Diffusion Models](https://arxiv.org/pdf/2407.12163v2)** | 2025-11-04 |  |
-| **[On the Generalization of Diffusion Model](https://arxiv.org/pdf/2305.14712v1)** | 2023-05-25 |  |
+| **[One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models](https://arxiv.org/abs/2511.10629v1)** | 2025-11-13 |  |
+| **[A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space](https://arxiv.org/abs/2511.10555v1)** | 2025-11-13 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 5 tables</p></details> |
+| **[Towards Consistent and Efficient Dataset Distillation via Diffusion-Driven Selection](https://arxiv.org/abs/2412.09959v4)** | 2025-11-13 |  |
+| **[Enhanced Privacy Leakage from Noise-Perturbed Gradients via Gradient-Guided Conditional Diffusion Models](https://arxiv.org/abs/2511.10423v1)** | 2025-11-13 |  |
+| **[Diffusion annealed Langevin dynamics: a theoretical study](https://arxiv.org/abs/2511.10406v1)** | 2025-11-13 |  |
+| **[nuPlan-R: A Closed-Loop Planning Benchmark for Autonomous Driving via Reactive Multi-Agent Simulation](https://arxiv.org/abs/2511.10403v1)** | 2025-11-13 | 8 pages, 3 figures |
+| **[GrounDiff: Diffusion-Based Ground Surface Generation from Digital Surface Models](https://arxiv.org/abs/2511.10391v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at WACV 2026</p></details> |
+| **[Simulating Misinformation Propagation in Social Networks using Large Language Models](https://arxiv.org/abs/2511.10384v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to CIKM 2025 Workshop LASS</p></details> |
+| **[Operator Models for Continuous-Time Offline Reinforcement Learning](https://arxiv.org/abs/2511.10383v1)** | 2025-11-13 |  |
+| **[SphereDiff: Tuning-free 360° Static and Dynamic Panorama Generation via Spherical Latent Representation](https://arxiv.org/abs/2504.14396v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Oral)</p></details> |
+| **[LiNeXt: Revisiting LiDAR Completion with Efficient Non-Diffusion Architectures](https://arxiv.org/abs/2511.10209v1)** | 2025-11-13 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, Accepted to AAAI 2026</p></details> |
+| **[Fractional neural attention for efficient multiscale sequence processing](https://arxiv.org/abs/2511.10208v1)** | 2025-11-13 |  |
+| **[BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion](https://arxiv.org/abs/2508.08241v4)** | 2025-11-13 | <details><summary>Proje...</summary><p>Project page: https://beyondmimic.github.io/</p></details> |
+| **[LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization](https://arxiv.org/abs/2505.23740v3)** | 2025-11-13 | <details><summary>Proje...</summary><p>Project Page: https://layerpeeler.github.io/</p></details> |
+| **[RAGFort: Dual-Path Defense Against Proprietary Knowledge Base Extraction in Retrieval-Augmented Generation](https://arxiv.org/abs/2511.10128v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 Conference</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Factor Graph Neural Network](https://arxiv.org/pdf/1906.00554v1)** | 2019-06-04 |  |
-| **[Neural Graph Machines: Learning Neural Networks Using Graphs](https://arxiv.org/pdf/1703.04818v1)** | 2017-03-16 | 9 pages |
-| **[Graph Neural Networks for Learning Equivariant Representations of Neural Networks](https://arxiv.org/pdf/2403.12143v3)** | 2024-07-24 | <details><summary>In IC...</summary><p>In ICLR 2024. Source code: https://github.com/mkofinas/neural-graphs</p></details> |
-| **[Superhypergraph Neural Networks and Plithogenic Graph Neural Networks: Theoretical Foundations](https://arxiv.org/pdf/2412.01176v1)** | 2025-05-26 | 77 pages; 3 figures |
-| **[Graph Structure of Neural Networks](https://arxiv.org/pdf/2007.06559v2)** | 2020-08-28 | <details><summary>ICML ...</summary><p>ICML 2020, with open-source code</p></details> |
-| **[Customized Graph Neural Networks](https://arxiv.org/pdf/2005.12386v2)** | 2021-12-15 |  |
-| **[Graph Neural Networks for Small Graph and Giant Network Representation Learning: An Overview](https://arxiv.org/pdf/1908.00187v1)** | 2019-09-30 | <details><summary>30 pa...</summary><p>30 pages. arXiv admin note: text overlap with arXiv:1908.00187</p></details> |
-| **[On Node Features for Graph Neural Networks](https://arxiv.org/pdf/1911.08795v1)** | 2019-11-21 |  |
-| **[Graph Neural Processes: Towards Bayesian Graph Neural Networks](https://arxiv.org/pdf/1902.10042v2)** | 2019-10-03 |  |
-| **[Spatio-Temporal Graph Neural Networks: A Survey](https://arxiv.org/pdf/2301.10569v2)** | 2023-02-14 |  |
-| **[Graph Neural Networks: Taxonomy, Advances and Trends](https://arxiv.org/pdf/2012.08752v4)** | 2022-02-28 | 55 pages, 7 figures |
-| **[Graph Coordinates and Conventional Neural Networks -- An Alternative for Graph Neural Networks](https://arxiv.org/pdf/2312.01342v1)** | 2024-04-19 | <details><summary>This ...</summary><p>This paper is submitted and will be published on Big Data Conference 2023, Data-driven Science for Graphs: Algorithms, Architectures, and Application workshop</p></details> |
-| **[Quantum Graph Neural Networks](https://arxiv.org/pdf/1909.12264v1)** | 2019-09-27 | 8 pages |
-| **[Inferring the Graph Structure of Images for Graph Neural Networks](https://arxiv.org/pdf/2509.04677v1)** | 2025-09-08 |  |
-| **[Graph Rewriting for Graph Neural Networks](https://arxiv.org/pdf/2305.18632v1)** | 2023-05-31 | <details><summary>Origi...</summary><p>Originally submitted to ICGT 2023, part of STAF Conferences</p></details> |
+| **[DESS: DeBERTa Enhanced Syntactic-Semantic Aspect Sentiment Triplet Extraction](https://arxiv.org/abs/2511.10577v1)** | 2025-11-13 | <details><summary>15 pa...</summary><p>15 pages, 2 figures. Published in Proceedings of the 17th International Conference on Computational Collective Intelligence (ICCCI 2025), Lecture Notes in Artificial Intelligence, Springer</p></details> |
+| **[GraphFaaS: Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection](https://arxiv.org/abs/2511.10554v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by ML For Systems workshop at Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[Enhanced Structured Lasso Pruning with Class-wise Information](https://arxiv.org/abs/2502.09125v2)** | 2025-11-13 | 11 pages, 3 figures |
+| **[Strategic Opponent Modeling with Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling](https://arxiv.org/abs/2511.10501v1)** | 2025-11-13 | 26 pages |
+| **[On Stealing Graph Neural Network Models](https://arxiv.org/abs/2511.07170v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
+| **[FastGraph: Optimized GPU-Enabled Algorithms for Fast Graph Building and Message Passing](https://arxiv.org/abs/2511.10442v1)** | 2025-11-13 |  |
+| **[Efficient quantification on large-scale networks](https://arxiv.org/abs/2503.15267v2)** | 2025-11-13 | Published version |
+| **[Enhancing Logical Expressiveness in Graph Neural Networks via Path-Neighbor Aggregation](https://arxiv.org/abs/2511.07994v2)** | 2025-11-13 |  |
+| **[DarkFarseer: Robust Spatio-temporal Kriging under Graph Sparsity and Noise](https://arxiv.org/abs/2501.02808v2)** | 2025-11-13 | Accepted by AAAI'26 |
+| **[SVD-NO: Learning PDE Solution Operators with SVD Integral Kernels](https://arxiv.org/abs/2511.10025v1)** | 2025-11-13 | AAAI-26 |
+| **[GraphSB: Boosting Imbalanced Node Classification on Graphs through Structural Balance](https://arxiv.org/abs/2511.10022v1)** | 2025-11-13 |  |
+| **[AI-Integrated Decision Support System for Real-Time Market Growth Forecasting and Multi-Source Content Diffusion Analytics](https://arxiv.org/abs/2511.09962v1)** | 2025-11-13 |  |
+| **[AdaptViG: Adaptive Vision GNN with Exponential Decay Gating](https://arxiv.org/abs/2511.09942v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted in 2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2026)</p></details> |
+| **[ScaleDL: Towards Scalable and Efficient Runtime Prediction for Distributed Deep Learning Workloads](https://arxiv.org/abs/2511.04162v2)** | 2025-11-13 |  |
+| **[Interpretable Neural ODEs for Gene Regulatory Network Discovery under Perturbations](https://arxiv.org/abs/2501.02409v5)** | 2025-11-12 |  |
 
