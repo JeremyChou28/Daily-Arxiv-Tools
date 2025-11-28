@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 27, 2025
+title: Latest 15 Papers - November 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Qwen3-VL Technical Report](https://arxiv.org/abs/2511.21631v1)** | 2025-11-26 | 42 pages |
 | **[Multivariate Spatio-temporal Modelling for Completing Cancer Registries and Forecasting Incidence](https://arxiv.org/abs/2507.21714v2)** | 2025-11-26 | 37 pages |
 | **[Machine Learning Approaches to Clinical Risk Prediction: Multi-Scale Temporal Alignment in Electronic Health Records](https://arxiv.org/abs/2511.21561v1)** | 2025-11-26 | 5 pages, 3 figures |
 | **[Context-Specific Causal Graph Discovery with Unobserved Contexts: Non-Stationarity, Regimes and Spatio-Temporal Patterns](https://arxiv.org/abs/2511.21537v1)** | 2025-11-26 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[TiCT: A Synthetically Pre-Trained Foundation Model for Time Series Classification](https://arxiv.org/abs/2511.19694v2)** | 2025-11-26 |  |
 | **[Long-Term Alzheimers Disease Prediction: A Novel Image Generation Method Using Temporal Parameter Estimation with Normal Inverse Gamma Distribution on Uneven Time Series](https://arxiv.org/abs/2511.21057v1)** | 2025-11-26 | 13pages, 6 figures |
 | **[Prediction of Herd Life in Dairy Cows Using Multi-Head Attention Transformers](https://arxiv.org/abs/2511.21034v1)** | 2025-11-26 |  |
-| **[Transfer entropy for finite data](https://arxiv.org/abs/2506.16215v3)** | 2025-11-26 | <details><summary>Added...</summary><p>Added link to code at https://github.com/aleckirkley/Reduced-Transfer-Entropy</p></details> |
 
 ## Spatio Temporal
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,11 @@ labels: documentation
 ## Diffusion Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Canvas-to-Image: Compositional Image Generation with Multimodal Controls](https://arxiv.org/abs/2511.21691v1)** | 2025-11-26 | <details><summary>24 pa...</summary><p>24 pages; webpage: https://snap-research.github.io/canvas-to-image/</p></details> |
+| **[Mechanisms of Non-Monotonic Scaling in Vision Transformers](https://arxiv.org/abs/2511.21635v1)** | 2025-11-26 | <details><summary>16 pa...</summary><p>16 pages total (11 pages main text, 1 pages references, 4 pages appendix), 5 figures, 11 tables. Code available at https://github.com/AnanthaPadmanaban-KrishnaKumar/Cliff-Plateau-Climb</p></details> |
+| **[Diffusion Models at the Drug Discovery Frontier: A Review on Generating Small Molecules versus Therapeutic Peptides](https://arxiv.org/abs/2511.00209v2)** | 2025-11-26 | Published in Biology |
+| **[TAB-DRW: A DFT-based Robust Watermark for Generative Tabular Data](https://arxiv.org/abs/2511.21600v1)** | 2025-11-26 |  |
+| **[MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training](https://arxiv.org/abs/2511.21592v1)** | 2025-11-26 |  |
 | **[Model-Based Policy Adaptation for Closed-Loop End-to-End Autonomous Driving](https://arxiv.org/abs/2511.21584v1)** | 2025-11-26 | <details><summary>Publi...</summary><p>Published at NeurIPS 2025: https://openreview.net/forum?id=4OLbpaTKJe</p></details> |
 | **[Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy](https://arxiv.org/abs/2511.21579v1)** | 2025-11-26 |  |
 | **[Sequence-Adaptive Video Prediction in Continuous Streams using Diffusion Noise Optimization](https://arxiv.org/abs/2511.18255v2)** | 2025-11-26 |  |
@@ -93,11 +98,6 @@ labels: documentation
 | **[Comparison of Generative Learning Methods for Turbulence Surrogates](https://arxiv.org/abs/2411.16417v3)** | 2025-11-26 |  |
 | **[Odin: Oriented Dual-module Integration for Text-rich Network Representation Learning](https://arxiv.org/abs/2511.21416v1)** | 2025-11-26 | 32 pages, 2 figures |
 | **[DiverseVAR: Balancing Diversity and Quality of Next-Scale Visual Autoregressive Models](https://arxiv.org/abs/2511.21415v1)** | 2025-11-26 |  |
-| **[Differentiable Physics-Neural Models enable Learning of Non-Markovian Closures for Accelerated Coarse-Grained Physics Simulations](https://arxiv.org/abs/2511.21369v1)** | 2025-11-26 |  |
-| **[Generating Separated Singing Vocals Using a Diffusion Model Conditioned on Music Mixtures](https://arxiv.org/abs/2511.21342v1)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted for publication at WASPAA 2025</p></details> |
-| **[Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models](https://arxiv.org/abs/2511.21338v1)** | 2025-11-26 |  |
-| **[Learning Individual Behavior in Agent-Based Models with Graph Diffusion Networks](https://arxiv.org/abs/2505.21426v2)** | 2025-11-26 |  |
-| **[Unsupervised Segmentation by Diffusing, Walking and Cutting](https://arxiv.org/abs/2412.04678v2)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted to The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
