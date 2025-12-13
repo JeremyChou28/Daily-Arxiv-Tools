@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 12, 2025
+title: Latest 15 Papers - December 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-Driven Composite Neural Architecture Search for Multi-Source RL State Encoding](https://arxiv.org/abs/2512.06982v2)** | 2025-12-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning</p></details> |
+| **[UrbanAI 2025 Challenge: Linear vs Transformer Models for Long-Horizon Exogenous Temperature Forecasting](https://arxiv.org/abs/2512.10866v1)** | 2025-12-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop UrbanAI</p></details> |
 | **[HAROOD: A Benchmark for Out-of-distribution Generalization in Sensor-based Human Activity Recognition](https://arxiv.org/abs/2512.10807v1)** | 2025-12-11 | 18 pages |
 | **[Potential Landscapes Reveal Spatiotemporal Structure in Urban Mobility: Hodge Decomposition and Principal Component Analysis of Tokyo Before and During COVID-19](https://arxiv.org/abs/2505.20929v4)** | 2025-12-11 |  |
 | **[New Methods for Network Count Time Series](https://arxiv.org/abs/2312.01944v2)** | 2025-12-11 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Mitigating Exposure Bias in Risk-Aware Time Series Forecasting with Soft Tokens](https://arxiv.org/abs/2512.10056v1)** | 2025-12-10 |  |
 | **[DB2-TransF: All You Need Is Learnable Daubechies Wavelets for Time Series Forecasting](https://arxiv.org/abs/2512.10051v1)** | 2025-12-10 |  |
 | **[Beyond prewhitening: detection of gravity modes and their period spacings in slowly pulsating B stars using the multitaper F-test](https://arxiv.org/abs/2512.10019v1)** | 2025-12-10 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 2 tables (plus 11 pages of figures in Appendix), Submitted to A&A</p></details> |
-| **[Supervised learning pays attention](https://arxiv.org/abs/2512.09912v1)** | 2025-12-10 |  |
-| **[Text-Trained LLMs Can Zero-Shot Extrapolate PDE Dynamics, Revealing a Three-Stage In-Context Learning Mechanism](https://arxiv.org/abs/2509.06322v2)** | 2025-12-10 |  |
 
 ## Spatio Temporal
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,11 @@ labels: documentation
 ## Diffusion Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration](https://arxiv.org/abs/2512.10954v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Page: https://sichengmo.github.io/GroupDiff/</p></details> |
+| **[AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation](https://arxiv.org/abs/2512.10943v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/Video-AlcheMinT/snap-research.github.io/Video-AlcheMinT</p></details> |
+| **[OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis](https://arxiv.org/abs/2512.10940v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/OmniView/</p></details> |
+| **[If generative AI is the answer, what is the question?](https://arxiv.org/abs/2509.06120v2)** | 2025-12-11 | <details><summary>To ap...</summary><p>To appear as a book chapter in a Springer book titled "Statistical Foundations and Applications of Artificial Intelligence, Machine Learning and Deep Learning" and edited by S. Ejaz Ahmed, Pierre Alquier, Yi Li, Shuangge Ma</p></details> |
+| **[Guided Transfer Learning for Discrete Diffusion Models](https://arxiv.org/abs/2512.10877v1)** | 2025-12-11 | <details><summary>7 pag...</summary><p>7 pages (main text) + appendix</p></details> |
 | **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v1)** | 2025-12-11 |  |
 | **[CAPTAIN: Semantic Feature Injection for Memorization Mitigation in Text-to-Image Diffusion Models](https://arxiv.org/abs/2512.10655v1)** | 2025-12-11 |  |
 | **[Unleashing Degradation-Carrying Features in Symmetric U-Net: Simpler and Stronger Baselines for All-in-One Image Restoration](https://arxiv.org/abs/2512.10581v1)** | 2025-12-11 |  |
@@ -93,11 +98,6 @@ labels: documentation
 | **[Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation](https://arxiv.org/abs/2512.03040v2)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page at https://xizaoqu.github.io/video4spatial/</p></details> |
 | **[Diffusion differentiable resampling](https://arxiv.org/abs/2512.10401v1)** | 2025-12-11 |  |
 | **[Toward a Unified Geometry Understanding: Riemannian Diffusion Framework for Graph Generation and Prediction](https://arxiv.org/abs/2510.04522v2)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[Breaking the Vicious Cycle: Coherent 3D Gaussian Splatting from Sparse and Motion-Blurred Views](https://arxiv.org/abs/2512.10369v1)** | 2025-12-11 | 20 pages, 14 figures |
-| **[Zero-shot Adaptation of Stable Diffusion via Plug-in Hierarchical Degradation Representation for Real-World Super-Resolution](https://arxiv.org/abs/2512.10340v1)** | 2025-12-11 |  |
-| **[Guiding What Not to Generate: Automated Negative Prompting for Text-Image Alignment](https://arxiv.org/abs/2512.07702v2)** | 2025-12-11 | WACV 2026 |
-| **[RectifiedHR: High-Resolution Diffusion via Energy Profiling and Adaptive Guidance Scheduling](https://arxiv.org/abs/2507.09441v2)** | 2025-12-11 | <details><summary>8 Pag...</summary><p>8 Pages, 10 Figures, Pre-Print Version, This version is under review for citation accuracy</p></details> |
-| **[$\mathrm{D}^\mathrm{3}$-Predictor: Noise-Free Deterministic Diffusion for Dense Prediction](https://arxiv.org/abs/2512.07062v2)** | 2025-12-11 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
