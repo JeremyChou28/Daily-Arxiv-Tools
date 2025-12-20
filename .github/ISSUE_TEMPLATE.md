@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 19, 2025
+title: Latest 15 Papers - December 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Spatio Temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Memory-Enhanced SAM3 for Occlusion-Robust Surgical Instrument Segmentation](https://arxiv.org/abs/2512.16880v1)** | 2025-12-18 | Under Review |
 | **[Pattern recognition in complex systems via vector-field representations of spatio-temporal data](https://arxiv.org/abs/2512.16763v1)** | 2025-12-18 | 24 pages, 10 figures |
 | **[Quantile-based causal inference for spatio-temporal processes: Assessing the impacts of wildfires on US air quality](https://arxiv.org/abs/2512.16603v1)** | 2025-12-18 |  |
 | **[CRONOS: Continuous Time Reconstruction for 4D Medical Longitudinal Series](https://arxiv.org/abs/2512.16577v1)** | 2025-12-18 | <details><summary>https...</summary><p>https://github.com/MIC-DKFZ/Longitudinal4DMed</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Few-Shot Inference of Human Perceptions of Robot Performance in Social Navigation Scenarios](https://arxiv.org/abs/2512.16019v1)** | 2025-12-17 |  |
 | **[Uncovering Alzheimer's Disease Progression via SDE-based Spatio-Temporal Graph Deep Learning on Longitudinal Brain Networks](https://arxiv.org/abs/2509.21735v2)** | 2025-12-17 |  |
 | **[A Spatio-Temporal Machine Learning Model for Mortgage Credit Risk: Default Probabilities and Loan Portfolios](https://arxiv.org/abs/2410.02846v3)** | 2025-12-17 |  |
-| **[R4: Retrieval-Augmented Reasoning for Vision-Language Models in 4D Spatio-Temporal Space](https://arxiv.org/abs/2512.15940v1)** | 2025-12-17 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,7 @@ labels: documentation
 ## Diffusion Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Instant Expressive Gaussian Head Avatar via 3D-Aware Expression Distillation](https://arxiv.org/abs/2512.16893v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project website is https://research.nvidia.com/labs/amri/projects/instant4d</p></details> |
 | **[Diffusion-Based Restoration for Multi-Modal 3D Object Detection in Adverse Weather](https://arxiv.org/abs/2512.13107v2)** | 2025-12-18 |  |
 | **[Four-hour thunderstorm nowcasting using a deep diffusion model of satellite data](https://arxiv.org/abs/2404.10512v5)** | 2025-12-18 |  |
 | **[REGLUE Your Latents with Global and Local Semantics for Entangled Diffusion](https://arxiv.org/abs/2512.16636v1)** | 2025-12-18 |  |
@@ -97,7 +98,6 @@ labels: documentation
 | **[Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods](https://arxiv.org/abs/2502.01384v3)** | 2025-12-18 | <details><summary>33 pa...</summary><p>33 pages, 8 figures, 8 tables</p></details> |
 | **[WildFit: Autonomous In-situ Model Adaptation for Resource-Constrained IoT Systems](https://arxiv.org/abs/2409.07796v4)** | 2025-12-18 | <details><summary>Accep...</summary><p>Accepted by ACM SenSys 2026</p></details> |
 | **[$\mathrm{D}^\mathrm{3}$-Predictor: Noise-Free Deterministic Diffusion for Dense Prediction](https://arxiv.org/abs/2512.07062v3)** | 2025-12-18 |  |
-| **[ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search](https://arxiv.org/abs/2511.06833v2)** | 2025-12-18 | AAAI26 poster |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
