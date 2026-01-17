@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 16, 2026
+title: Latest 15 Papers - January 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -83,6 +83,8 @@ labels: documentation
 ## Diffusion Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[High-accuracy and dimension-free sampling with diffusions](https://arxiv.org/abs/2601.10708v1)** | 2026-01-15 |  |
+| **[Controllable Financial Market Generation with Diffusion Guided Meta Agent](https://arxiv.org/abs/2408.12991v3)** | 2026-01-15 | <details><summary>To ap...</summary><p>To appear in The Fortieth AAAI Conference on Artificial Intelligence (AAAI-26 Oral)</p></details> |
 | **[CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos](https://arxiv.org/abs/2601.10632v1)** | 2026-01-15 | <details><summary>Proje...</summary><p>Project Page: https://igl-hkust.github.io/CoMoVi/</p></details> |
 | **[Continuous Diffusion for Mixed-Type Tabular Data](https://arxiv.org/abs/2312.10431v6)** | 2026-01-15 | <details><summary>publi...</summary><p>published at ICLR 2025</p></details> |
 | **[Tuning-Free Adaptive Style Incorporation for Structure-Consistent Text-Driven Style Transfer](https://arxiv.org/abs/2404.06835v2)** | 2026-01-15 |  |
@@ -96,8 +98,6 @@ labels: documentation
 | **[3D Wavelet-Based Structural Priors for Controlled Diffusion in Whole-Body Low-Dose PET Denoising](https://arxiv.org/abs/2601.07093v2)** | 2026-01-15 | 10 pages |
 | **[Beyond Inpainting: Unleash 3D Understanding for Precise Camera-Controlled Video Generation](https://arxiv.org/abs/2601.10214v1)** | 2026-01-15 |  |
 | **[Fine-Tuning Diffusion Models via Intermediate Distribution Shaping](https://arxiv.org/abs/2510.02692v2)** | 2026-01-15 |  |
-| **[End-to-End PET Image Reconstruction via a Posterior-Mean Diffusion Model](https://arxiv.org/abs/2503.08546v2)** | 2026-01-15 | 5 pages, 1 figure |
-| **[Diffusion-based Frameworks for Unsupervised Speech Enhancement](https://arxiv.org/abs/2601.09931v1)** | 2026-01-14 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
