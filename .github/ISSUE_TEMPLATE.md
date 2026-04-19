@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 17, 2026
+title: Latest 15 Papers - April 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
