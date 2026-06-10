@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 09, 2026
+title: Latest 15 Papers - June 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -7,25 +7,33 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TSseek: Regular Expression-Based Similarity Search for Distributed Time Series Datasets](https://arxiv.org/abs/2606.09824v1)** | 2026-06-08 | <details><summary>Exten...</summary><p>Extended version with full ablation studies and additional experiments</p></details> |
-| **[Zero Touch Predictive Orchestration: Automating Time-Series Models for the Cloud-Edge Continuum](https://arxiv.org/abs/2606.09787v1)** | 2026-06-08 | 19 pages, 14 figures |
-| **[FMplex: Model Virtualization for Serving Extensible Foundation Models](https://arxiv.org/abs/2606.09643v1)** | 2026-06-08 |  |
-| **[A Model Selection Criterion for Multidimensional Gaussian Processes: Application to Radial Velocities](https://arxiv.org/abs/2606.04875v2)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted for publication in MNRAS letters</p></details> |
-| **[Report the Floor: A Training-Free Conformal Interval Is a Mandatory Baseline for Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2606.09473v1)** | 2026-06-08 |  |
-| **[In-Context Learning of Stochastic Differential Equations with Foundation Inference Models](https://arxiv.org/abs/2502.19049v3)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. The previous version appeared under the title "Foundation Inference Models for Stochastic Differential Equations: A Transformer-based Approach for Zero-shot Function Estimation."</p></details> |
-| **[One Transit Is All You Need: Detecting Exoplanets Through Learned Stellar Behaviour with EXOVEIL](https://arxiv.org/abs/2606.02778v2)** | 2026-06-08 | <details><summary>v2: A...</summary><p>v2: Adds gap-proximity vetting (45% of candidates flagged as near-gap), head-to-head TLS comparison in monotransit mode, and new headline candidate KIC 12253350 replacing KIC 11706231. ~9 pages, 6 figures, 4 tables. pip install exoveil (v0.2.0)</p></details> |
-| **[Vision-Based Early Fault Diagnosis and Self-Recovery for Strawberry Harvesting Robots](https://arxiv.org/abs/2601.02085v3)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted by Artificial Intelligence in Agriculture</p></details> |
-| **[Towards personalised intervention: A causal-dynamical framework to determine psychological treatment trajectories](https://arxiv.org/abs/2606.09283v1)** | 2026-06-08 |  |
-| **[Reverse Stress Testing for Multivariate Scenarios: A Conditional Framework for Stressed Time Series](https://arxiv.org/abs/2606.09274v1)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 2 tables</p></details> |
-| **[Rivaling Transformers: Multi-Scale Structured State-Space Mixtures for Agentic 6G O-RAN](https://arxiv.org/abs/2510.05255v2)** | 2026-06-08 | <details><summary>12 pa...</summary><p>12 pages, 2 Figures, 5 Tables</p></details> |
-| **[VFEM: Visual Feature Empowered Multivariate Time Series Forecasting with Cross-Modal Fusion](https://arxiv.org/abs/2510.03244v2)** | 2026-06-08 |  |
-| **[TRIAGE: Dialectical Reasoning for Explainable Risk Prediction on Irregularly Sampled Medical Time Series with LLMs](https://arxiv.org/abs/2606.09030v1)** | 2026-06-08 | <details><summary>Code ...</summary><p>Code is available at https://github.com/HyeongWon-Jang/TRIAGE</p></details> |
-| **[PAI: Preserving Amplitude Information in Representation-Based Time-Series Anomaly Detection](https://arxiv.org/abs/2606.08935v1)** | 2026-06-08 | 15 pages |
-| **[Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook](https://arxiv.org/abs/2310.10196v3)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted by ACM Computing Surveys; 35 Pages; Github Repo: https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM</p></details> |
+| **[Falcon-X: A Time Series Foundation Model for Heterogeneous Multivariate Modeling](https://arxiv.org/abs/2605.27286v2)** | 2026-06-09 |  |
+| **[CITRAS: Covariate-Informed Transformer for Time Series Forecasting](https://arxiv.org/abs/2503.24007v4)** | 2026-06-09 |  |
+| **[Leave a Window Out: Modifying the Jackknife for Predictive Inference in Time Series](https://arxiv.org/abs/2605.30292v2)** | 2026-06-09 | 40 pages, 8 figures |
+| **[CITRAS-FM: Tiny Time Series Foundation Model for Covariate-Informed Zero-Shot Forecasting](https://arxiv.org/abs/2606.10798v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to EUSIPCO 2026</p></details> |
+| **[MemCast: Memory-Driven Time Series Forecasting with Experience-Conditioned Reasoning](https://arxiv.org/abs/2602.03164v2)** | 2026-06-09 |  |
+| **[Structural Under-Representation of Women in News: Nonparametric Bayesian Mixtures Capture Time-Dependent Dynamics](https://arxiv.org/abs/2606.10772v1)** | 2026-06-09 |  |
+| **[SRT: Super-Resolution for Time Series via Disentangled Rectified Flow](https://arxiv.org/abs/2606.07605v2)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to the International Conference on Learning Representations (ICLR) 2026</p></details> |
+| **[AnomaMind: Agentic Time Series Anomaly Detection with Tool-Augmented Reasoning](https://arxiv.org/abs/2602.13807v2)** | 2026-06-09 |  |
+| **[One Step Closer to Ground Truth: A Multi-Scale Residual-Aware Representation Learning Pipeline for Predicting Time Series Data](https://arxiv.org/abs/2606.10678v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '26)</p></details> |
+| **[Reconstructing OPC UA Address Spaces from Time-Series Databases](https://arxiv.org/abs/2606.10663v1)** | 2026-06-09 | <details><summary>5 pag...</summary><p>5 pages, 1 figure. Author's accepted version of a paper accepted at AI4IP 2026 (workshop at DEXA2026); to appear in Springer Communications in Computer and Information Science (CCIS)</p></details> |
+| **[Interpretable deep convolutional model for nonlinear multivariate time series in complex systems](https://arxiv.org/abs/2501.04339v2)** | 2026-06-09 | 40 pages, 13 figures |
+| **[CAMASA: A CAM-based Dataset from the MASA Living Lab](https://arxiv.org/abs/2606.10641v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted for publication at the IEEE 2026 Vehicular Technology Conference (VTC2026-Fall). Dataset will be available at netlab.unimore.it/MASA</p></details> |
+| **[Is Fairness Truly Fair? Towards Reliable Lipschitz Fairness in Multi-Task Learning via Fixed-\texorpdfstring{$δ$}{delta} Alignment](https://arxiv.org/abs/2606.10632v1)** | 2026-06-09 |  |
+| **[Embedding Hybrid Systems into Continuous Latent Vector Fields](https://arxiv.org/abs/2606.10596v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[Dirichlet-Guided Group Forecasting for Alleviating Over-smoothing in Time Series Forecasting](https://arxiv.org/abs/2606.10592v1)** | 2026-06-09 |  |
 
 ## Spatio Temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SARA: Semantically Adaptive Relational Alignment for Video Diffusion Models](https://arxiv.org/abs/2605.07800v2)** | 2026-06-09 |  |
+| **[A Systematic Approach for Selecting Trajectories for Data Augmentation](https://arxiv.org/abs/2606.10938v1)** | 2026-06-09 | <details><summary>39 pa...</summary><p>39 pages, 4 figures, Masters project</p></details> |
+| **[Spatio-Temporal Attention Graph Neural Network: Explaining Causalities With Attention](https://arxiv.org/abs/2603.10676v2)** | 2026-06-09 | 33 pages, 7 figures |
+| **[ManiSplat: Manipulation Trajectory Synthesis from Monocular Video via Decoupled 3D Gaussian Splatting](https://arxiv.org/abs/2606.10645v1)** | 2026-06-09 |  |
+| **[Efficient RWKV-based Representation Learning for 3D Point Clouds](https://arxiv.org/abs/2606.10395v1)** | 2026-06-09 |  |
+| **[Isolation-aware Scheduling Framework for DNN-based End-to-End Autonomous Driving System on Tile-based Accelerators](https://arxiv.org/abs/2606.10303v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Computers</p></details> |
+| **[Structured Adaptive Tensor Prediction for Streaming Data](https://arxiv.org/abs/2606.10085v1)** | 2026-06-08 |  |
+| **[Deep Generative Model for Human Mobility Behavior](https://arxiv.org/abs/2510.06473v3)** | 2026-06-08 |  |
 | **[Hybrid Robustness Verification for Spatio-Temporal Neural Networks](https://arxiv.org/abs/2606.09746v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted at the 9th International Symposium on AI Verification (SAIV 2026)</p></details> |
 | **[AeroMesa: Efficient Data Management System for Multi-Dimensional Spatio-Temporal Trajectories](https://arxiv.org/abs/2606.09581v1)** | 2026-06-08 | <details><summary>13pag...</summary><p>13pages (main text + references), 15 figures</p></details> |
 | **[Efficient Traffic Prediction at Scale: A Systematic Study of STGCN Architectural Depth](https://arxiv.org/abs/2606.09539v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE ITSC (2026)</p></details> |
@@ -33,14 +41,6 @@ labels: documentation
 | **[A Baseline Study and Benchmark for Few-Shot Open-Set Action Recognition with Feature Residual Discrimination](https://arxiv.org/abs/2603.04125v2)** | 2026-06-08 |  |
 | **[From Coarse to Fine: Managing Temporal Granularity in Spatio-Temporal Data for Fine-Grained Traffic Prediction](https://arxiv.org/abs/2606.09392v1)** | 2026-06-08 |  |
 | **[IB-HFN: Information Bottleneck-Driven SAR-Optical Fusion Network for High-Fidelity Cloud Removal](https://arxiv.org/abs/2606.09347v1)** | 2026-06-08 |  |
-| **[CardioMorphNet: Cardiac Motion Prediction Using a Shape-Guided Bayesian Recurrent Deep Network](https://arxiv.org/abs/2508.20734v2)** | 2026-06-08 | <details><summary>Publi...</summary><p>Published in Medical Image Analysis. Updated to match the final published version</p></details> |
-| **[SOMA: From Surface Observations to Muscle Anatomy](https://arxiv.org/abs/2606.09246v1)** | 2026-06-08 |  |
-| **[Crop Recommendation and Agricultural Query Answering System Using Spatio-Temporal Graph Neural Networks and Hybrid Retrieval Augmentation](https://arxiv.org/abs/2606.09160v1)** | 2026-06-08 | 11 pages, 8 figures |
-| **[Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook](https://arxiv.org/abs/2310.10196v3)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted by ACM Computing Surveys; 35 Pages; Github Repo: https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM</p></details> |
-| **[Decentralized End-to-End Multi-AAV Pursuit Using Predictive Spatio-Temporal Observation via Deep Reinforcement Learning](https://arxiv.org/abs/2603.24238v2)** | 2026-06-07 |  |
-| **[Towards Long-Horizon Vessel Trajectory and Destination Forecasting with Reasoning Large Language Models](https://arxiv.org/abs/2606.08633v1)** | 2026-06-07 | <details><summary>The I...</summary><p>The IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026, Naples, Italy</p></details> |
-| **[OmniCap-IF: Benchmarking and Improving Instruction Following Abilities for Omni-Video Captioning](https://arxiv.org/abs/2606.08572v1)** | 2026-06-07 |  |
-| **[STELLAR: Spatio-Temporal Environmental Learning with Latent Alignment and Refinement for Long-Tailed Species Distribution Modeling](https://arxiv.org/abs/2606.08484v1)** | 2026-06-07 | Accept by IJCAI 2026 |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
@@ -83,25 +83,32 @@ labels: documentation
 ## Diffusion Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Latent Spatial Memory for Video World Models](https://arxiv.org/abs/2606.09828v1)** | 2026-06-08 | <details><summary>Proje...</summary><p>Project Page: https://aka.ms/latent-spatial-memory, Code: https://github.com/microsoft/LatentSpatialMemory</p></details> |
-| **[PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws](https://arxiv.org/abs/2606.09816v1)** | 2026-06-08 |  |
-| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
-| **[Evaluating the Representation Space of Diffusion Models via Self-Supervised Principles](https://arxiv.org/abs/2606.09718v1)** | 2026-06-08 | <details><summary>First...</summary><p>First two authors contributed equally. Accepted at ICML 2026</p></details> |
-| **[When Do Diffusion Models learn to Generate Multiple Objects?](https://arxiv.org/abs/2605.00273v2)** | 2026-06-08 | ICML2026 |
-| **[Cranio-Diff: Diffusion-based Cross-domain Craniofacial Reconstruction with 2D X-ray Skull Guidance and Structural Identity Constraints](https://arxiv.org/abs/2606.09699v1)** | 2026-06-08 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, BMVC 2026 conference</p></details> |
-| **[Sampling Out-of-Distribution Chemical Spaces via Bayesian Flow](https://arxiv.org/abs/2412.11439v6)** | 2026-06-08 | <details><summary>35 pa...</summary><p>35 pages, 14 figures, 9 tables</p></details> |
-| **[FlowLet: Conditional 3D Brain MRI Synthesis using Wavelet Flow Matching](https://arxiv.org/abs/2601.05212v2)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted at Medical Image Analysis (Elsevier)</p></details> |
-| **[Exposing Hidden Biases in Text-to-Image Models via Automated Prompt Search](https://arxiv.org/abs/2512.08724v3)** | 2026-06-08 | <details><summary>ICML ...</summary><p>ICML 2026. Code is here: https://github.com/manosplitsis/BGPS</p></details> |
-| **[EditSSC: Toward Editable Semantic Occupancy Scenes with Unconditional Diffusion Models](https://arxiv.org/abs/2606.09273v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 Workshop</p></details> |
-| **[CP4D: Compositional Physics-aware 4D Scene Generation](https://arxiv.org/abs/2606.09187v1)** | 2026-06-08 |  |
-| **[Ultra Flash: Scaling Real-Time Streaming Video Generation to High Resolutions](https://arxiv.org/abs/2606.09150v1)** | 2026-06-08 |  |
-| **[IDEQ -- Improving Diffusion Models for the Traveling Salesman Problem (TSP) by Leveraging the Structure of the Solution Space](https://arxiv.org/abs/2412.13858v2)** | 2026-06-08 |  |
-| **[A Survey on the Applications of Generative Artificial Intelligence in Automated Driving Systems Test Scenario Generation Methods](https://arxiv.org/abs/2512.15422v2)** | 2026-06-08 | 40 pages,7 figures |
-| **[Coarse-to-Fine Hierarchical Alignment for UAV-based Human Detection using Diffusion Models](https://arxiv.org/abs/2512.13869v3)** | 2026-06-08 |  |
+| **[Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization](https://arxiv.org/abs/2606.11180v1)** | 2026-06-09 | <details><summary>Proje...</summary><p>Project Page: https://cvlab-kaist.github.io/LipForcing/</p></details> |
+| **[Data assimilation for subsurface flow using latent diffusion model parameterization: performance of ensemble-Kalman and Monte Carlo techniques](https://arxiv.org/abs/2606.11140v1)** | 2026-06-09 |  |
+| **[SARA: Semantically Adaptive Relational Alignment for Video Diffusion Models](https://arxiv.org/abs/2605.07800v2)** | 2026-06-09 |  |
+| **[Blind denoising diffusion models and the blessings of dimensionality](https://arxiv.org/abs/2602.09639v2)** | 2026-06-09 | <details><summary>39 pa...</summary><p>39 pages, 13 figures; Accepted to ICML 2025 FoGen workshop</p></details> |
+| **[WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](https://arxiv.org/abs/2512.14614v2)** | 2026-06-09 | <details><summary>proje...</summary><p>project page: https://3d-models.hunyuan.tencent.com/world/, demo: https://3d.hunyuan.tencent.com/sceneTo3D, code: https://github.com/Tencent-Hunyuan/HY-WorldPlay</p></details> |
+| **[What Fits (Into Few Tokens) Doesn't Overfit: Compression and Generalization in ML Research Agents](https://arxiv.org/abs/2606.11045v1)** | 2026-06-09 |  |
+| **[Breaking the Curse of Dimensionality: Diffusion Models Efficiently Learn Low-Dimensional Distributions](https://arxiv.org/abs/2409.02426v5)** | 2026-06-09 | <details><summary>37 pa...</summary><p>37 pages, 8 figures, 2 tables</p></details> |
+| **[The Emergence of Reproducibility and Generalizability in Diffusion Models](https://arxiv.org/abs/2310.05264v5)** | 2026-06-09 | <details><summary>NeurI...</summary><p>NeurIPS Diffusion Model Workshop 2023 (best paper award), the Forty-first International Conference on Machine Learning (ICML 2024)</p></details> |
+| **[Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](https://arxiv.org/abs/2512.08280v3)** | 2026-06-09 |  |
+| **[One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation](https://arxiv.org/abs/2503.13358v5)** | 2026-06-09 | ICML-2026 |
+| **[STEDiff: Strengthening Text Embedding for Text-to-Image Alignment in Diffusion Model](https://arxiv.org/abs/2606.10653v1)** | 2026-06-09 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, to appear at IJCNN 2026</p></details> |
+| **[MAD: Manifold Attracted Diffusion](https://arxiv.org/abs/2509.24710v2)** | 2026-06-09 |  |
+| **[Online Self-Training for Co-Adaptation in Hierarchical Diffusion Policies](https://arxiv.org/abs/2603.05291v2)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 Workshop on Decision-Making from Offline Datasets to Online Adaptation (DEMO)</p></details> |
+| **[SSR-Merge: Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models](https://arxiv.org/abs/2606.10617v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Machine Learning Methods for Studying Latent Neural Activity Dynamics](https://arxiv.org/abs/2606.10530v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2026 survey track</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CableRobotGraphSim: A Graph Neural Network for Modeling Partially Observable Cable-Driven Robot Dynamics](https://arxiv.org/abs/2602.21331v2)** | 2026-06-09 |  |
+| **[Non-linear mechanical field reconstruction coupling recurrent neural networks with physics-informed graph neural networks](https://arxiv.org/abs/2606.10909v1)** | 2026-06-09 |  |
+| **[Spatio-Temporal Attention Graph Neural Network: Explaining Causalities With Attention](https://arxiv.org/abs/2603.10676v2)** | 2026-06-09 | 33 pages, 7 figures |
+| **[Boosting Graph Robustness Against Backdoor Attacks: An Over-Similarity Perspective](https://arxiv.org/abs/2502.01272v3)** | 2026-06-09 | <details><summary>After...</summary><p>After discussions with one of the co-authors, it was decided that this version should not be made public at this time. To respect the co-author's perspective and ensure alignment among all authors, I am requesting the withdrawal of this article</p></details> |
+| **[ERAlign: Energy-based Representation Alignment of GNNs and LLMs on Text-attributed Graphs](https://arxiv.org/abs/2606.10461v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[When Design Rules Break: Benchmark Composition Determines Whether Label Informativeness Predicts GNN Aggregator Choice](https://arxiv.org/abs/2606.10249v1)** | 2026-06-08 |  |
+| **[GRAFT: Graphlet-Triggered Backdoor Attack on GNN-Based Hardware Security Systems](https://arxiv.org/abs/2606.10163v1)** | 2026-06-08 |  |
 | **[A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](https://arxiv.org/abs/2602.08785v2)** | 2026-06-08 |  |
 | **[Efficient Traffic Prediction at Scale: A Systematic Study of STGCN Architectural Depth](https://arxiv.org/abs/2606.09539v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE ITSC (2026)</p></details> |
 | **[Graph-to-SFILES: Control structure prediction from process topologies using generative artificial intelligence](https://arxiv.org/abs/2412.00508v2)** | 2026-06-08 |  |
@@ -110,11 +117,4 @@ labels: documentation
 | **[A Survey of Heterogeneous Graph Neural Networks for Cybersecurity Anomaly Detection](https://arxiv.org/abs/2510.26307v3)** | 2026-06-08 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, and 97 references. Accepted by the Journal of Computer Security</p></details> |
 | **[Hyper-Dimensional Fingerprints as Molecular Representations](https://arxiv.org/abs/2604.27810v2)** | 2026-06-08 | <details><summary>Code:...</summary><p>Code: https://doi.org/10.5281/zenodo.19373621</p></details> |
 | **[Crop Recommendation and Agricultural Query Answering System Using Spatio-Temporal Graph Neural Networks and Hybrid Retrieval Augmentation](https://arxiv.org/abs/2606.09160v1)** | 2026-06-08 | 11 pages, 8 figures |
-| **[Causal Representation Learning from Network Data](https://arxiv.org/abs/2509.01916v2)** | 2026-06-08 | 19 pages, 8 figures |
-| **[CTS-Bench: Benchmarking Graph Coarsening Trade-offs for GNNs in Clock Tree Synthesis](https://arxiv.org/abs/2602.19330v2)** | 2026-06-07 | <details><summary>Accep...</summary><p>Accepted to ML Bench'26 ASPLOS</p></details> |
-| **[FusionVul: A Multimodal Feature Fusion Framework for Source Code Vulnerability Detection](https://arxiv.org/abs/2606.08553v1)** | 2026-06-07 | <details><summary>Accep...</summary><p>Accepted by The Journal of Systems and Software</p></details> |
-| **[What Makes a Desired Graph for Relational Deep Learning?](https://arxiv.org/abs/2606.08491v1)** | 2026-06-07 | <details><summary>This ...</summary><p>This article has been accepted by ICML 2026</p></details> |
-| **[The Confidence Trap: Calibration Attacks for Graph Neural Networks](https://arxiv.org/abs/2606.08467v1)** | 2026-06-07 |  |
-| **[GeoGNN: Time Series Geo-Localization using Two-Tower Graph Neural Networks](https://arxiv.org/abs/2606.08303v1)** | 2026-06-06 |  |
-| **[Mesh Graph Neural Network Framework for Accelerating Finite Element Simulation for Arbitrary Geometries](https://arxiv.org/abs/2606.08287v1)** | 2026-06-06 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, to be published. Code available at https://github.com/Josiah-Kunz/MGN-Public</p></details> |
 
