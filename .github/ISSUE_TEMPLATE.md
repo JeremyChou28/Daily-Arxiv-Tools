@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 04, 2026
+title: Latest 15 Papers - August 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/JeremyChou28/Daily-Arxiv-Tools) page for a better reading experience and more papers.**
@@ -7,25 +7,33 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting](https://arxiv.org/abs/2405.16440v2)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted by Pattern Recognition 2026</p></details> |
+| **[PRISM: Powerful Time Series to Image (TS2I) Representations for Multivariate Anomaly Detection](https://arxiv.org/abs/2608.03926v1)** | 2026-08-04 |  |
+| **[Cross-Country Learning for National Infectious Disease Forecasting Using European Data](https://arxiv.org/abs/2601.20771v2)** | 2026-08-04 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 5 tables</p></details> |
+| **[Amortized Interventional Forecasting for Multivariate CIR Processes](https://arxiv.org/abs/2608.03715v1)** | 2026-08-04 |  |
+| **[POEM: Phase-Aware $\mathrm{SO}(2)$ Feature Rotation for Time Series Forecasting Under Periodicity Drift](https://arxiv.org/abs/2608.03630v1)** | 2026-08-04 | 9 pages, 5 figures |
+| **[NPMixer: Hierarchical Neighboring Patch Mixing for Time Series Forecasting](https://arxiv.org/abs/2605.07476v2)** | 2026-08-04 |  |
+| **[TimeRLM: Recursive Language Models Enable Precise Anomaly Localization in Long-Context Time-Series](https://arxiv.org/abs/2608.03391v1)** | 2026-08-04 | <details><summary>Open ...</summary><p>Open source code and datasets: https://github.com/OpenTSLM/TimeRLM</p></details> |
+| **[FinVerse: Financial Time-Series Benchmark](https://arxiv.org/abs/2608.03259v1)** | 2026-08-04 | 24 pages |
+| **[STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection](https://arxiv.org/abs/2511.15339v3)** | 2026-08-04 | <details><summary>Publi...</summary><p>Published in the proceedings of the 2026 IEEE Intelligent Vehicles Symposium (IV 2026), Detroit, MI, USA, June 22-25, 2026. 8 pages, 4 figures, 4 tables</p></details> |
+| **[E4GEN: Event-level Explainable Extreme-Enhanced Time-series Generation](https://arxiv.org/abs/2606.01634v2)** | 2026-08-04 | 48 pages,26 figures |
+| **[CastFSR: A Fast--Slow--Reflect Agentic Reasoning Framework for Context-Aware Time Series Forecasting](https://arxiv.org/abs/2608.03031v1)** | 2026-08-04 |  |
+| **[MSTAR: Multi-Scale Backbone Architecture Search for Timeseries Classification](https://arxiv.org/abs/2402.13822v2)** | 2026-08-04 | <details><summary>Withd...</summary><p>Withdraw due to the authors do not support the work</p></details> |
+| **[Spectral clustering of network time series via the sample covariance matrix](https://arxiv.org/abs/2608.02922v1)** | 2026-08-03 |  |
 | **[GLAIM: Learning Global and Local Adaptive Inter-Variable Dependency for Multivariate Time Series Imputation](https://arxiv.org/abs/2608.02366v1)** | 2026-08-03 |  |
 | **[Global-Scale Self-Supervised Spatiotemporal Learning for NDVI Time-Series Reconstruction](https://arxiv.org/abs/2608.02322v1)** | 2026-08-03 |  |
-| **[Crossing Margins: Intersectional Users' Ethical Concerns about Software](https://arxiv.org/abs/2410.08090v2)** | 2026-08-03 |  |
-| **[CAPMix: Robust KPI Anomaly Detection for AIOps in Noisy and Dynamic Environments](https://arxiv.org/abs/2509.06419v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted for publication at the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026). \c{opyright} ACM, 2026. This is the author's version of the work. It is posted here by permission of ACM for your personal use. Not for redistribution. The definitive Version of Record will be published by ACM, https://doi.org/10.1145/3832783.3834487</p></details> |
-| **[PyDPF: A Python Package for Differentiable Particle Filtering](https://arxiv.org/abs/2510.25693v3)** | 2026-08-03 | <details><summary>46 pa...</summary><p>46 pages, 0 figures, under review at the Journal of Statistical Software, the python package can be found at https://pypi.org/project/pydpf/ , the full documentation at https://python-dpf.readthedocs.io/en/latest/#documentation-index , and the source code including experiment replication material at https://github.com/John-JoB/pydpf</p></details> |
-| **[AROpt: An Optimization Method for Autoregressive Time Series Forecasting](https://arxiv.org/abs/2602.02288v3)** | 2026-08-03 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 6 tables</p></details> |
-| **[GradientStabilizer:Fix the Norm, Not the Gradient](https://arxiv.org/abs/2502.17055v5)** | 2026-08-03 | Accepted By ICML2026 |
-| **[DeepConvContext: A Multi-Scale Approach to Timeseries Classification in Human Activity Recognition](https://arxiv.org/abs/2505.20894v2)** | 2026-08-03 | 7 pages, 4 figures |
-| **[CARE: A Cascaded Framework for Efficient and Reliable Time Series Anomaly Detection](https://arxiv.org/abs/2608.01885v1)** | 2026-08-03 |  |
-| **[ReasonCast: Towards Explainable Time Series Forecasting with Reasoning](https://arxiv.org/abs/2608.01875v1)** | 2026-08-03 |  |
-| **[Beyond Magnitude and Shape: A Direction-Aware Loss for Time Series Forecasting](https://arxiv.org/abs/2608.01857v1)** | 2026-08-03 |  |
-| **[QARIMA: A Quantum Approach To Classical Time Series Analysis](https://arxiv.org/abs/2604.08277v3)** | 2026-08-03 | <details><summary>17 Al...</summary><p>17 Algorithms, 19 Figures , 26 Tables</p></details> |
-| **[On Multivariate Singular Spectrum Analysis: Tensor and Matrix Variants](https://arxiv.org/abs/2006.13448v6)** | 2026-08-03 |  |
-| **[Evaluating Forecasting Techniques for Hardware Errors on a Large-scale HPC System](https://arxiv.org/abs/2608.01648v1)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at the 7th International Workshop on Monitoring, Observability, and Operational Data Analytics (MODA 2026), held in conjunction with ISC High Performance 2026</p></details> |
-| **[Thermalizing Stochastic Programs](https://arxiv.org/abs/2608.01615v1)** | 2026-08-03 |  |
 
 ## Spatio Temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding](https://arxiv.org/abs/2505.17674v3)** | 2026-08-04 | ICML 2026 Spotlight |
+| **[FedRings: A Scalable and Topology-Aware Federated Learning Framework for LEO Satellite Constellations](https://arxiv.org/abs/2608.03436v1)** | 2026-08-04 |  |
+| **[Hierarchical Constrained Reinforcement Learning with Dynamic Boundary for Spatio-Temporal Vehicle-to-Grid Scheduling](https://arxiv.org/abs/2608.03409v1)** | 2026-08-04 | <details><summary>WAICA...</summary><p>WAICA 2026 Best Student Paper Award Runner-Up</p></details> |
+| **[AS-FedBridge: Pseudo-Spike Bridge Distillation for Heterogeneous ANN-SNN Federated Learning](https://arxiv.org/abs/2608.03324v1)** | 2026-08-04 |  |
+| **[Surface Keypoint Representation for Multi-Object and Articulated Human-Object Interaction Generation](https://arxiv.org/abs/2608.03158v1)** | 2026-08-04 | <details><summary>Proje...</summary><p>Project page: https://neu-vi.github.io/SK-HOI</p></details> |
+| **[GSTEP: Global Spatio-Temporal Density-Driven Visual Token Pruning for Efficient Video Large Language Models](https://arxiv.org/abs/2608.03083v1)** | 2026-08-04 | <details><summary>4 fig...</summary><p>4 figures, accepted to ACM MM 26'</p></details> |
+| **[EmbodiedVAE: Disentangled Video VAE for Efficient and Controllable Embodied Manipulation](https://arxiv.org/abs/2608.02990v1)** | 2026-08-04 | ECCV 2026 |
+| **[Estimating Heterogeneous Treatment Effects for Spatio-Temporal Causal Inference](https://arxiv.org/abs/2412.15128v3)** | 2026-08-03 |  |
 | **[K-STEMIT: Knowledge-Informed Spatio-Temporal Efficient Multi-Branch Graph Neural Network for Subsurface Stratigraphy Thickness Estimation from Radar Data](https://arxiv.org/abs/2604.09922v2)** | 2026-08-03 |  |
 | **[An End-to-End Workflow for Fin Whale Song Detection, Note Characterization, and Localization with Distributed Acoustic Sensing](https://arxiv.org/abs/2608.02387v1)** | 2026-08-03 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 2 tables. Manuscript in preparation for journal submission</p></details> |
 | **[A Spatio-Temporal Model for Information Freshness in Massive Random Access](https://arxiv.org/abs/2608.02286v1)** | 2026-08-03 |  |
@@ -33,14 +41,6 @@ labels: documentation
 | **[STEAM:ASpatio-TEmporal Alignment Mixture-of-Experts Model with Hierarchical Pre-training for EEG Decoding](https://arxiv.org/abs/2608.02070v1)** | 2026-08-03 |  |
 | **[TBSG-Net: Temporal Bipartite Scene Graph Network for Fine-Grained Video Moment Retrieval](https://arxiv.org/abs/2608.02056v1)** | 2026-08-03 |  |
 | **[ASTRA: Asynchronous Spatio-Temporal Reconstruction via Trajectory Alignment](https://arxiv.org/abs/2608.02006v1)** | 2026-08-03 |  |
-| **[Parameter-Dynamic Adaptive Fusion and Calibration Network for RGBT Tracking](https://arxiv.org/abs/2608.01807v1)** | 2026-08-03 | <details><summary>9 pag...</summary><p>9 pages,4 figures; Under review</p></details> |
-| **[On Multivariate Singular Spectrum Analysis: Tensor and Matrix Variants](https://arxiv.org/abs/2006.13448v6)** | 2026-08-03 |  |
-| **[LLM-Driven Automated Reward Design for Reinforcement Learning-Based Routing in LEO Satellite Networks](https://arxiv.org/abs/2608.01649v1)** | 2026-08-03 | <details><summary>This ...</summary><p>This paper was accepted for publication at the IEEE Global Communications Conference (GLOBECOM 2026)</p></details> |
-| **[CRAFT: Compression via Recursive Adaptive Fusion of Video Tokens for Vision-Language Models](https://arxiv.org/abs/2608.01644v1)** | 2026-08-03 | 11 pages, 5 figures |
-| **[VGER: Voxel-Guided Global Event Ranking for Event Cloud Attribution](https://arxiv.org/abs/2608.01470v1)** | 2026-08-02 |  |
-| **[Kernel Regression for Spatial and Spatio-Temporal Residual Risk: Application to School Shootings in the Contiguous United States](https://arxiv.org/abs/2605.30607v2)** | 2026-08-02 | 21 pages, 4 figures |
-| **[NISF++: Geometrically-grounded implicit representations of 3D+time cardiac function from 2D short- and long-axis MR views](https://arxiv.org/abs/2608.00752v1)** | 2026-08-01 |  |
-| **[WiFuse: An Attention Mechanism for Human Activity Recognition using Fused CSI Amplitude and Delay-Doppler Channel Features](https://arxiv.org/abs/2608.00642v1)** | 2026-08-01 | 14 pages, 6 figures |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
@@ -83,25 +83,32 @@ labels: documentation
 ## Diffusion Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling](https://arxiv.org/abs/2608.02602v1)** | 2026-08-03 | <details><summary>40 pa...</summary><p>40 pages, 17tables, project page: https://aurora-lm-project.github.io/</p></details> |
-| **[Pseudorandom Streams within Diffusion Models Act as Learnable Inputs That Affect Generation Quality](https://arxiv.org/abs/2608.02575v1)** | 2026-08-03 | <details><summary>22 pa...</summary><p>22 pages, 6 figures. Code and data are available at https://github.com/happyflatfish/prng-diffusion-learnability</p></details> |
-| **[AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies](https://arxiv.org/abs/2608.02569v1)** | 2026-08-03 |  |
-| **[CDG-MAE: Cross-view Masked Modeling using Diffusion Generated Views](https://arxiv.org/abs/2506.18164v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted to TMLR 2026, Github link: https://github.com/cvlab-stonybrook/CDG-MAE</p></details> |
-| **[EchoCache: Energy-Guided Cross-Modal Caching for Efficient Audio-Driven Video Generation](https://arxiv.org/abs/2608.02474v1)** | 2026-08-03 | <details><summary>EchoC...</summary><p>EchoCache is honored to be accepted by ACM MM 2026</p></details> |
-| **[NetDiff: Graph Diffusion with Improved Global Capabilities to Generate and Update Mobile Network Topologies](https://arxiv.org/abs/2410.08238v2)** | 2026-08-03 |  |
-| **[A Unified Kullback--Leibler Divergence Analysis of Generative Diffusion Models via Entropy Production Rate](https://arxiv.org/abs/2608.02406v1)** | 2026-08-03 | 37 pages, 15 figures |
-| **[Diffusion Policy with Behavioral Advantage Correction for Offline Reinforcement Learning](https://arxiv.org/abs/2608.02332v1)** | 2026-08-03 |  |
-| **[GSRAIN: Physically Calibrated High-/Low-Frequency Rainfall Synthesis for 3D Gaussian Driving Scenes](https://arxiv.org/abs/2608.02177v1)** | 2026-08-03 |  |
-| **[Fourier-Latent Diffusion for Constrained Generation of Triply Periodic Minimal Surfaces](https://arxiv.org/abs/2608.02151v1)** | 2026-08-03 | 11 pages, 16 figures |
-| **[FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring](https://arxiv.org/abs/2607.27110v2)** | 2026-08-03 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/jiatongli2024/FreqForcing</p></details> |
-| **[Dynamic UAV-based search operations using probabilistic diffusion modeling of Man Overboard incident victims](https://arxiv.org/abs/2608.02093v1)** | 2026-08-03 |  |
-| **[Music Restoration via Latent Operator Optimization and Diffusion Model Priors](https://arxiv.org/abs/2608.01972v1)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted to the the 27th International Society for Music Information Retrieval Conference (ISMIR 2026)</p></details> |
-| **[Gimbal360: Canonicalizing Planar Diffusion for Spherical Panorama Completion](https://arxiv.org/abs/2603.23179v2)** | 2026-08-03 | <details><summary>Proje...</summary><p>Project page: https://orange-3dv-team.github.io/Gimbal360</p></details> |
-| **[PartMat: Material-Aware 3D Part Decomposition with a Single Global Latent](https://arxiv.org/abs/2608.01825v1)** | 2026-08-03 |  |
+| **[Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation](https://arxiv.org/abs/2608.03990v1)** | 2026-08-04 | 11 pages, 3 figures |
+| **[Progressive Learning of a Diffusion-based Inpainting Model for Separating Overlapped Fingerprints](https://arxiv.org/abs/2608.03937v1)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted to IJCB 2026</p></details> |
+| **[Latent Reward Registers for Diffusion Preference Alignment](https://arxiv.org/abs/2608.03929v1)** | 2026-08-04 |  |
+| **[T2VAttack: Adversarial Attack on Text-to-Video Diffusion Models](https://arxiv.org/abs/2512.23953v2)** | 2026-08-04 |  |
+| **[Rex: A Family of Reversible Exponential (Stochastic) Runge-Kutta Solvers](https://arxiv.org/abs/2502.08834v5)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted as an Oral presentation at ICML 2026</p></details> |
+| **[On the Geometry of Music Bandwidth Extension in Latent Spaces of Audio Codecs](https://arxiv.org/abs/2608.03721v1)** | 2026-08-04 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 4 tables. Accepted at the 27th International Society for Music Information Retrieval Conference (ISMIR 2026). Companion website: https://ismir26latentgeo.github.io/</p></details> |
+| **[MultiCompose: Multi-Concept Personalized Composition with Per-Subject Attribute Binding](https://arxiv.org/abs/2608.03708v1)** | 2026-08-04 |  |
+| **[CollaFuse: Collaborative Diffusion Models](https://arxiv.org/abs/2406.14429v4)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted at the Journal of Artificial Intelligence Research (JAIR)</p></details> |
+| **[MeSS: City Mesh-Guided Outdoor Scene Generation with Cross-View Consistent Diffusion](https://arxiv.org/abs/2508.15169v4)** | 2026-08-04 |  |
+| **[Divide-and-Conquer: Towards Generalizable Amortized Bayesian Inference for the Drift Diffusion Model](https://arxiv.org/abs/2608.03566v1)** | 2026-08-04 |  |
+| **[S$^3$-Diff: Structural Semantic Synergy Diffusion Model for High Fidelity Super Resolution of Pathological Images](https://arxiv.org/abs/2608.03540v1)** | 2026-08-04 |  |
+| **[HyperbolicDiffusion: Sharp & Scalable Tiled Generation on the Hyperbolic Plane](https://arxiv.org/abs/2608.03422v1)** | 2026-08-04 | <details><summary>Work ...</summary><p>Work in progress. Updated version incoming</p></details> |
+| **[MaterialFusion: High-Quality, Zero-Shot, and Controllable Material Transfer with Diffusion Models](https://arxiv.org/abs/2502.06606v3)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
+| **[Talker-T2AV: Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling](https://arxiv.org/abs/2604.23586v2)** | 2026-08-04 |  |
+| **[SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference](https://arxiv.org/abs/2608.03335v1)** | 2026-08-04 | <details><summary>Publi...</summary><p>Published in the 63rd ACM/IEEE Design Automation Conference (DAC '26). 7 pages, 6 figures, 3 tables</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](https://arxiv.org/abs/2607.03798v2)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 as a spotlight paper with oral presentation</p></details> |
+| **[GORDON: Graph-based Object-centric Rewards for Decomposition of Long-Horizon Manipulation](https://arxiv.org/abs/2608.03753v1)** | 2026-08-04 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, preprint. Project page: https://andreaprotopapa.github.io/graph-reward-learning/</p></details> |
+| **[Learning and Clustering on Temporal Graphs: Principles, Primitives, and Pooling](https://arxiv.org/abs/2608.03696v1)** | 2026-08-04 | <details><summary>4 pag...</summary><p>4 pages, 1 figure. Accepted at ECML PKDD 2026 (Nectar Track)</p></details> |
+| **[Fault Cause Identification across Manufacturing Lines through Ontology-Guided and Process-Aware FMEA Graph Learning with LLMs](https://arxiv.org/abs/2510.15428v2)** | 2026-08-04 |  |
+| **[Learning the Word Problem: Geodesic Lengths and Cryptographic Applications](https://arxiv.org/abs/2607.26241v2)** | 2026-08-04 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 4 tables</p></details> |
+| **[GraphCliff: Short-Long Range Gating for Modeling Critical Activity Changes Caused by Subtle Molecular Differences](https://arxiv.org/abs/2511.03170v3)** | 2026-08-04 | 12 pages |
+| **[Graph Neural Planning and Predictive Control for Multi-Robot Communication-Constrained Unlabeled Motion Planning](https://arxiv.org/abs/2605.19209v2)** | 2026-08-03 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, Accepted at the IEEE International Conference on Robotics and Automation (ICRA) 2026</p></details> |
 | **[Benchmarking Sheaf Neural Networks for Inductive Tasks](https://arxiv.org/abs/2608.02558v1)** | 2026-08-03 |  |
 | **[K-STEMIT: Knowledge-Informed Spatio-Temporal Efficient Multi-Branch Graph Neural Network for Subsurface Stratigraphy Thickness Estimation from Radar Data](https://arxiv.org/abs/2604.09922v2)** | 2026-08-03 |  |
 | **[Network Information Enhances Unreliable News Domain Detection](https://arxiv.org/abs/2608.02399v1)** | 2026-08-03 |  |
@@ -110,11 +117,4 @@ labels: documentation
 | **[KING: Embodiment-Aware Kinematic Graph Neural Network for Unified Motion Representation of Legged and Wheeled Robots](https://arxiv.org/abs/2608.01015v1)** | 2026-08-02 | IROS 2026 |
 | **[Nonlinear Laplacians Improve Signed-Directed Graph Learning](https://arxiv.org/abs/2608.00836v1)** | 2026-08-01 |  |
 | **[Rethinking Federated Graph Foundation Models: A Graph-Language Alignment-based Approach](https://arxiv.org/abs/2601.21369v2)** | 2026-08-01 | Under Review |
-| **[GNN-RSMA: An Interference Management Framework for a Large-Scale HAPS Network](https://arxiv.org/abs/2608.00380v1)** | 2026-08-01 |  |
-| **[Learned, Relied Upon, or Necessary? Separating Checkpoint Dependence from Task-Level Value in Sheaf GNNs](https://arxiv.org/abs/2607.25387v2)** | 2026-07-31 | 23 pages, 4 figures |
-| **[Local-Canonicalization Equivariant Graph Neural Networks for Sample-Efficient and Generalizable Swarm Robot Control](https://arxiv.org/abs/2509.14431v2)** | 2026-07-31 | <details><summary>Accep...</summary><p>Accepted at IROS 2026</p></details> |
-| **[From Physics to Surrogate Intelligence: A Unified Electro-Thermo-Optimization Framework for TSV Networks](https://arxiv.org/abs/2603.29268v3)** | 2026-07-31 | <details><summary>Publi...</summary><p>Published in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD)</p></details> |
-| **[GNN-based Multi-Agent Control of Traffic Shockwaves in Sparse Vehicular Ad-hoc Networks](https://arxiv.org/abs/2607.23792v2)** | 2026-07-31 |  |
-| **[Ordered-to-disordered transfer learning with graph neural networks for formation-energy and HOMO-LUMO gap prediction in high-entropy perovskite oxides](https://arxiv.org/abs/2607.29510v1)** | 2026-07-31 | 19 pages, 9 figures |
-| **[Cross-Resolution Semantic Learning for Graph Domain Adaptation](https://arxiv.org/abs/2607.29365v1)** | 2026-07-31 |  |
 
